@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Able to archive one lead</description>
+   <name>LoginAndArchive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaec5b76-6ca6-49e9-966d-55eb7d9a8fb8</testCaseGuid>
+</TestCaseEntity>

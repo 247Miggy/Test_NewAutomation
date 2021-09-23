@@ -6,12 +6,12 @@
    <elementGuidId>67de1283-6db4-4d68-9713-a120d0207b8f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#dropdownAssignment</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='dropdownAssignment']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dropdownAssignment</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

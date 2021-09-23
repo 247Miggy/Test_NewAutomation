@@ -6,12 +6,12 @@
    <elementGuidId>130d41d0-bd91-4f95-a014-43f5132f3f3f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.ngx-select__item.dropdown-item.ngx-select__item_active.active</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Civil Status'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ngx-select__item.dropdown-item.ngx-select__item_active.active</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

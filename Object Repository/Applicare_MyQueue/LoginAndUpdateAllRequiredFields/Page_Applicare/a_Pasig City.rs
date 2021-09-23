@@ -6,12 +6,12 @@
    <elementGuidId>17db7472-6500-4bbe-837a-5e6bfe0d0558</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.ngx-select__item.dropdown-item.ngx-select__item_active.active</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='City of Residence'])[2]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ngx-select__item.dropdown-item.ngx-select__item_active.active</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

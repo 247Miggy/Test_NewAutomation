@@ -6,12 +6,12 @@
    <elementGuidId>f97d070a-7eac-4a5d-9b67-075a21d43a70</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.ngx-select__placeholder.text-muted</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Civil Status'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ngx-select__placeholder.text-muted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

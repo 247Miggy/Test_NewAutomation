@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding Berlitz Score and status via Rercruiter's Notes</description>
+   <name>LoginAndAddSOPIBerlitzOnNotes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c690f799-3e21-4c1e-b362-82584b4122c5</testCaseGuid>
+</TestCaseEntity>

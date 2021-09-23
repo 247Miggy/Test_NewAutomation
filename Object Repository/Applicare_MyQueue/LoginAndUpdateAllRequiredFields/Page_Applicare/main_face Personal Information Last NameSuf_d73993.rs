@@ -6,12 +6,12 @@
    <elementGuidId>c0c61dd8-227d-4139-b198-e9ae66f1effb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.application-form > main</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Changes'])[1]/following::main[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.application-form > main</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>face Personal Information Last NameSuffixFirst NameMiddle NameBirth DateCivil StatusSingleGender Male  Female Primary Mobile NumberSecondary Mobile NumberPrimary EmailPermanent AddressLot, Block, StreetSubdivision, BarangayCity of ResidencePasig CityPresent AddressLot, Block, StreetSubdivision, BarangayCity of ResidencePasig Cityschool Professional Qualification Educational BackgroundHighest QualificationPost Graduate Diploma / Master's DegreeSchoolAdamson UniversityCourseBS in Information TechnologyDate GraduatedRelevant ExperienceSegmentExperienced Agent (6 months International Call Center)Is Previously Employed Yes  No Has Call Center Experience Yes  No How long? (Cumulative)6 months or lesswork Employment Summary Add Work Experience add Sort by Most Recent keyboard_arrow_downNo Work Experience Recorded.Finalize Assessment Finalize Assessment or Clone to another application </value>
+      <value>face Personal Information Last NameSuffixFirst NameMiddle NameBirth DateCivil StatusSingleGender Male  Female Primary Mobile NumberSecondary Mobile NumberPrimary EmailPermanent AddressLot, Block, StreetSubdivision, BarangayCity of ResidencePasay CityPresent AddressLot, Block, StreetSubdivision, BarangayCity of ResidencePasig Cityschool Professional Qualification Educational BackgroundHighest QualificationBachelor's/College DegreeSchoolAdamson UniversityCourseBS in Information TechnologyDate GraduatedRelevant ExperienceSegmentJob Shifter (from another industry)Is Previously Employed Yes  No Has Call Center Experience Yes  No How long? (Cumulative)Select call center exp...work Employment Summary Add Work Experience add Sort by Most Recent keyboard_arrow_downNo Work Experience Recorded.Finalize Assessment Finalize Assessment or Clone to another application </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

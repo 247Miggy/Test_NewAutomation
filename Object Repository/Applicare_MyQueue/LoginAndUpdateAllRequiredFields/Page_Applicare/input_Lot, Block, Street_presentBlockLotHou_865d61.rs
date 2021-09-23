@@ -6,12 +6,12 @@
    <elementGuidId>be86dc38-dbeb-40e2-b877-c58c668b00f3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;presentBlockLotHouseStreet&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='presentBlockLotHouseStreet']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;presentBlockLotHouseStreet&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

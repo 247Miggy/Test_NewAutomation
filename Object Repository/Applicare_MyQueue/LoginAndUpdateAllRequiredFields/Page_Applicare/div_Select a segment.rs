@@ -6,12 +6,12 @@
    <elementGuidId>f8eaded6-4179-4218-b6a0-1a7a881154a6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>ngx-select[name=&quot;segment&quot;] > div.ngx-select.dropdown > div.ngx-select__selected > div.ngx-select__toggle.btn.form-control</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Segment'])[1]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ngx-select[name=&quot;segment&quot;] > div.ngx-select.dropdown > div.ngx-select__selected > div.ngx-select__toggle.btn.form-control</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

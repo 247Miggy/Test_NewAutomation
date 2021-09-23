@@ -6,12 +6,12 @@
    <elementGuidId>81f207fb-fc73-416b-ac86-84098029b2dd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;permanentSubdivisionBarangay&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='permanentSubdivisionBarangay']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;permanentSubdivisionBarangay&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>72f8890b-16f4-4c30-9e94-f8140a5f442b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.ngx-select__search.form-control</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//input[@type='text'])[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ngx-select__search.form-control</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>043f23f1-790c-450b-a06a-b699279d54d1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.with-icon.ng-untouched.ng-pristine.ng-valid</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.with-icon.ng-untouched.ng-pristine.ng-valid</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

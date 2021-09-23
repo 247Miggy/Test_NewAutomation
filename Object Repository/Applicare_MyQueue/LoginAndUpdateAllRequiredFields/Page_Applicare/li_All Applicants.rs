@@ -6,12 +6,12 @@
    <elementGuidId>de447f2c-88c0-4623-84d2-02df1314edb2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li.dropdown-item</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned to Me'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.dropdown-item</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

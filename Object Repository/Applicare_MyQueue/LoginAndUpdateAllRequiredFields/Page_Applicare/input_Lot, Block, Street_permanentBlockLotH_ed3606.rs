@@ -6,12 +6,12 @@
    <elementGuidId>afa894bc-6027-4470-97b9-cb6908d3a347</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;permanentBlockLotHouseStreet&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='permanentBlockLotHouseStreet']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;permanentBlockLotHouseStreet&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

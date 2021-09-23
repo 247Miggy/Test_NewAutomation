@@ -6,12 +6,12 @@
    <elementGuidId>9f59a7d2-f40d-4620-af3c-3096f5712c42</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-outlined</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-outlined</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
