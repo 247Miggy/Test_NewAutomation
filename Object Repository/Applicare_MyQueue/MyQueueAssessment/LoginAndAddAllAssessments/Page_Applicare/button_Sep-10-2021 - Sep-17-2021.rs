@@ -6,15 +6,19 @@
    <elementGuidId>2a2fdd6d-171e-43c3-b717-f09756467a56</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = ' Sep-10-2021 - Sep-17-2021 ' or . = ' Sep-10-2021 - Sep-17-2021 ')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.btn.btn-outlined</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

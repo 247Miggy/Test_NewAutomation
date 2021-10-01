@@ -6,15 +6,19 @@
    <elementGuidId>d58d34e4-1afa-4be7-8be9-af016a3a671f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='CBI'])[1]/following::mat-icon[1]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'add' or . = 'add')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.btn.btn-primary.btn-icon.mr-2 > mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='CBI'])[1]/following::mat-icon[1]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

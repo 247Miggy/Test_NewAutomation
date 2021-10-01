@@ -6,15 +6,19 @@
    <elementGuidId>00b86985-1767-4560-81a4-0830f24c3782</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep-14-2021 - Sep-21-2021'])[1]/following::mat-icon[1]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'close' or . = 'close')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.btn-group > mat-icon.mat-icon.notranslate.material-icons.mat-icon-inline.mat-icon-no-color</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep-14-2021 - Sep-21-2021'])[1]/following::mat-icon[1]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

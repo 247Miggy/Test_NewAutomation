@@ -35,13 +35,10 @@ WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAs
 
 WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/li_All Applicants'))
 
-WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/button_Sep-10-2021 - Sep-17-2021'))
+WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndViewStatusLogs/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
+    'A20218926733')
 
-WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/button_Sep-10-2021 - Sep-17-2021_btn btn-li_dfb773'))
-
-WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/span_1'))
-
-WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/span_30'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndViewStatusLogs/Page_Applicare/mat-icon_close'))
 
 WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/mat-icon_launch'))
 

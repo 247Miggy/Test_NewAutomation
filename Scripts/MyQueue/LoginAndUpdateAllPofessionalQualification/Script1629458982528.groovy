@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/mat-icon_launch'))
+
 not_run: WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
 
 not_run: WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
@@ -41,8 +43,6 @@ not_run: WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAn
 not_run: WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/li_All Applicants'))
 
 not_run: WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/mat-icon_close'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/mat-icon_launch'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/div_BachelorsCollege Degree'))
 

@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/Login
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRemoveEmploymentSummary/Page_Applicare/button_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRemoveEmploymentSummary/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20217926639')
+    'A20218926732')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRemoveEmploymentSummary/Page_Applicare/button_Assigned to Me'))
 

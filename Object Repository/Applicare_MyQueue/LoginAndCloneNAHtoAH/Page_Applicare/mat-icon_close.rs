@@ -6,6 +6,10 @@
    <elementGuidId>2230234c-c67c-4fbe-a7f4-3261df8fdebc</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'close' or . = 'close')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>div.btn-group > mat-icon.mat-icon.notranslate.material-icons.mat-icon-inline.mat-icon-no-color</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep-10-2021 - Sep-17-2021'])[1]/following::mat-icon[1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

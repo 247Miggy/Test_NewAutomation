@@ -6,15 +6,19 @@
    <elementGuidId>19c21d84-e75a-4033-a4c1-dec1766da650</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @title = 'Previous month']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.btn.btn-link.ngb-dp-arrow-btn</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -40,5 +40,7 @@ WebUI.click(findTestObject('Applicare_MyQueue/LoginAndAccessManageApplication/bu
 
 WebUI.click(findTestObject('Applicare_MyQueue/LoginAndAccessManageApplication/li_All Applicants'))
 
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndAccessExternalLinks/Page_Applicare/mat-icon_close'))
+
 WebUI.click(findTestObject('Applicare_MyQueue/LoginAndAccessManageApplication/mat-icon_launch'))
 
