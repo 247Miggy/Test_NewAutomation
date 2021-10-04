@@ -19,30 +19,30 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/mat-icon_launch'))
+WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
 
-not_run: WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
-not_run: WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
-
-not_run: WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
     'P24717737')
 
-not_run: WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
-not_run: WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
+WebUI.setEncryptedText(findTestObject('Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
     'nB2dBQqcd2EcVwPhuqgMuQ==')
 
-not_run: WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/span_Login'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/span_Login'))
 
-not_run: WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
+WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
     'A20217926638')
 
-not_run: WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/button_Assigned to Me'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/button_Assigned to Me'))
 
-not_run: WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/li_All Applicants'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/li_All Applicants'))
 
-not_run: WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/mat-icon_close'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/mat-icon_close'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/mat-icon_launch'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/div_BachelorsCollege Degree'))
 

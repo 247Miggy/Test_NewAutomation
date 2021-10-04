@@ -6,6 +6,10 @@
    <elementGuidId>3429fb6f-9928-4768-82b4-fb3bf9033d1c</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'check' or . = 'check')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacted Date'])[2]/following::mat-icon[1]</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>div.card-footer > button.btn.btn-icon.btn-primary.mr-3 > mat-icon.mat-icon.notranslate.material-icons.mat-icon-inline.mat-icon-no-color</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
