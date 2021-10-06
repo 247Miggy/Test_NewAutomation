@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Able to select drop down list
+
+* Finalize Assessment and Clone to another Application not included</description>
+   <name>LoginAndView-Select-OnDropDownlist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c28c208d-d25a-4212-a658-cc1dbc839eab</testCaseGuid>
+</TestCaseEntity>

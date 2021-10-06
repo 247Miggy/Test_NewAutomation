@@ -10,11 +10,15 @@
          <value>//div[@id='toast-container']/div</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Archive  Lead 807529 has been Archived. ' or . = ' Archive  Lead 807529 has been Archived. ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>div.ng-tns-c19-0.ng-star-inserted.ng-trigger.ng-trigger-flyInOut.ngx-toastr.toast-success</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

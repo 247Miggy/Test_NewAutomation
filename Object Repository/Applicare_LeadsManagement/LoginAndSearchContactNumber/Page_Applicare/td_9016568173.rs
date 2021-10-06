@@ -10,11 +10,14 @@
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Referral'])[1]/following::td[1]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '9016568173' or . = '9016568173')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

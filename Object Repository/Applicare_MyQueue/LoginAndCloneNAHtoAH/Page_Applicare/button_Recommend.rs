@@ -6,15 +6,19 @@
    <elementGuidId>84406706-6545-417d-bf07-8577b6d9e3d2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-ghost.btn-accent.ml-auto</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[1]/following::button[1]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Recommend ' or . = ' Recommend ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-ghost.btn-accent.ml-auto</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

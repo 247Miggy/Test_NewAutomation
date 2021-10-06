@@ -10,11 +10,14 @@
          <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div[2]/ngb-datepicker-month/div[7]/div[2]/span</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' 31 ' or . = ' 31 ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

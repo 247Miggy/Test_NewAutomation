@@ -10,11 +10,14 @@
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/following::td[2]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Ortil, Gorry  D' or . = 'Ortil, Gorry  D')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -10,11 +10,15 @@
          <value>(//button[@type='button'])[3]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @title = 'Previous month']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>button.btn.btn-link.ngb-dp-arrow-btn</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

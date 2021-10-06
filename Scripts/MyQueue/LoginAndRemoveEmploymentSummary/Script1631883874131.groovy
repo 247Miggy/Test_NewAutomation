@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/Login
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRemoveEmploymentSummary/Page_Applicare/button_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRemoveEmploymentSummary/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20218926732')
+    'A20217926650')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRemoveEmploymentSummary/Page_Applicare/button_Assigned to Me'))
 
@@ -48,5 +48,6 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRemoveEm
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRemoveEmploymentSummary/Page_Applicare/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRemoveEmploymentSummary/Page_Applicare/div_Work experience has been deleted'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRemoveEmploymentSummary/Page_Applicare/div_Work experience has been deleted'), 
+    FailureHandling.CONTINUE_ON_FAILURE)
 

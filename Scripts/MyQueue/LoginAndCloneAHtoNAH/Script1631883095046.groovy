@@ -38,7 +38,7 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHt
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/li_All Applicants'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20217926689')
+    'A20217926653')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/mat-icon_close'))
 
@@ -63,5 +63,6 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHt
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/div_Success  The application has been succe_ca16f8'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/div_Success  The application has been succe_ca16f8'), 
+    FailureHandling.CONTINUE_ON_FAILURE)
 

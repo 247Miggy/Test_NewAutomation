@@ -10,11 +10,15 @@
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Possible Duplicate'])[1]/following::li[1]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Incomplete ' or . = ' Incomplete ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>li.dropdown-item.multi.active</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

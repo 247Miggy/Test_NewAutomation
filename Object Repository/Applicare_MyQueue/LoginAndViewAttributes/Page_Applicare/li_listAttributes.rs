@@ -10,11 +10,14 @@
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessments'])[1]/following::li[1]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'listAttributes' or . = 'listAttributes')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -10,11 +10,15 @@
          <value>(.//*[normalize-space(text()) and normalize-space(.)='My Schedule'])[1]/following::span[2]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' ADVANCED ' or . = ' ADVANCED ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>span.input-group-append.inside</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -6,18 +6,18 @@
    <elementGuidId>30470a48-2a8b-4d20-86d4-b650c4442bdc</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='for Processing'])[2]/following::mat-icon[2]</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'launch' or . = 'launch')]</value>
       </entry>
       <entry>
          <key>CSS</key>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='for Processing'])[2]/following::mat-icon[2]</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

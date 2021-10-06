@@ -10,6 +10,10 @@
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[1]/following::button[1]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Recommend ' or . = ' Recommend ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>button.btn.btn-ghost.btn-accent.ml-auto</value>
       </entry>

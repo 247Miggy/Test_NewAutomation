@@ -38,13 +38,11 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewAttr
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewAttributes/Page_Applicare/li_All Applicants'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewAttributes/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20219926825')
+    'A20217926642')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewAttributes/Page_Applicare/mat-icon_close'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewAttributes/Page_Applicare/mat-icon_launch'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewAttributes/Page_Applicare/li_listAttributes'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewAttributes/Page_Applicare/div_listAttributesdate_of_birth01031989equi_caf24a'))
 

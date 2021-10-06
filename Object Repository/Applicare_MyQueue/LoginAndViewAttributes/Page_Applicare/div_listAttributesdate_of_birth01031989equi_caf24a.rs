@@ -10,11 +10,15 @@
          <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Recruiter', &quot;'&quot;, 's Notes Instruction')])[1]/following::div[2]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = concat('listAttributesdate_of_birth01/03/1989equipmentYesgeo_cityPasay Cityhighest_qualification_levelBachelor' , &quot;'&quot; , 's Degreeindustry_experience> 6 months to 1 yearinternet_download_speed>= 10mbpsinternet_typeFixed Lineinternet_upload_speed>= 5mbpslegal_working_ageYesmiddle_initialOmiddle_nameAnight_shift_flexibiltyYesposition_applied_forCustomer Retail Representativepreferred_cityMakatipreferred_work_locationYessales_experienceYes - BPOsecondary_contact_number926 987 8081sourceOnline - Jobyodawilling_to_work_on_siteYeswillingess_to_travel_mecqNo') or . = concat('listAttributesdate_of_birth01/03/1989equipmentYesgeo_cityPasay Cityhighest_qualification_levelBachelor' , &quot;'&quot; , 's Degreeindustry_experience> 6 months to 1 yearinternet_download_speed>= 10mbpsinternet_typeFixed Lineinternet_upload_speed>= 5mbpslegal_working_ageYesmiddle_initialOmiddle_nameAnight_shift_flexibiltyYesposition_applied_forCustomer Retail Representativepreferred_cityMakatipreferred_work_locationYessales_experienceYes - BPOsecondary_contact_number926 987 8081sourceOnline - Jobyodawilling_to_work_on_siteYeswillingess_to_travel_mecqNo'))]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>div.container</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
