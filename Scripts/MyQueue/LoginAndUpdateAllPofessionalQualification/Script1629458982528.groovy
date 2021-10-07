@@ -46,18 +46,18 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAl
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/div_BachelorsCollege Degree'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/a_BachelorsCollege Degree'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_BachelorsCollege Degree'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/div_Adamson University'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select a school'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_School_ngx-select__search form-control'), 
     'adamson')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/a_Adamson University'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_Adamson University'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/span_BS in Information Technology'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select a course'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Course_ngx-select__search form-control'), 
     'inform')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/span_BS in Information Technology'))
@@ -78,5 +78,5 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAl
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/main_face Personal Information Last NameSuf_828dd8'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/main_face Personal Information Last NameSuf_828dd8'))
 

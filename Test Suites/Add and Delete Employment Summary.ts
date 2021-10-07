@@ -18,6 +18,12 @@
       <testCaseId>Test Cases/MyQueue/LoginAndAddEmploymentSummaryv2</testCaseId>
    </testCaseLink>
    <testCaseLink>
+      <guid>971727a5-e47f-46d5-9fa6-c39440f73e6a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MyQueue/LoginAndEditEmploymentSummary</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
       <guid>ee03d857-fc8e-41b0-9790-6037b24d6e0c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

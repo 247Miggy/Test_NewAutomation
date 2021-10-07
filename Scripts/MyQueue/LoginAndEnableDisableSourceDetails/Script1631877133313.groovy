@@ -17,3 +17,152 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_UsernamePasswordLoginForgot Password'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+    'P24717737')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
+    'nB2dBQqcd2EcVwPhuqgMuQ==')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Login'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
+    'A20218926728')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Assigned to Me'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/li_All Applicants'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/mat-icon_close'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/mat-icon_launch'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Jobstreet.com'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+    'Applicant Referral')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/a_Applicant Referral'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_Source Details_sourceText'), 
+    'test')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_OK'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Success  The Application Details has be_0bd15d'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/main_face Personal Information Last NameSuf_d73993'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Applicant Referral'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/a_Flyers'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_OK'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Success  The Application Details has be_0bd15d'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/main_face Personal Information Last NameSuf_d73993'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Flyers'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+    'referral')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/a_Non Applicant Referral'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_Source Details_sourceText'), 
+    'test source details')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_OK'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Success  The Application Details has be_0bd15d'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/main_face Personal Information Last NameSuf_d73993'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Non Applicant Referral'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/a_Jobyoda'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_OK'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Success  The Application Details has be_0bd15d'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/main_face Personal Information Last NameSuf_d73993'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Jobyoda'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+    'word')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/a_Word of Mouth'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_Source Details_sourceText'), 
+    'test source details')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_OK'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Success  The Application Details has be_0bd15d'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/main_face Personal Information Last NameSuf_d73993'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Word of Mouth'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/a_Ayosdito.ph'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_OK'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Success  The Application Details has be_0bd15d'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Ayosdito.ph'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/a_Pullers'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_Source Details_sourceText'), 
+    'test source details')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_OK'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Success  The Application Details has be_0bd15d'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Pullers'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/a_LinkedIn'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_OK'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Success  The Application Details has be_0bd15d'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_LinkedIn'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/span_Others, please specify'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/input_Source Details_sourceText'), 
+    'test source details')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/button_OK'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEnableDisableSourceDetails/Page_Applicare/div_Success  The Application Details has be_0bd15d'))
+

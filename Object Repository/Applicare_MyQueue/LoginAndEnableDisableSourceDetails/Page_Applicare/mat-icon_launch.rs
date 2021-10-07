@@ -10,11 +10,15 @@
          <value>(.//*[normalize-space(text()) and normalize-space(.)='for Processing'])[2]/following::mat-icon[2]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'launch' or . = 'launch')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

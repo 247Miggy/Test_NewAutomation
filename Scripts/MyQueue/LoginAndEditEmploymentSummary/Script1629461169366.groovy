@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/Login
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/span_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20217926639')
+    'A20217926650')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/button_Assigned to Me'))
 
@@ -63,6 +63,12 @@ WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEm
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/input_Allowances_startingSalary'), 
     '3200')
+
+WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndAddEmploymentSummaryv2/Page_Applicare/input_Start Date_startDate'), 
+    '11/03/2015')
+
+WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndAddEmploymentSummaryv2/Page_Applicare/input_End Date_endDate'), 
+    '09/03/2017')
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/textarea_Reason for Leaving_reasonForLeaving'), 
     'Test Reasong for Leaving 2')

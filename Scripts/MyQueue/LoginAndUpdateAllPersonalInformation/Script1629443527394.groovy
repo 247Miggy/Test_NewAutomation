@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/Login
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/span_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20217926639')
+    'A20217926654')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/button_Assigned to Me'))
 
@@ -78,12 +78,12 @@ WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdate
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Subdivision, Barangay_permanentSubdiv_7aa789'), 
     'test barangay1')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/div_Pasig City'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select city of residence'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_City of Residence_ngx-select__search _9e85b7'), 
     'pasa')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/a_Pasay City'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_Pasay City'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Lot, Block, Street_presentBlockLotHou_865d61'), 
     'test street2')
@@ -91,12 +91,12 @@ WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdate
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Subdivision, Barangay_presentSubdivis_4d25fb'), 
     'test barangay2')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/div_Pasig City'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select city of residence'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
-    'pasa')
+WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_City of Residence_ngx-select__search _9e85b7'), 
+    'pasig')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/a_Pasay City'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_Pasig City'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/button_Save Changes'))
 

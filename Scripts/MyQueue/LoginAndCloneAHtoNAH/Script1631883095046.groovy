@@ -38,7 +38,7 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHt
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/li_All Applicants'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20217926653')
+    'A20217926642')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/mat-icon_close'))
 
