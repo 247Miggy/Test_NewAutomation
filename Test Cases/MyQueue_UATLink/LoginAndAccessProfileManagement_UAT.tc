@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginAndAccessProfileManagement_UAT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef89d678-a891-45fe-bc5a-23a7977fb0bb</testCaseGuid>
+</TestCaseEntity>
