@@ -6,15 +6,15 @@
    <elementGuidId>189832d6-cf00-4433-8730-d05110a5f7bc</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='for Processing'])[3]/following::mat-icon[2]</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'launch' or . = 'launch')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='for Processing'])[3]/following::mat-icon[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>

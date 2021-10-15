@@ -13,8 +13,12 @@
          <key>CSS</key>
          <value>ngx-select[name=&quot;recommendation&quot;] > div.ngx-select.dropdown > div.ngx-select__selected > div.ngx-select__toggle.btn.form-control</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'for Processing' or . = 'for Processing')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

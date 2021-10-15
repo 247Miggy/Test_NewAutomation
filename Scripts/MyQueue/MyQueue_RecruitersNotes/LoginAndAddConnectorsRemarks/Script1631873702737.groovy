@@ -45,7 +45,7 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Recruite
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_RecruitersNotes/LoginAndAddConnectorsRemarks/Page_Applicare/button_launch'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_RecruitersNotes/LoginAndAddConnectorsRemarks/Page_Applicare/textarea_concat(Recruiter, , s Notes Instru_db3e2f'), 
-    '{{sopi score:-5}} {{sopi status:Test}}\n\n{{connectors remarks: P24739718 : Amata, Jake D. TB: Mich Cruz,Jan 15 }}')
+    '{{connectors remarks: P24739718 : Amata, Jake D. TB: Mich Cruz,Jan 15 }}')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_RecruitersNotes/LoginAndAddConnectorsRemarks/Page_Applicare/button_Save Changes'))
 

@@ -13,8 +13,12 @@
          <key>CSS</key>
          <value>li.tab-item.aside-toggler</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'feedAssessments' or . = 'feedAssessments')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

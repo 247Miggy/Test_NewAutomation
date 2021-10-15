@@ -13,8 +13,12 @@
          <key>CSS</key>
          <value>td</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'A2021101379822' or . = 'A2021101379822')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +39,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>A20219926823</value>
+      <value>A2021101379822</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
