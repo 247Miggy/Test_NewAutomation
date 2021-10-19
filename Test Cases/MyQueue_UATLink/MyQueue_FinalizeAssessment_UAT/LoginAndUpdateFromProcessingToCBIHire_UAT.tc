@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>LoginAndUpdateFromProcessingToCBIHire</name>
+   <name>LoginAndUpdateFromProcessingToCBIHire_UAT</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>37421170-037f-4c58-b90c-550e86df3ab1</testCaseGuid>
