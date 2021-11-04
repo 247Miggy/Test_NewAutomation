@@ -6,12 +6,16 @@
    <elementGuidId>7b8d9a9d-c090-46ec-80b5-39ceaf6289c3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@type='text']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @placeholder = 'Search lead name...']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>input.with-icon.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

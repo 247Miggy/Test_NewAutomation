@@ -19,12 +19,14 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://ph247iris.247-inc.com/staging-applicare/#/Apps')
+WebUI.navigateToUrl('https://ph247iris.247-inc.com/staging-applicare/#/Login')
 
-WebUI.setText(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/input_Username_form-control ng-untouched ng_a05516'), 
+WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
     'P24717737')
 
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/div_UsernamePasswordLoginForgot Password'))
+WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
     'nB2dBQqcd2HH1jA4cQPLYA==')
@@ -33,27 +35,21 @@ WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAnd
 
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/a_supervised_user_circleLeads Management'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/span_Sep-09-2021 - Sep-16-2021'))
+WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/button_Filtered (3)'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/span_Sep-09-2021 - Sep-16-2021_ngb-dp-navig_c9a922'))
+WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/li_Incomplete'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/span_Sep-09-2021 - Sep-16-2021_ngb-dp-navig_c9a922'))
+WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/li_For Source Verification'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/span_1'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/span_31'))
+WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/div_search ADVANCED perm_identityphoneSourc_34aea9'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/mat-icon_add'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/mat-icon_add'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/mat-icon_add'))
+WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/mat-icon_keyboard_arrow_up'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/mat-icon_add'))
+WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/button_Bulk Force Validate'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/header_4 Leads Queue keyboard_arrow_up'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/button_Bulk Validate'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/button_Validate'))
+WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndBulkValidate/Page_Applicare/button_Force Validate'))
 

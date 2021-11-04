@@ -31,6 +31,8 @@ WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/Loginand
 WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_LeadsManagement/LoginandSearchNamePossibleDuplicate/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
     'nB2dBQqcd2HH1jA4cQPLYA==')
 
+WebUI.click(findTestObject('Applicare_LeadsManagement/LoginAndSearchLeadIDPossibleDuplicate/Page_Applicare/button_Login'))
+
 WebUI.doubleClick(findTestObject('Object Repository/Applicare_LeadsManagement/LoginandSearchNamePossibleDuplicate/Page_Applicare/a_supervised_user_circleLeads Management'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginandSearchNamePossibleDuplicate/Page_Applicare/button_Filtered (3)'))
@@ -48,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/Loginand
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginandSearchNamePossibleDuplicate/Page_Applicare/span_30'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_LeadsManagement/LoginandSearchNamePossibleDuplicate/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'Modem')
+    'Deanne')
 
 WebUI.sendKeys(findTestObject('Object Repository/Applicare_LeadsManagement/LoginandSearchNamePossibleDuplicate/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
     Keys.chord(Keys.ENTER))

@@ -55,5 +55,6 @@ WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAnd
 
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndUpdteSourceValidation/Page_Applicare/mat-icon_check'))
 
+'Message display if applicant that you are trying to  validate still has a possible duplicate. \r\nNeed to Force Validate'
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndUpdteSourceValidation/Page_Applicare/button_Validate'))
 

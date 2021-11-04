@@ -6,12 +6,16 @@
    <elementGuidId>08444111-6ec9-438e-94a1-df2585b8c2de</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Applied'])[1]/following::span[1]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Oct-21-2021 - Oct-28-2021' or . = 'Oct-21-2021 - Oct-28-2021')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>span.justify-and-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Applied'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -35,7 +39,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Sep-09-2021 - Sep-16-2021 </value>
+      <value>Oct-21-2021 - Oct-28-2021</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sep-09-2021 - Sep-16-2021']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='Oct-21-2021 - Oct-28-2021']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

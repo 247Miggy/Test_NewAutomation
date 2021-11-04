@@ -13,8 +13,12 @@
          <key>CSS</key>
          <value>span.custom-day.focused</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' 1 ' or . = ' 1 ')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

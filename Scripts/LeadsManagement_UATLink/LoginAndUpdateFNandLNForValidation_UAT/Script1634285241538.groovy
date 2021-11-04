@@ -52,12 +52,13 @@ WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAnd
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndUpdateFNandLNforValidation/Page_Applicare/button_Ok'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndUpdateFNandLNforValidation/Page_Applicare/input_Last Name_lastName'), 
-    'Robertos')
+    'Raul')
 
 WebUI.setText(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndUpdateFNandLNforValidation/Page_Applicare/input_First Name_firstName'), 
-    'Wallaceson')
+    'Herson')
 
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndUpdateFNandLNforValidation/Page_Applicare/mat-icon_check'))
 
+'Message display if applicant that you are trying to  validate still has a possible duplicate. \r\nNeed to Force Validate'
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndUpdateFNandLNforValidation/Page_Applicare/button_Validate'))
 

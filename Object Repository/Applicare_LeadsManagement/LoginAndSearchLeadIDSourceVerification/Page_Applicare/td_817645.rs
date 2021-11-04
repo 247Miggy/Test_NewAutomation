@@ -6,29 +6,29 @@
    <elementGuidId>d8e7dd15-c73f-4c9f-890a-439d85bd3159</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>td.pl-4</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/following::td[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = '817645' or . = '817645')]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>td.pl-4</value>
+         <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-sourcing-view[1]/div[@class=&quot;main-container&quot;]/main[1]/table[@class=&quot;separated&quot;]/tbody[1]/tr[1]/td[@class=&quot;pl-4&quot;][count(. | //td[@class = 'pl-4' and (text() = '1823910' or . = '1823910')]) = count(//td[@class = 'pl-4' and (text() = '1823910' or . = '1823910')])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
@@ -39,10 +39,10 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>817645</value>
+      <value>1823910</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -74,7 +74,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='817645']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='1823910']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

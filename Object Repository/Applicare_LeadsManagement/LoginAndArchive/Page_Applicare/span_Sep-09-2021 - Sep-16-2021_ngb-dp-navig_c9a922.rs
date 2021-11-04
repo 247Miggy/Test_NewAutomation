@@ -6,10 +6,6 @@
    <elementGuidId>f72caedd-db30-4601-8f41-bc3111e90cc7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div/ngb-datepicker-navigation/div/button/span</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-header&quot;]/ngb-datepicker-navigation[1]/div[@class=&quot;ngb-dp-arrow&quot;]/button[@class=&quot;btn btn-link ngb-dp-arrow-btn&quot;]/span[@class=&quot;ngb-dp-navigation-chevron&quot;]</value>
       </entry>
@@ -17,8 +13,12 @@
          <key>CSS</key>
          <value>span.ngb-dp-navigation-chevron</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div/ngb-datepicker-navigation/div/button/span</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

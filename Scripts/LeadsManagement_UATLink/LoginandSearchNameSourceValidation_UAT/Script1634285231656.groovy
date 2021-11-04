@@ -27,6 +27,8 @@ WebUI.setText(findTestObject('Applicare_LeadsManagement/LoginAndSearchNameSource
 WebUI.setEncryptedText(findTestObject('Applicare_LeadsManagement/LoginAndSearchNameSourceValidation/input_Password_form-control ng-untouched ng_8b7ecf'), 
     'nB2dBQqcd2HH1jA4cQPLYA==')
 
+WebUI.click(findTestObject('Applicare_LeadsManagement/LoginAndSearchLeadIDSourceVerification/Page_Applicare/button_Login'))
+
 WebUI.doubleClick(findTestObject('Applicare_LeadsManagement/LoginAndSearchNameSourceValidation/span_Leads Management'))
 
 WebUI.click(findTestObject('Applicare_LeadsManagement/LoginAndSearchNameSourceValidation/button_Filtered (3)'))
@@ -36,7 +38,7 @@ WebUI.click(findTestObject('Applicare_LeadsManagement/LoginAndSearchNameSourceVa
 WebUI.click(findTestObject('Applicare_LeadsManagement/LoginAndSearchNameSourceValidation/li_Incomplete'))
 
 WebUI.setText(findTestObject('Applicare_LeadsManagement/LoginAndSearchNameSourceValidation/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'Ortil')
+    'Riley')
 
 WebUI.click(findTestObject('Applicare_LeadsManagement/LoginAndSearchNameSourceValidation/button_Sep-09-2021 - Sep-16-2021'))
 

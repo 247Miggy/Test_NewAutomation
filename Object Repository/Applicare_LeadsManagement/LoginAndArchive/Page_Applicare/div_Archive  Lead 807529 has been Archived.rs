@@ -6,16 +6,16 @@
    <elementGuidId>7198591f-7b1d-4c0e-ac4f-662555d1de38</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='toast-container']/div</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
-         <value>//*[(text() = ' Archive  Lead 807529 has been Archived. ' or . = ' Archive  Lead 807529 has been Archived. ')]</value>
+         <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c19-0 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.ng-tns-c19-0.ng-star-inserted.ng-trigger.ng-trigger-flyInOut.ngx-toastr.toast-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -35,14 +35,14 @@
       <value>ng-tns-c19-0 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value> Archive  Lead 807529 has been Archived. </value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>

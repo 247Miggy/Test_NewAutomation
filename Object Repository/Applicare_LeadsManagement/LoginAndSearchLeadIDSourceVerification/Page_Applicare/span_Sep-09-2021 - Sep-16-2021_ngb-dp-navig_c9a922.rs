@@ -6,29 +6,29 @@
    <elementGuidId>ee856960-83d0-4611-87c5-07d9471a362d</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>span.ngb-dp-navigation-chevron</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div/ngb-datepicker-navigation/div/button/span</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-header&quot;]/ngb-datepicker-navigation[1]/div[@class=&quot;ngb-dp-arrow&quot;]/button[@class=&quot;btn btn-link ngb-dp-arrow-btn&quot;]/span[@class=&quot;ngb-dp-navigation-chevron&quot;]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>span.ngb-dp-navigation-chevron</value>
+         <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-header&quot;]/ngb-datepicker-navigation[1]/div[@class=&quot;ngb-dp-arrow&quot;]/button[@class=&quot;btn btn-link ngb-dp-arrow-btn&quot;]/span[@class=&quot;ngb-dp-navigation-chevron&quot;][count(. | //span[@class = 'ngb-dp-navigation-chevron']) = count(//span[@class = 'ngb-dp-navigation-chevron'])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>

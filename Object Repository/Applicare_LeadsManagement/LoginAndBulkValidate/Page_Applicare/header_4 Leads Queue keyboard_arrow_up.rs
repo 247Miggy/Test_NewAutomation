@@ -13,6 +13,10 @@
          <key>CSS</key>
          <value>div.toolbar.shown > header</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '4 Leads Queue keyboard_arrow_up' or . = '4 Leads Queue keyboard_arrow_up')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>

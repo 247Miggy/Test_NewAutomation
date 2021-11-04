@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>LoginAndValidate</name>
+   <name>LoginAndBulkValidatePossibleDuplicate_UAT</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>56e4aaec-c705-4d73-b29a-7ddb7e3fb6a3</testCaseGuid>
+   <testCaseGuid>f1acf835-3f99-4a57-819c-6423480369ae</testCaseGuid>
 </TestCaseEntity>

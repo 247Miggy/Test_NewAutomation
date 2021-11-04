@@ -10,12 +10,12 @@
          <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div/ngb-datepicker-month/div[2]/div[7]/span</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = ' 1 ' or . = ' 1 ')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.custom-day</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' 1 ' or . = ' 1 ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -74,7 +74,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 2021'])[1]/preceding::span[31]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='October 2021'])[1]/preceding::span[31]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

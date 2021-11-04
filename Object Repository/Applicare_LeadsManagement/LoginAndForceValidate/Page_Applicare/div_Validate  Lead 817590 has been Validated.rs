@@ -13,8 +13,12 @@
          <key>CSS</key>
          <value>div.ng-tns-c19-0.ng-star-inserted.ng-trigger.ng-trigger-flyInOut.ngx-toastr.toast-success</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c19-0 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success&quot;]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,14 +35,14 @@
       <value>ng-tns-c19-0 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value> Validate  Lead 817590 has been Validated. </value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>

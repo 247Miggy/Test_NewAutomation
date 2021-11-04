@@ -6,15 +6,19 @@
    <elementGuidId>905130d9-5163-4733-a0c5-1f10a79769c1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='text'])[3]</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @placeholder = 'Search contact number...']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>input.with-icon.ng-untouched.ng-pristine.ng-valid</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

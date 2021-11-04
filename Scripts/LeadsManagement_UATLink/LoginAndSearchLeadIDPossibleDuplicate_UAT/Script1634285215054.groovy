@@ -53,16 +53,14 @@ WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAnd
 'Date Selection'
 WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndSearchLeadIDPossibleDuplicate/Page_Applicare/span_30'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndSearchLeadIDPossibleDuplicate/Page_Applicare/div_account_circleaccount_circleaccount_circle'))
-
 WebUI.doubleClick(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndSearchLeadIDPossibleDuplicate/Page_Applicare/input_COLLAPSE_with-icon ng-untouched ng-pr_663e9d'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndSearchLeadIDPossibleDuplicate/Page_Applicare/input_COLLAPSE_with-icon ng-untouched ng-pr_663e9d'), 
-    '817647')
+    '1823954')
 
 WebUI.sendKeys(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndSearchLeadIDPossibleDuplicate/Page_Applicare/input_COLLAPSE_with-icon ng-untouched ng-pr_663e9d'), 
     Keys.chord(Keys.ENTER))
 
 'Display the selected  Leads ID'
-WebUI.click(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndSearchLeadIDPossibleDuplicate/Page_Applicare/td_817647'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_LeadsManagement/LoginAndSearchLeadIDPossibleDuplicate/Page_Applicare/td_817647'))
 

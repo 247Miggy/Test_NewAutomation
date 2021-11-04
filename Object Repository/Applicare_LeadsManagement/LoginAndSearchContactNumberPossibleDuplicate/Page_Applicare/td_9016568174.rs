@@ -6,21 +6,21 @@
    <elementGuidId>15ac9642-622c-4360-acd6-f2fb5900f0f3</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Referral'])[1]/following::td[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = '9016568174' or . = '9016568174')]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
+         <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-sourcing-view[1]/div[@class=&quot;main-container&quot;]/main[1]/table[@class=&quot;separated&quot;]/tbody[1]/tr[1]/td[4][count(. | //td[(text() = '9033123507' or . = '9033123507')]) = count(//td[(text() = '9033123507' or . = '9033123507')])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -31,10 +31,10 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>9016568174</value>
+      <value>9033123507</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -66,7 +66,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='9016568174']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='9033123507']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

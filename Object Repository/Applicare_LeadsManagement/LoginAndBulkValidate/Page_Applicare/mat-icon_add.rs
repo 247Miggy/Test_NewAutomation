@@ -6,19 +6,19 @@
    <elementGuidId>bee48f07-781a-4861-b022-26793fbcf2f1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'add' or . = 'add')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='For Source Verification'])[2]/following::mat-icon[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Possible Duplicate'])[3]/following::mat-icon[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.btn.btn-icon.mr-3.add-to-queue.btn-primary > mat-icon.mat-icon.notranslate.material-icons.mat-icon-inline.mat-icon-no-color</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'add' or . = 'add')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Source Verification'])[2]/following::mat-icon[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Possible Duplicate'])[3]/following::mat-icon[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
