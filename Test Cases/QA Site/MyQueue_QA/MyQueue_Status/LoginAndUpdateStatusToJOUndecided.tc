@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre-Condition: Status:CBI Hire
+All required fields are populated</description>
+   <name>LoginAndUpdateStatusToJOUndecided</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7989f6fa-2863-4be6-8ea2-4d65b25f6674</testCaseGuid>
+</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Able to select multiple leads to archive 4 Leads</description>
-   <name>LoginandBulkArchiveForSourceVerification_UAT</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>96b75521-61e0-49c9-8c67-7f4670bc2226</testCaseGuid>
-</TestCaseEntity>

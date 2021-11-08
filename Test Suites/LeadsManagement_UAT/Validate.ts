@@ -15,18 +15,18 @@
       <guid>b4a7675e-db8d-4e87-8a88-d75c9c729273</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LeadsManagement_UATLink/LoginAndValidate_UAT</testCaseId>
+      <testCaseId>Test Cases/UAT Site/LeadsManagement_UATLink/LoginAndValidate_UAT</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>e7439350-0aff-45f5-b674-02522fd921ee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LeadsManagement_UATLink/LoginAndBulkValidatePossibleDuplicate_UAT</testCaseId>
+      <testCaseId>Test Cases/UAT Site/LeadsManagement_UATLink/LoginAndBulkValidatePossibleDuplicate_UAT</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>44f2968b-9dee-4305-9f0d-84834468e7fc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LeadsManagement_UATLink/LoginAndForceValidate_UAT</testCaseId>
+      <testCaseId>Test Cases/UAT Site/LeadsManagement_UATLink/LoginAndForceValidate_UAT</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

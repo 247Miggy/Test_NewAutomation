@@ -15,12 +15,12 @@
       <guid>884db2c0-9c0d-4787-977a-bf4cb8f604bf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LeadsManagement_UATLink/LoginAndUpdateFNandLNForValidation_UAT</testCaseId>
+      <testCaseId>Test Cases/UAT Site/LeadsManagement_UATLink/LoginAndUpdateFNandLNForValidation_UAT</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>73ca737b-77cc-4658-ae1e-d17142370b82</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LeadsManagement_UATLink/LoginandUpdateSourceForSourceValidation_UAT</testCaseId>
+      <testCaseId>Test Cases/UAT Site/LeadsManagement_UATLink/LoginandUpdateSourceForSourceValidation_UAT</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

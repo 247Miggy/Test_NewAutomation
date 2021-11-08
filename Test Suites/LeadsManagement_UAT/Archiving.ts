@@ -15,6 +15,12 @@
       <guid>4b4a3259-e3f4-43eb-8cef-59246bbebe1c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LeadsManagement_UATLink/LoginAndArchive_UAT</testCaseId>
+      <testCaseId>Test Cases/UAT Site/LeadsManagement_UATLink/LoginAndArchive_UAT</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>45b4b3bb-451d-4ff7-94dc-e694c21250c2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/UAT Site/LeadsManagement_UATLink/LoginandBulkArchiveForSourceVerification_UAT</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

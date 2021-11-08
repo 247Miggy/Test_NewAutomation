@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre-Condition: Status:CBI Hire
+All required fields are populated</description>
+   <name>LoginAndUpdateStatusToJORetracted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3640e83-1dcd-4036-876b-6b3eeebb8aa2</testCaseGuid>
+</TestCaseEntity>

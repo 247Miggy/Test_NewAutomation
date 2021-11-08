@@ -4,11 +4,10 @@
    <name>input_City of Residence_ngx-select__search _9e85b7</name>
    <tag></tag>
    <elementGuidId>f7b00689-2e06-438e-8a0d-193a30ad1d53</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
+         <key>CSS</key>
+         <value>input.ngx-select__search.form-control</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -19,11 +18,10 @@
          <value>//*[@type = 'text' and @placeholder = 'Select city of residence...']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>input.ngx-select__search.form-control</value>
+         <key>IMAGE</key>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

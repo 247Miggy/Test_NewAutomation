@@ -15,6 +15,6 @@
       <guid>d6e2f6e9-9680-4f84-b80e-6c318b1553a5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MyQueue/LoginAndRequiredFields</testCaseId>
+      <testCaseId>Test Cases/QA Site/MyQueue_QA/LoginAndRequiredFields</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

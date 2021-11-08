@@ -15,12 +15,12 @@
       <guid>50fd00ff-65ad-4dce-9eac-33e8de1ce1f7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MyQueue/LoginAndCloneAHtoNAH</testCaseId>
+      <testCaseId>Test Cases/QA Site/MyQueue_QA/LoginAndCloneAHtoNAH</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>00dc1d67-606c-4f6d-81f5-2eb3d0955dfd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MyQueue/LoginAndCloneNAHtoAH</testCaseId>
+      <testCaseId>Test Cases/QA Site/MyQueue_QA/LoginAndCloneNAHtoAH</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
