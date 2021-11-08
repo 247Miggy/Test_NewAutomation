@@ -36,7 +36,7 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/L
 WebUI.doubleClick(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBINotHireSalaryMOFIT/Page_Applicare/div_Password_loader-container'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBINotHireSalaryMOFIT/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A2021101379822')
+    'A2021101379841')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBINotHireSalaryMOFIT/Page_Applicare/button_Assigned to Me'))
 

@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/MyQue
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIFailedduetoCBT/Page_Applicare/button_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIFailedduetoCBT/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A2021101379822')
+    'A202191379794')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIFailedduetoCBT/Page_Applicare/button_Assigned to Me'))
 
