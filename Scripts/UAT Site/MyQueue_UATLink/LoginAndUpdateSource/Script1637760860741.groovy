@@ -32,7 +32,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/Login
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateSource_UAT/Page_Applicare/button_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateSource_UAT/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A2021111379889')
+    'A2021111379925')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateSource_UAT/Page_Applicare/button_Assigned to Me'))
 
@@ -50,6 +50,6 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateSo
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateSource_UAT/Page_Applicare/button_OK'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateSource_UAT/Page_Applicare/div_Success  The Application Details has be_0bd15d'), 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateSource_UAT/Page_Applicare/div_Success  The Application Details has be_0bd15d'), 
+    0)
 

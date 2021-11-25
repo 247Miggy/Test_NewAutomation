@@ -3,11 +3,11 @@
    <description></description>
    <name>mat-icon_close</name>
    <tag></tag>
-   <elementGuidId>2e652bc0-ada0-4066-86cb-1a33d030651a</elementGuidId>
+   <elementGuidId>406c4946-b5aa-4ce0-924d-fe2b1741e5b0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov-17-2021 - Nov-24-2021'])[1]/following::mat-icon[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov-18-2021 - Nov-25-2021'])[1]/following::mat-icon[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -74,7 +74,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov-17-2021 - Nov-24-2021'])[1]/following::mat-icon[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov-18-2021 - Nov-25-2021'])[1]/following::mat-icon[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -21,50 +21,50 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+WebUI.setText(findTestObject('null'), 
     'P24732391')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/div_UsernamePasswordLoginForgot Password'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
+WebUI.setEncryptedText(findTestObject('null'), 
     'nB2dBQqcd2HH1jA4cQPLYA==')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/button_Login'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
+WebUI.setText(findTestObject('null'), 
     'A20218926745')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/button_Assigned to Me'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/li_All Applicants'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/mat-icon_close'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/mat-icon_launch'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/div_for Processing'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/span_Awaiting interview process with the Hi_b05565'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/button_Save Changes'))
+WebUI.click(findTestObject('null'))
 
 'Verify application status should be updated '
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/button_OK'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/a_dashboardMy Queue'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/button_Exit'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/mat-icon_launch'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/span_Awaiting interview process with the Hi_b05565'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/a_CBI Failed due to CBT'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/button_Save Changes'))
+WebUI.click(findTestObject('null'))
 
 'Verify application status should not be updated '
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIAwaitinginterviewprocesswiththeHiringDepartment/Page_Applicare/button_OK'))
+WebUI.click(findTestObject('null'))
 

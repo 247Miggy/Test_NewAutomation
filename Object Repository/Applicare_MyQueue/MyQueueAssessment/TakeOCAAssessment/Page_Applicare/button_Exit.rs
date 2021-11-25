@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_OK</name>
+   <name>button_Exit</name>
    <tag></tag>
-   <elementGuidId>b4a3047d-e9d5-42b6-a691-4eabe2e05700</elementGuidId>
+   <elementGuidId>d0fed2c7-d728-42a8-ba36-81ef5f4b2020</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and (text() = ' OK ' or . = ' OK ')]</value>
+         <value>(//button[@type='button'])[5]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.btn.btn-lg.btn-primary</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +42,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> OK </value>
+      <value> Exit </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,14 +56,14 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[3]</value>
+      <value>(//button[@type='button'])[5]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to save your changes?'])[1]/following::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to exit? All unsaved changes will be lost.'])[1]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +84,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='Exit']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -3,22 +3,18 @@
    <description></description>
    <name>button_OK</name>
    <tag></tag>
-   <elementGuidId>b4a3047d-e9d5-42b6-a691-4eabe2e05700</elementGuidId>
+   <elementGuidId>5a62365a-2dc0-4822-b29e-44ff95eb5b59</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[3]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and (text() = ' OK ' or . = ' OK ')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-lg.btn-primary</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

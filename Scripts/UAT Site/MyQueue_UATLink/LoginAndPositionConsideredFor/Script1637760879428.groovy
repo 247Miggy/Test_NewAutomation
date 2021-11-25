@@ -21,37 +21,40 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://ph247iris.247-inc.com/staging-applicare/#/Login')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/input_Username_form-control ng-untouched ng_a05516'), 
     'P24717737')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/div_UsernamePasswordLoginForgot Password'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
     'nB2dBQqcd2HH1jA4cQPLYA==')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/button_Login'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/button_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A2021111379890')
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
+    'A2021111379927')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/button_Assigned to Me'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/button_Assigned to Me'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/li_All Applicants'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/li_All Applicants'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/mat-icon_close'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/mat-icon_close'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/mat-icon_launch'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/mat-icon_launch'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/div_Data Network Engineer'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/div_Position Considered Forhelp--Select--Gl_16c8f8'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/span_Business Intelligence Analyst'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/span_Network Services Engineer'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/button_Save Changes'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/div_Quality Assurance Engineer'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredFor/Page_Applicare/button_OK'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/span_Network Services Engineer'))
 
-WebUI.verifyElementPresent(findTestObject('Applicare_MyQueue/LoginAndUpdateSource_UAT/Page_Applicare/div_Success  The Application Details has be_0bd15d'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/input_Username_form-control ng-untouched ng_a05516'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/button_OK'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdatePositionConsideredForv3/Page_Applicare/div_Success  The Application Details has be_0bd15d'))
 

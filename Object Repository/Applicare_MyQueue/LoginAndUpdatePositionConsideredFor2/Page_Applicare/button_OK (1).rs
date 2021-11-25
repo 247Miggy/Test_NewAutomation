@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_OK</name>
+   <name>button_OK (1)</name>
    <tag></tag>
-   <elementGuidId>b4a3047d-e9d5-42b6-a691-4eabe2e05700</elementGuidId>
+   <elementGuidId>7cf9ca49-8819-4bd1-8242-258ed2d387b6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[3]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and (text() = ' OK ' or . = ' OK ')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-lg.btn-primary</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
