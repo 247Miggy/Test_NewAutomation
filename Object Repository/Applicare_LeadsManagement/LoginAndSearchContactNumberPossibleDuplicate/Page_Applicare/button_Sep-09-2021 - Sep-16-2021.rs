@@ -6,19 +6,19 @@
    <elementGuidId>45702a4f-3b48-486c-b713-bbe82af6e182</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-outlined</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-sourcing-view[1]/div[@class=&quot;main-container&quot;]/header[1]/div[@class=&quot;filter-section&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;datepicker&quot;]/button[@class=&quot;btn btn-outlined&quot;][count(. | //button[@type = 'button' and @class = 'btn btn-outlined' and (text() = 'Oct-21-2021 - Oct-28-2021' or . = 'Oct-21-2021 - Oct-28-2021')]) = count(//button[@type = 'button' and @class = 'btn btn-outlined' and (text() = 'Oct-21-2021 - Oct-28-2021' or . = 'Oct-21-2021 - Oct-28-2021')])]</value>
+         <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-sourcing-view[1]/div[@class=&quot;main-container&quot;]/header[1]/div[@class=&quot;filter-section&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;datepicker&quot;]/button[@class=&quot;btn btn-outlined&quot;][count(. | //button[@type = 'button' and @class = 'btn btn-outlined' and (text() = 'Mar-01-2022 - Mar-31-2022' or . = 'Mar-01-2022 - Mar-31-2022')]) = count(//button[@type = 'button' and @class = 'btn btn-outlined' and (text() = 'Mar-01-2022 - Mar-31-2022' or . = 'Mar-01-2022 - Mar-31-2022')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-outlined</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>14d9044a-f81b-43fc-9445-21a9257eac16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,6 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>cfc89e78-0eb8-4b1f-bcfb-6da8d779772f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,13 +42,15 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-outlined</value>
+      <webElementGuid>715bef52-bd0e-4656-94df-8b3bb40f7832</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Oct-21-2021 - Oct-28-2021</value>
+      <value>Mar-01-2022 - Mar-31-2022</value>
+      <webElementGuid>8fde3547-82db-4634-80a2-63a1d20ed8b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-sourcing-view[1]/div[@class=&quot;main-container&quot;]/header[1]/div[@class=&quot;filter-section&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;datepicker&quot;]/button[@class=&quot;btn btn-outlined&quot;]</value>
+      <webElementGuid>b8cfcf90-fc94-4231-a269-eb5eedd1a59d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,6 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>801bf2fa-9c7f-4c71-b3ad-ad387d3c56bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Applied'])[1]/following::button[1]</value>
+      <webElementGuid>1ac8add3-d5fc-4734-b7a4-d8ea33f5a4f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='For Source Verification'])[1]/following::button[1]</value>
+      <webElementGuid>d4d219b4-bc79-406f-8a7f-0dea0b3b1a40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Leads found. Have you tried to change the date filter?'])[1]/preceding::button[1]</value>
+      <webElementGuid>c7681cd2-5a44-45c6-b6ad-21421ee2de6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,5 +98,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/button</value>
+      <webElementGuid>5609272b-43d0-41ac-99de-48d5b5218cd9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

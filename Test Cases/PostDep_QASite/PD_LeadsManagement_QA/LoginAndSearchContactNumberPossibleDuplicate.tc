@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginAndSearchContactNumberPossibleDuplicate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27127e9c-795b-425c-9e9d-8f1fad41f529</testCaseGuid>
+</TestCaseEntity>

@@ -6,6 +6,10 @@
    <elementGuidId>a6b1dc83-14ea-4bfc-aa94-b037478de4e6</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div/ngb-datepicker-month/div[2]/div[7]/span</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-content ngb-dp-months&quot;]/div[@class=&quot;ngb-dp-month&quot;]/ngb-datepicker-month[1]/div[@class=&quot;ngb-dp-week&quot;]/div[@class=&quot;ngb-dp-day&quot;]/span[@class=&quot;custom-day&quot;][count(. | //span[@class = 'custom-day' and (text() = ' 1 ' or . = ' 1 ')]) = count(//span[@class = 'custom-day' and (text() = ' 1 ' or . = ' 1 ')])]</value>
       </entry>
@@ -13,12 +17,8 @@
          <key>CSS</key>
          <value>span.custom-day</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div/ngb-datepicker-month/div[2]/div[7]/span</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>f661e34b-3a81-4ab2-adbf-1e353c9adb21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>custom-day</value>
+      <webElementGuid>ca57a1ca-fb0e-4ea5-9ddc-55001f559556</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,6 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value> 1 </value>
+      <webElementGuid>e921a00d-c386-4c65-86d3-d1129144d792</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,6 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-content ngb-dp-months&quot;]/div[@class=&quot;ngb-dp-month&quot;]/ngb-datepicker-month[1]/div[@class=&quot;ngb-dp-week&quot;]/div[@class=&quot;ngb-dp-day&quot;]/span[@class=&quot;custom-day&quot;]</value>
+      <webElementGuid>3cab319d-f233-4667-ad12-cc508009c91c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div/ngb-datepicker-month/div[2]/div[7]/span</value>
+      <webElementGuid>40be8754-877a-4136-9663-30dadfae9414</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::span[1]</value>
+      <webElementGuid>d7c13cf3-cca6-48f6-a734-287a786fba69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,13 +74,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[1]</value>
+      <webElementGuid>024d6b92-d7a7-45a0-b0ac-88c478924151</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='October 2021'])[1]/preceding::span[31]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='March 2022'])[1]/preceding::span[31]</value>
+      <webElementGuid>5f7c51ca-b7c3-464c-ae99-5169c24f1120</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[2]/preceding::span[31]</value>
+      <webElementGuid>23c6a8b9-3d9d-4a8f-9498-09e0def09a73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>7d83fe1e-5809-4e5d-895a-e401b641f291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,5 +106,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/span</value>
+      <webElementGuid>1967688e-0a59-4463-8ef3-5f4104002ca4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

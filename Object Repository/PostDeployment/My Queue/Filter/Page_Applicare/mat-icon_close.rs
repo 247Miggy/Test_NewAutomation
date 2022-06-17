@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_close</name>
+   <tag></tag>
+   <elementGuidId>4a8ff718-b890-44db-b5fc-da4f79e20106</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Jun-10-2022 - Jun-17-2022'])[1]/following::mat-icon[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'close' or . = 'close')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-group > mat-icon.mat-icon.notranslate.material-icons.mat-icon-inline.mat-icon-no-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>082a71b7-0098-4f7b-aa99-c88c43745bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bffa025b-9aa8-462c-8ddf-243062d9bae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color</value>
+      <webElementGuid>fb96f483-268f-4972-869f-6cda6717fd0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bd326d59-bda6-49b6-9e2f-948984a33ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>f870c96d-d84a-40f9-aee4-e13ec48e7668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>2d8346b8-379f-471e-8166-3a352b78f233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-recruitment-queue[1]/div[@class=&quot;main-container&quot;]/header[1]/div[@class=&quot;filter-section&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;btn-group&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color&quot;]</value>
+      <webElementGuid>12c61ad2-001b-4775-ae14-864523e67d72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jun-10-2022 - Jun-17-2022'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>12830c96-fd23-4fde-a036-03af4b583b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Date'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>52f3b7ed-b851-432a-abdf-9dc194385d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Applicants found. Have you tried to change the filters?'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>0d73d8e5-f845-4cc0-83e0-bf008c5145f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>c3b7c51f-6412-4a14-9f5c-2d541ea55744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='close']/parent::*</value>
+      <webElementGuid>a6affc07-3bb2-4821-b3b0-0720c6285aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/mat-icon</value>
+      <webElementGuid>bacbe59c-5631-4fe9-bf19-774384d25300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'close' or . = 'close')]</value>
+      <webElementGuid>d1f2274d-796b-461f-a903-8684f1800b92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

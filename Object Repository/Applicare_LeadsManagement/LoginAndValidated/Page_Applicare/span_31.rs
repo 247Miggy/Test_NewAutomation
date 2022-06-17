@@ -17,7 +17,7 @@
          <key>CSS</key>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -25,6 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>d4cf0d89-14c0-4d55-837e-64883d715489</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -32,6 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>custom-day</value>
+      <webElementGuid>2577daa6-dbf6-416f-bfad-8e4fff39a4ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,6 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value> 31 </value>
+      <webElementGuid>c171c130-22f2-41df-8780-da03d503b64d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,6 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-content ngb-dp-months&quot;]/div[@class=&quot;ngb-dp-month&quot;]/ngb-datepicker-month[1]/div[@class=&quot;ngb-dp-week&quot;]/div[@class=&quot;ngb-dp-day&quot;]/span[@class=&quot;custom-day&quot;]</value>
+      <webElementGuid>e48c5e17-7aa4-4e77-a9b5-dc0604b3b50f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,6 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div/ngb-datepicker-month/div[7]/div[2]/span</value>
+      <webElementGuid>b2dcec2d-4a87-47ae-95ef-e95b0b85da9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -60,6 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::span[31]</value>
+      <webElementGuid>1c5c666d-a93d-468c-8c56-e3a1a4b18a40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -67,13 +73,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[31]</value>
+      <webElementGuid>766d80a8-c91d-43f6-905a-b93f09d41fa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 2021'])[1]/preceding::span[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='March 2022'])[1]/preceding::span[1]</value>
+      <webElementGuid>6a56cd8d-1205-4117-8a19-1ccf6cdb9b89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[2]/preceding::span[1]</value>
+      <webElementGuid>ef4c5108-8b58-4b4a-bc6b-f11b6ef8709d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,6 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='31']/parent::*</value>
+      <webElementGuid>cc192bcb-686f-4c4f-8e48-0af0ce33e126</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,5 +105,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div[2]/span</value>
+      <webElementGuid>4dcf59cb-1a0f-40f1-a82b-2c9089f7363a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

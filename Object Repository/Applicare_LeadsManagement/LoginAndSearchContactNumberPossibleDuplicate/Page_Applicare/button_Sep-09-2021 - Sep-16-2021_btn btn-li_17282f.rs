@@ -6,10 +6,6 @@
    <elementGuidId>1f5a4e2f-a08b-4e53-9704-a2ca7ad1713b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-link.ngb-dp-arrow-btn</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[3]</value>
       </entry>
@@ -17,8 +13,12 @@
          <key>BASIC</key>
          <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-header&quot;]/ngb-datepicker-navigation[1]/div[@class=&quot;ngb-dp-arrow&quot;]/button[@class=&quot;btn btn-link ngb-dp-arrow-btn&quot;][count(. | //button[@type = 'button' and @class = 'btn btn-link ngb-dp-arrow-btn' and @aria-label = 'Previous month' and @title = 'Previous month']) = count(//button[@type = 'button' and @class = 'btn btn-link ngb-dp-arrow-btn' and @aria-label = 'Previous month' and @title = 'Previous month'])]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-link.ngb-dp-arrow-btn</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>7e8e718e-e10d-4553-ab4c-e6f2b956bb9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,6 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>07564623-ca9f-4c4a-86a4-84775d1d8569</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,6 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-link ngb-dp-arrow-btn</value>
+      <webElementGuid>73532105-56b5-48fd-ab58-3d52a909a7a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,6 +50,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Previous month</value>
+      <webElementGuid>e133e2e1-b836-4d68-970f-7479ec23a211</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Previous month</value>
+      <webElementGuid>5d96b6c4-d3dc-4fd1-9dbe-79588870a77c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,6 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-header&quot;]/ngb-datepicker-navigation[1]/div[@class=&quot;ngb-dp-arrow&quot;]/button[@class=&quot;btn btn-link ngb-dp-arrow-btn&quot;]</value>
+      <webElementGuid>0ecf1c27-bfb4-4d97-8d73-e4c708eb95b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>61c78b7f-d023-4bc4-9798-f25e80093a59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div/ngb-datepicker-navigation/div/button</value>
+      <webElementGuid>a526e419-5094-4aed-aba1-0b769072d7a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Oct-21-2021 - Oct-28-2021'])[1]/following::button[1]</value>
+      <webElementGuid>d6062907-1901-4e79-b10a-e9d6c30e349f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Applied'])[1]/following::button[2]</value>
+      <webElementGuid>8b1e4442-b76c-47fa-a384-e4d46a89c549</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='October 2021'])[1]/preceding::button[2]</value>
+      <webElementGuid>cb0b0337-41c6-4322-b27a-129bf62e0179</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[1]/preceding::button[2]</value>
+      <webElementGuid>b456bacd-de45-4f9c-822b-c7f2305159b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,5 +122,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ngb-datepicker-navigation/div/button</value>
+      <webElementGuid>6066b310-5ea0-4e94-a4e2-0b6f0035386a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

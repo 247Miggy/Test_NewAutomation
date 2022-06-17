@@ -10,15 +10,15 @@
          <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div/ngb-datepicker-month/div[2]/div[4]/span</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>span.custom-day.focused</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[(text() = ' 1 ' or . = ' 1 ')]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.custom-day.focused</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>91ea06c4-e68d-4c57-bca8-eb1ce7495197</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>custom-day focused</value>
+      <webElementGuid>cb1f33f0-8747-48be-b532-d4e0d4d36d15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,6 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value> 1 </value>
+      <webElementGuid>886ad22d-08ed-48ea-aca3-77d37af33b9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-content ngb-dp-months&quot;]/div[@class=&quot;ngb-dp-month&quot;]/ngb-datepicker-month[1]/div[@class=&quot;ngb-dp-week&quot;]/div[@class=&quot;ngb-dp-day&quot;]/span[@class=&quot;custom-day focused&quot;]</value>
+      <webElementGuid>c35f8ffd-bf8f-4095-a505-d25b667a8562</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div/ngb-datepicker-month/div[2]/div[4]/span</value>
+      <webElementGuid>0afe1542-dd50-4ca9-9fc1-0ba6b87ef2c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::span[1]</value>
+      <webElementGuid>d6379813-586c-4199-a674-fa89a8f393ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,13 +74,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[1]</value>
+      <webElementGuid>8f38ee79-8e04-433d-948a-edb749767870</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 2021'])[1]/preceding::span[31]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='March 2022'])[1]/preceding::span[31]</value>
+      <webElementGuid>983d2660-c72c-4972-a055-d6a2d1af5024</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[2]/preceding::span[31]</value>
+      <webElementGuid>c43a74c5-b633-4bfb-b54f-a63ca9408659</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>0df1ba01-38b9-4e37-b373-b8e76dd7c833</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,5 +106,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/span</value>
+      <webElementGuid>567aac47-4836-46fc-80b5-0f0d9ec9055f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

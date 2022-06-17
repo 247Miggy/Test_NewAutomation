@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_COLLAPSE_with-icon ng-untouched ng-pr_663e9d_1</name>
+   <tag></tag>
+   <elementGuidId>254fc360-489c-4dc9-a191-ceb8401dcf76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>45f2febf-b86c-4d6a-a6f3-6a38489d6a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>082b3708-cc57-4527-9375-b70c02a17f1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search applicant name...</value>
+      <webElementGuid>d88c23f9-e755-49b1-96eb-8940ba99bbad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>with-icon ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>1a802ea8-2ad2-4006-b4a3-980562339424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-recruitment-queue[1]/div[@class=&quot;main-container&quot;]/header[@class=&quot;advanced-search-toggled&quot;]/div[@class=&quot;search-section&quot;]/div[@class=&quot;input-group input-group-primary&quot;]/div[@class=&quot;search-box&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/input[@class=&quot;with-icon ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>7ba1900b-6da6-4657-ac88-3f6b50dc3f1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>4d29f32a-511d-4288-b21c-6e8bbaf4a855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/form/input</value>
+      <webElementGuid>779be0d9-d85c-461f-bee8-3523b55a8f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search applicant name...']</value>
+      <webElementGuid>8e66de43-d8d1-45cb-8e7e-bc5fe11a188f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

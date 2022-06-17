@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_COLLAPSE_with-icon ng-untouched ng-pr_663e9d</name>
+   <tag></tag>
+   <elementGuidId>e511b778-e1c4-4cdd-9e7d-5864e61885ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.with-icon.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7c0f8ccc-06be-465b-839a-457b05d2c7f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bc875f48-e337-4783-9b9c-55eba9507a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search contact number...</value>
+      <webElementGuid>102290a4-9596-4b73-a1db-53258fbe6a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>with-icon ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>d96aeb25-9a80-45c4-b0f3-e92c9ade56e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-recruitment-queue[1]/div[@class=&quot;main-container&quot;]/header[@class=&quot;advanced-search-toggled&quot;]/div[@class=&quot;search-section&quot;]/div[@class=&quot;input-group input-group-primary&quot;]/div[@class=&quot;search-box&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/input[@class=&quot;with-icon ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>f7c7d816-009c-44f3-b8c1-e1430fb1d0f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>864308b2-13c1-405d-a6fd-355dca5f1281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/form/input</value>
+      <webElementGuid>1bdc14c1-84b8-483d-a00d-4771d855f849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search contact number...']</value>
+      <webElementGuid>482198c7-a2f1-48c0-998f-d73ced73e319</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

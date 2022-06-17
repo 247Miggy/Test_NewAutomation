@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Update First Name and Last Name</description>
+   <name>LoginAndUpdateFNandLNForValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c87622c7-64b0-4cb1-8d9d-a4fe05e6858d</testCaseGuid>
+</TestCaseEntity>

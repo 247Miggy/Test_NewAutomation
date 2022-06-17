@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Able to select multiple leads to archive 4 Leads</description>
+   <name>LoginandBulkArchive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8284d369-8375-4680-888d-229522523baa</testCaseGuid>
+</TestCaseEntity>

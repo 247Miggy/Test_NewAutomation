@@ -6,18 +6,18 @@
    <elementGuidId>2c25c7b0-d9f9-4c5c-b256-f5ba83efad05</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div[2]/ngb-datepicker-month/div[6]/div[4]/span</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-content ngb-dp-months&quot;]/div[@class=&quot;ngb-dp-month&quot;]/ngb-datepicker-month[1]/div[@class=&quot;ngb-dp-week&quot;]/div[@class=&quot;ngb-dp-day&quot;]/span[@class=&quot;custom-day&quot;][count(. | //span[@class = 'custom-day' and (text() = ' 30 ' or . = ' 30 ')]) = count(//span[@class = 'custom-day' and (text() = ' 30 ' or . = ' 30 ')])]</value>
       </entry>
       <entry>
          <key>CSS</key>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div[2]/ngb-datepicker-month/div[6]/div[4]/span</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -25,6 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>54fea4a0-b727-43a9-9bc3-0c1b68771336</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -32,6 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>custom-day</value>
+      <webElementGuid>370ba6f4-eb18-4dcd-b542-726c42c1cce7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,6 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value> 30 </value>
+      <webElementGuid>b1d7f4b4-1135-453f-9158-ecc256d86abf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,6 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-content ngb-dp-months&quot;]/div[@class=&quot;ngb-dp-month&quot;]/ngb-datepicker-month[1]/div[@class=&quot;ngb-dp-week&quot;]/div[@class=&quot;ngb-dp-day&quot;]/span[@class=&quot;custom-day&quot;]</value>
+      <webElementGuid>20f03dea-b5ff-4130-8336-748373090686</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,6 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div[2]/div[2]/ngb-datepicker-month/div[6]/div[4]/span</value>
+      <webElementGuid>842fc9a0-8002-4885-9146-62abdb4221fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -60,6 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[2]/following::span[30]</value>
+      <webElementGuid>f3b5bcc0-9e32-4675-9b28-a2fe23dacc4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -67,6 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[2]/following::span[30]</value>
+      <webElementGuid>7941c6ed-cce7-44d8-bf61-0c0130d10f93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,6 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Leads found. Have you tried to change the date filter?'])[1]/preceding::span[1]</value>
+      <webElementGuid>d0f4ae7b-ee0f-463c-a696-5a068170df0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,5 +89,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ngb-datepicker-month/div[6]/div[4]/span</value>
+      <webElementGuid>9df3a651-a7e8-425f-a017-d744770539b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

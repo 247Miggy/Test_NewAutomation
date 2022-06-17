@@ -6,6 +6,10 @@
    <elementGuidId>7b8d9a9d-c090-46ec-80b5-39ceaf6289c3</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[@type = 'text' and @placeholder = 'Search lead name...']</value>
       </entry>
@@ -13,12 +17,8 @@
          <key>CSS</key>
          <value>input.with-icon.ng-untouched.ng-pristine.ng-valid</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@type='text']</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>2be60686-6c2d-4fe3-8aee-3bdd33aaae8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,6 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>bc4d548b-dbe6-42c9-9363-58a0fa65ce32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,6 +42,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search lead name...</value>
+      <webElementGuid>d87244db-92b1-4212-9a44-9ae78b8a4a6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>with-icon ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>d80451cd-e7b8-47ba-92fc-5f59a475a126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,6 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-sourcing-view[1]/div[@class=&quot;main-container&quot;]/header[1]/div[@class=&quot;search-section&quot;]/div[@class=&quot;input-group input-group-primary main-search&quot;]/div[@class=&quot;search-box&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/input[@class=&quot;with-icon ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>a789f404-c93c-48a2-8f45-7f87d328a96b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,6 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
+      <webElementGuid>d4a95946-7abc-4b3b-9d76-ab2f435e2106</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,5 +74,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
+      <webElementGuid>71d344ba-0a70-4048-a329-7774b48df5d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

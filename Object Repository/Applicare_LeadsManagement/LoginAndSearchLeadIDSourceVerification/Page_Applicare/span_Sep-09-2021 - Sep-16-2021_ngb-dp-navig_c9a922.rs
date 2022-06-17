@@ -6,10 +6,6 @@
    <elementGuidId>ee856960-83d0-4611-87c5-07d9471a362d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.ngb-dp-navigation-chevron</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div/ngb-datepicker-navigation/div/button/span</value>
       </entry>
@@ -17,8 +13,12 @@
          <key>BASIC</key>
          <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-header&quot;]/ngb-datepicker-navigation[1]/div[@class=&quot;ngb-dp-arrow&quot;]/button[@class=&quot;btn btn-link ngb-dp-arrow-btn&quot;]/span[@class=&quot;ngb-dp-navigation-chevron&quot;][count(. | //span[@class = 'ngb-dp-navigation-chevron']) = count(//span[@class = 'ngb-dp-navigation-chevron'])]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ngb-dp-navigation-chevron</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>d7196da1-3a56-4c14-b2d7-4529814c25fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ngb-dp-navigation-chevron</value>
+      <webElementGuid>52147232-8825-4d16-8139-45b8769dbfca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,6 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dateAppliedFilter&quot;)/div[@class=&quot;datepicker pop-up bottom-left&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-header&quot;]/ngb-datepicker-navigation[1]/div[@class=&quot;ngb-dp-arrow&quot;]/button[@class=&quot;btn btn-link ngb-dp-arrow-btn&quot;]/span[@class=&quot;ngb-dp-navigation-chevron&quot;]</value>
+      <webElementGuid>ffde9045-6f04-472c-9d17-53eb8b59174d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,6 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//app-date-picker[@id='dateAppliedFilter']/div/ngb-datepicker/div/ngb-datepicker-navigation/div/button/span</value>
+      <webElementGuid>5a1aa287-48cb-452a-a197-a5d5c695e26f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,5 +58,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ngb-datepicker-navigation/div/button/span</value>
+      <webElementGuid>e71bcfc4-70b0-4efa-a229-1c93a14d333e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
