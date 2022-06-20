@@ -6,19 +6,18 @@
    <elementGuidId>74dc7209-c8b2-45c3-907e-f02cb138f63f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Active: No current opening based on qualifications'])[2]/following::mat-icon[3]</value>
+         <key>CSS</key>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'launch' or . = 'launch')]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Active: No current opening based on qualifications'])[2]/following::mat-icon[3]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>a2894acc-6928-4392-b2c6-16ead6a0f05e</webElementGuid>
+      <webElementGuid>2e62b86a-cd9e-473d-b1a7-cc4b4251ac81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +33,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>c626832c-0b13-4ab8-acfd-40c76f3d9c9b</webElementGuid>
+      <webElementGuid>fac559a9-042c-4021-92a4-659e0113d59c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +41,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>launch</value>
-      <webElementGuid>ac895d93-0624-413b-a686-62c08956934c</webElementGuid>
+      <webElementGuid>3b9bfe27-f92e-4f7c-8797-b1c9b79a936a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color</value>
-      <webElementGuid>0885854a-e568-4196-9541-67241952d152</webElementGuid>
+      <webElementGuid>38fab35a-642d-4221-b33f-ed240ac4d662</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +57,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>9b8b8b6e-8a24-4b1e-9445-a378d9b359b8</webElementGuid>
+      <webElementGuid>eb6efbc2-c3ca-48ad-8f02-125da22f8de7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +65,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>9b55745c-8e87-47ad-a3f5-df480519e15a</webElementGuid>
+      <webElementGuid>660bad4c-afef-40be-be3a-5a39d7fed95b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,7 +73,7 @@
       <name>text</name>
       <type>Main</type>
       <value>launch</value>
-      <webElementGuid>d746fd17-f191-4f1f-a606-470a2dd443da</webElementGuid>
+      <webElementGuid>54c69900-0d68-44c6-b758-88dd3c9d40c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-recruitment-queue[1]/div[@class=&quot;main-container&quot;]/main[1]/table[@class=&quot;separated&quot;]/tbody[1]/tr[1]/td[10]/div[@class=&quot;action-col&quot;]/button[@class=&quot;btn btn-default mr-3 btn-icon&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color&quot;]</value>
-      <webElementGuid>421a6bc1-5db7-4ced-8baa-84ad1459d3db</webElementGuid>
+      <webElementGuid>1f1b154e-6403-43db-8697-144d0179003e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -90,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Active: No current opening based on qualifications'])[2]/following::mat-icon[3]</value>
-      <webElementGuid>cc799ed3-2aba-4c9f-a892-6537dcc37b4e</webElementGuid>
+      <webElementGuid>1c46acb4-98f1-4fff-b773-cd96d56e6c37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Application'])[1]/preceding::mat-icon[1]</value>
-      <webElementGuid>4a88204e-5e82-4409-813b-570bdcec0150</webElementGuid>
+      <webElementGuid>33bd5ba0-bcd4-4b0a-a1bc-47b0180a31c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/preceding::mat-icon[1]</value>
-      <webElementGuid>4ef7cd54-36dd-4061-b418-d5d467dbcb70</webElementGuid>
+      <webElementGuid>d9218ca8-8433-46ab-a77e-49dc921e4a31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='launch']/parent::*</value>
-      <webElementGuid>718d10de-c555-44f4-ba2e-c05cd278b3fd</webElementGuid>
+      <webElementGuid>c4ed4435-8130-41e3-86ec-96e4639af0e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +121,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[3]/mat-icon</value>
-      <webElementGuid>c69c4c9b-6f00-469c-bb39-b5ea0be84485</webElementGuid>
+      <webElementGuid>72e7d7db-4863-48b1-943b-38c1d47c1498</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +129,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-icon[(text() = 'launch' or . = 'launch')]</value>
-      <webElementGuid>9200ff66-f6a1-44c5-91c9-e84d11767f5c</webElementGuid>
+      <webElementGuid>0d0c7a1c-29d4-4593-83a3-cd7fba1d27e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

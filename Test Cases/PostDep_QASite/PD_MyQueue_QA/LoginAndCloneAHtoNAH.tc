@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre-Condition: All required fields should be populated</description>
+   <name>LoginAndCloneAHtoNAH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f618035d-d46c-4742-9f47-3020f01d421d</testCaseGuid>
+</TestCaseEntity>

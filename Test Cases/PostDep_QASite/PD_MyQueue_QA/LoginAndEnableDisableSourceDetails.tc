@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Once selected below source, source details fields will be enabled
+ -Referral
+- Non-Applicant Referral
+- Applicant Referral
+- Pullers
+- Word of Mouth
+- Others, please specify</description>
+   <name>LoginAndEnableDisableSourceDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7430f2cf-4a96-4da0-8167-f5f85e53f734</testCaseGuid>
+</TestCaseEntity>
