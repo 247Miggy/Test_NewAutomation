@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Apps')
 
 WebUI.click(findTestObject('Applicare_MyQueue/LoginAndAccessManageApplication/input_Username_form-control ng-untouched ng_a05516'))
 
@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Applicare_MyQueue/LoginAndAccessManageApp
 WebUI.click(findTestObject('Applicare_MyQueue/LoginAndAccessManageApplication/button_Login'))
 
 WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndAccessManageApplication/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20218926733')
+    'A2022316168946')
 
 WebUI.click(findTestObject('Applicare_MyQueue/LoginAndAccessManageApplication/button_Assigned to Me'))
 

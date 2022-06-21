@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Apps')
 
 WebUI.click(findTestObject('Applicare_MyQueue/LoginAndUpdateAllProfessionalQualification/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Apps')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewAttributes/Page_Applicare/div_UsernamePasswordLoginForgot Password'))
 

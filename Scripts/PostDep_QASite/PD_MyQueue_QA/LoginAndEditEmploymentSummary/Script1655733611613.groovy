@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Apps')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/Login
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/span_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20217926650')
+    'A2022316165503')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/button_Assigned to Me'))
 
@@ -47,10 +47,10 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmpl
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/mat-icon_edit'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/input_Position Title_positionTitle'), 
-    'Test Position Title2')
+    'Test Position Title 3')
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/input_Company_company'), 
-    'Test Company 12')
+    'Test Company 12345')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/span_Transport, Storage  Communication'))
 
@@ -59,10 +59,10 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmpl
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/div_Basic PayPHP'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/input_Basic Pay_endingSalary'), 
-    '16000')
+    '18000')
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/input_Allowances_startingSalary'), 
-    '3200')
+    '4000')
 
 WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndAddEmploymentSummaryv2/Page_Applicare/input_Start Date_startDate'), 
     '11/03/2015')
@@ -71,13 +71,13 @@ WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndAddEmploymentSummaryv2/P
     '09/03/2017')
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/textarea_Reason for Leaving_reasonForLeaving'), 
-    'Test Reasong for Leaving 2')
+    'Test Reasong for Leaving 4')
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/input_Days Rendered_daysRendered'), 
-    '20')
+    '25')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/button_Save and Next'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Applicare_MyQueue/LoginAndEditEmploymentSummary/Page_Applicare/div_Employment summary has been updated'), 
-    30)
+    55)
 

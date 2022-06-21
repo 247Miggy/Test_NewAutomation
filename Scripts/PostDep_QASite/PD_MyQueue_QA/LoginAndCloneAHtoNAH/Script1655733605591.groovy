@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Apps')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
@@ -38,7 +38,7 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHt
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/li_All Applicants'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20217926642')
+    'A2022616169184')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/mat-icon_close'))
 

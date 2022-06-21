@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://ph247irisqa/applicare/#/Login')
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Apps')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/Address/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/Addre
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/Address/Page_Applicare/span_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/Address/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20218926697')
+    'A2022616169180')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/Address/Page_Applicare/button_Assigned to Me'))
 
