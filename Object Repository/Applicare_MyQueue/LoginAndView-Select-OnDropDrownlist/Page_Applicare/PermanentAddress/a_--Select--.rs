@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_--Select--</name>
+   <tag></tag>
+   <elementGuidId>c813e9ca-e514-4a9a-b2db-23219dfa4a8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ngx-select__item.dropdown-item.ngx-select__item_active.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='City of Residence'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b3f8c9b5-4f4e-4d45-9270-791e8be26727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>360debf8-b523-491b-9e7a-844c9e031c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ngx-select__item dropdown-item ngx-select__item_active active</value>
+      <webElementGuid>9967cad3-1409-4f97-af3b-867c4dde4d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--Select--</value>
+      <webElementGuid>16a90b46-11e9-40f7-9a87-2ac7e99173e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-application-view[1]/main[1]/application-form[1]/div[@class=&quot;main-container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;application-form&quot;]/main[1]/div[@class=&quot;card-body&quot;]/section[@class=&quot;main-form&quot;]/div[@class=&quot;pt-3&quot;]/app-personal-info[1]/main[1]/form[@class=&quot;form-sm ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;form-section&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-sm-5&quot;]/ngx-select[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ngx-select dropdown open show&quot;]/ul[@class=&quot;ngx-select__choices dropdown-menu dropdown-select show&quot;]/li[@class=&quot;ngx-select__item-group&quot;]/a[@class=&quot;ngx-select__item dropdown-item ngx-select__item_active active&quot;]</value>
+      <webElementGuid>3615c586-9995-4db0-b5df-2927befd9a1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City of Residence'])[1]/following::a[1]</value>
+      <webElementGuid>6fb59b8d-8bc9-4214-87ff-ca22f50d6491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subdivision, Barangay'])[1]/following::a[1]</value>
+      <webElementGuid>27511d3f-44ed-49ab-9c58-55435609c1a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abra'])[1]/preceding::a[1]</value>
+      <webElementGuid>0a36b8f7-e7d6-42dc-b8b8-9dfc612b8f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[6]</value>
+      <webElementGuid>77d88269-1c5f-4724-be9e-af694c0e3b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-select/div/ul/li/a</value>
+      <webElementGuid>4e1bec95-93da-4cea-b393-ed1bab130d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '--Select--' or . = '--Select--')]</value>
+      <webElementGuid>3193b3e5-3ebf-407c-ba6a-ed5119af5607</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

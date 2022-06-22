@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Select Position Applied For_dropdown-toggle_1</name>
+   <tag></tag>
+   <elementGuidId>9cf6f12d-5282-4eff-9a91-562157eea080</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ngx-select[name=&quot;positionConsideredFor&quot;] > div.ngx-select.dropdown > div.ngx-select__selected > div.ngx-select__toggle.btn.form-control > span.ngx-select__toggle-buttons > i.dropdown-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/form/div/div[2]/div/ngx-select/div/div[2]/div/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2e36e510-cfc6-47eb-84ce-52cf614bcdb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle</value>
+      <webElementGuid>dddbe222-3943-4c98-b69b-2616c66a824c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/app-recommendation[1]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/ngx-select[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ngx-select dropdown&quot;]/div[@class=&quot;ngx-select__selected&quot;]/div[@class=&quot;ngx-select__toggle btn form-control&quot;]/span[@class=&quot;ngx-select__toggle-buttons&quot;]/i[@class=&quot;dropdown-toggle&quot;]</value>
+      <webElementGuid>86b95ab2-69e5-44ed-ab77-a8583f5534d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/form/div/div[2]/div/ngx-select/div/div[2]/div/span[2]/i</value>
+      <webElementGuid>9e3299f2-1cfc-4a16-bff3-2ad31aec2e42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -19,72 +19,72 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Apps')
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Login')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_UsernamePasswordLoginForgot Password'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
     'P24717737')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_UsernamePasswordLoginForgot Password'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
     'nB2dBQqcd2EcVwPhuqgMuQ==')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/button_Login'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/span_Login'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/button_Assigned to Me'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/li_All Applicants'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20217926642')
+    'A202235045313')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/mat-icon_close'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/mat-icon_launch'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_Employee Referral'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/i_Facebook.com_dropdown-toggle'))
+
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/Page_Applicare/a_--Select--'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/i_Select Position Considered For_dropdown-toggle'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/a_--Select--'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_Customer Retail Representative'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_CBI ANOBJP Non-Serviceable Area'))
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/a_--Select--'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_JO Accepted'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/i_Select civil status_dropdown-toggle'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/a_--Select--'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/CivilStatus/a_--Select--'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_Select civil status'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/i_Select city of residence_dropdown-toggle'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/span_--Select--'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/PermanentAddress/a_--Select--'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_Pasig City'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/i_Select city of residence_dropdown-toggle'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/a_--Select--'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/PermanentAddress/a_--Select--'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_Pasig City'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/i_Select highest qualification_dropdown-toggle'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/a_--Select--'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/HighestQualification/a_--Select--'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/span_Post Graduate Diploma  Masters Degree'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/i_Select a school_dropdown-toggle'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/a_--Select--'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/School/a_--Select--'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_Adamson University'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/i_Select a school_dropdown-toggle'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/a_--Select--'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/School/a_--Select--'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_BS in Information Technology'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/i_Select a segment_dropdown-toggle'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/a_--Select--'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/Segment/a_--Select--'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_Experienced Agent (6 months Internation_22acef'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/div_6 months to 1 year'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/a_--Select--'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/span_6 months to 1 year'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/a_--Select--'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndView-Select-OnDropDrownlist/Page_Applicare/Segment/a_--Select--'))
 

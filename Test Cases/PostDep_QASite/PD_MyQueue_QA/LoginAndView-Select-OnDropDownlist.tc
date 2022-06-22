@@ -2,7 +2,8 @@
 <TestCaseEntity>
    <description>Able to select drop down list
 
-* Finalize Assessment and Clone to another Application not included</description>
+* Finalize Assessment and Clone to another Application not included
+* It reads same Xpath on Present v Permanent  address and School v College</description>
    <name>LoginAndView-Select-OnDropDownlist</name>
    <tag></tag>
    <comment></comment>

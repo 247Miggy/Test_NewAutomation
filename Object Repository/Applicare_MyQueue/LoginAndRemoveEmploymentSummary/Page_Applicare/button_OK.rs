@@ -6,15 +6,19 @@
    <elementGuidId>514f3ffa-c448-4424-b208-e8d3b85d6ae6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[5]</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = ' OK ' or . = ' OK ')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.btn.btn-lg.btn-primary</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>2b34c877-6b38-4402-898b-493e9f3e59eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>a3ebe8bc-d471-440a-988d-61f6d4b5edd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg btn-primary</value>
+      <webElementGuid>353db3ea-62be-40de-877b-81bf344970c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value> OK </value>
+      <webElementGuid>46a68f5e-89e0-47d3-a051-677444ca983d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/dialog-box[1]/div[@class=&quot;modal-body dialog&quot;]/div[@class=&quot;dialog-main&quot;]/div[@class=&quot;dialog-options&quot;]/button[@class=&quot;btn btn-lg btn-primary&quot;]</value>
+      <webElementGuid>db50a2a1-6d37-484c-8302-0970f6a42b70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>b736630d-5aa3-4e36-b2c7-d81adbe0115a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this work experience?'])[1]/following::button[1]</value>
+      <webElementGuid>a08ea26c-4eda-4d50-9ea0-ec824e9e6cc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Finalize Assessment'])[3]/following::button[1]</value>
+      <webElementGuid>5d9994d4-fbe0-4156-8fb5-de77c93e3aef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>db4f90d4-cdbc-49e7-ad5e-288cae26b82f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <webElementGuid>fe0a865a-9501-491a-8c94-71d28cfd30e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,5 +106,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
+      <webElementGuid>fed7ff7b-20ff-4f9c-9004-6e8e743a6efb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

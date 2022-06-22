@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>6b97b001-7a29-4f3b-b4b0-1896ffefde72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>958a4300-e265-4518-8ead-3b154cca96de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search applicant tracking ID...</value>
+      <webElementGuid>029f65ff-3cef-4102-a53f-c5e1d63eed99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>with-icon ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>86d55172-dbdd-4f0b-9350-13126194c6bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-recruitment-queue[1]/div[@class=&quot;main-container&quot;]/header[1]/div[@class=&quot;search-section&quot;]/div[@class=&quot;input-group input-group-primary main-search&quot;]/div[@class=&quot;search-box&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/input[@class=&quot;with-icon ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>1a5359f9-9de5-4b64-a7e3-38ab5fbc3b13</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
+      <webElementGuid>50020060-8c45-40e8-bbe3-8cf1bccc47c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,5 +70,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
+      <webElementGuid>de845976-78e2-4418-b9bc-3df76aaf14db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search applicant tracking ID...']</value>
+      <webElementGuid>08106c2d-2be0-4691-b996-c477d64bbfbd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

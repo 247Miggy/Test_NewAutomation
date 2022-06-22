@@ -6,16 +6,16 @@
    <elementGuidId>11229689-ee1f-4295-8fa8-20967d9bac17</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep-10-2021 - Sep-17-2021'])[1]/following::mat-icon[1]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'close' or . = 'close')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.btn-group > mat-icon.mat-icon.notranslate.material-icons.mat-icon-inline.mat-icon-no-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep-10-2021 - Sep-17-2021'])[1]/following::mat-icon[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
+      <webElementGuid>097428e5-4708-444d-872c-90033abf7c29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
+      <webElementGuid>7eeff3f1-9e4d-4230-b197-dfd30db1edf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color</value>
+      <webElementGuid>9de4e6c0-6c9a-40d6-9a13-7d41382ed13e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>e6eeeb2f-6f56-41b6-94c7-581695875ab9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,6 +58,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
+      <webElementGuid>da4e80e6-463a-4584-915b-5fb5df58c25c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,6 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>close</value>
+      <webElementGuid>4de81268-0d17-4b3c-9a37-7eeeec17231a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-recruitment-queue[1]/div[@class=&quot;main-container&quot;]/header[1]/div[@class=&quot;filter-section&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;btn-group&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color&quot;]</value>
+      <webElementGuid>690b82ea-04ab-483a-8509-4ac83435c851</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep-10-2021 - Sep-17-2021'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>a38fa2d3-c936-43af-89a2-101bc65cb1a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Date'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>84d41014-5913-4c2a-bb19-662331a79cfb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='App ID'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>a8129793-aad9-4885-ae99-8b20310bdf03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>37cc4a84-8891-45de-9f1d-9d301620a409</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='close']/parent::*</value>
+      <webElementGuid>dc8fe22b-5adc-43f6-a199-7fe3490e9700</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,5 +122,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/mat-icon</value>
+      <webElementGuid>1c4e1256-7f9f-4109-9754-231b47bea07d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

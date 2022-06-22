@@ -6,12 +6,16 @@
    <elementGuidId>5ccc74d4-3163-4f64-bc6e-1529741d1a60</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-application-view[1]/main[1]/application-form[1]/applicant-details[1]/div[@class=&quot;parent-container&quot;]/main[1]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;applicant-details&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/ngx-select[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ngx-select dropdown open show&quot;]/ul[@class=&quot;ngx-select__choices dropdown-menu dropdown-select show&quot;]/li[@class=&quot;ngx-select__item-group&quot;]/a[@class=&quot;ngx-select__item dropdown-item ngx-select__item_active active&quot;][count(. | //*[@class = 'ngx-select__item dropdown-item ngx-select__item_active active' and (text() = '--Select--' or . = '--Select--')]) = count(//*[@class = 'ngx-select__item dropdown-item ngx-select__item_active active' and (text() = '--Select--' or . = '--Select--')])]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>a.ngx-select__item.dropdown-item.ngx-select__item_active.active</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Source'])[1]/following::a[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Position Considered For'])[1]/following::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,20 +26,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>#</value>
+      <webElementGuid>554398b8-553e-45cd-bf01-9e01525af474</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>2a6495d5-c48b-4486-9d22-1d217c143c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>ngx-select__item dropdown-item ngx-select__item_active active</value>
+      <webElementGuid>aca3026a-4862-4c07-996c-c097fd47d587</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,34 +50,47 @@
       <name>text</name>
       <type>Main</type>
       <value>--Select--</value>
+      <webElementGuid>a0e616c1-604f-4f7f-b623-2616d6e0d9bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-application-view[1]/main[1]/application-form[1]/applicant-details[1]/div[@class=&quot;parent-container&quot;]/main[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;applicant-details&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/ngx-select[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ngx-select dropdown open show&quot;]/ul[@class=&quot;ngx-select__choices dropdown-menu dropdown-select show&quot;]/li[@class=&quot;ngx-select__item-group&quot;]/a[@class=&quot;ngx-select__item dropdown-item ngx-select__item_active active&quot;]</value>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-application-view[1]/main[1]/application-form[1]/applicant-details[1]/div[@class=&quot;parent-container&quot;]/main[1]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;applicant-details&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/ngx-select[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ngx-select dropdown open show&quot;]/ul[@class=&quot;ngx-select__choices dropdown-menu dropdown-select show&quot;]/li[@class=&quot;ngx-select__item-group&quot;]/a[@class=&quot;ngx-select__item dropdown-item ngx-select__item_active active&quot;]</value>
+      <webElementGuid>39935624-c623-4870-b926-470092edd63f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position Considered For'])[1]/following::a[1]</value>
+      <webElementGuid>bd711ebe-2b3d-4eca-9c82-40708120724c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pullers'])[1]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position Applied For'])[1]/following::a[1]</value>
+      <webElementGuid>6df558d4-14e5-45d3-bfcb-6feb57dd8882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*No Program* - Customer Service Representative - eMed'])[1]/preceding::a[1]</value>
+      <webElementGuid>a225411a-0a35-420c-9003-f62095f655db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '#')])[4]</value>
+      <value>(//a[contains(@href, '#')])[6]</value>
+      <webElementGuid>bc107446-906b-4eb5-b346-12902537bb3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +98,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ngx-select/div/ul/li/a</value>
+      <webElementGuid>1d7dc83b-04d1-49cd-ab81-2c82220a1ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '--Select--' or . = '--Select--')]</value>
+      <webElementGuid>c567c54b-5e67-4e1c-bf2e-c64a481b65fe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

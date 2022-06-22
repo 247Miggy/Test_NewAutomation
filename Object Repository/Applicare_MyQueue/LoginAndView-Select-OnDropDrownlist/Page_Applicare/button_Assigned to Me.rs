@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>3a45c685-28fe-4d92-bec1-632870aaa6ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>a87ad487-a028-455a-85bc-5a3b309f4a25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>dropdownAssignment</value>
+      <webElementGuid>b13992cb-f4a4-45c1-8c82-ab15d9c249fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-toggle btn btn-faded</value>
+      <webElementGuid>d8a3048e-272d-4fc0-96ac-266fb8e161bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>88b1ed45-7184-41f4-8559-b2314df42475</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,6 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Assigned to Me </value>
+      <webElementGuid>775682ef-167a-4b77-806b-26c765bf4750</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dropdownAssignment&quot;)</value>
+      <webElementGuid>e004ea16-c836-4f6b-8a7c-63ee1e9cf8a0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='dropdownAssignment']</value>
+      <webElementGuid>40d46c4b-90fb-4b52-b838-b2e19b8f4edb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,13 +86,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignment'])[1]/following::button[1]</value>
+      <webElementGuid>811e4dc0-a97f-4306-b979-cb1eb793f92e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADVANCED'])[1]/following::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-Agent'])[1]/following::button[1]</value>
+      <webElementGuid>d5f7342a-3123-4445-8439-5c8dac2c6f5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All Applicants'])[1]/preceding::button[1]</value>
+      <webElementGuid>e20488a7-4e8c-428c-a1ea-a2c4b1573d5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned to Me'])[2]/preceding::button[1]</value>
+      <webElementGuid>24367159-07ba-4d4c-bbb1-6cbb4b009abf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,12 +118,22 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Assigned to Me']/parent::*</value>
+      <webElementGuid>85cbd41d-fba9-4cf9-9a95-9b60036bafcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
+      <value>//div[2]/button</value>
+      <webElementGuid>186f6c57-65ea-4136-9545-95ec19243b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'dropdownAssignment' and (text() = ' Assigned to Me ' or . = ' Assigned to Me ')]</value>
+      <webElementGuid>cb00f663-0380-4dfa-b213-d4c4a0c57bc5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

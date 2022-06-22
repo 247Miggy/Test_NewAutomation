@@ -19,121 +19,52 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Apps')
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Login')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
     'P24717737')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
     'nB2dBQqcd2EcVwPhuqgMuQ==')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/button_Login'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/span_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20217926636')
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
+    'A2022316165517')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/button_Assigned to Me'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/button_Assigned to Me'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/li_All Applicants'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/li_All Applicants'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/mat-icon_close'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/mat-icon_close'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/mat-icon_launch'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/mat-icon_launch'))
 
-WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Birth Date_dateOfBirth'), '03/01/1990')
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/input_Last Name_lastName'), 
+    'Santos')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/main_face Personal Information Last NameSuf_d73993'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/main_face Personal Information Last NameSuf_359393'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Primary Email_email'), 
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/input_First Name_firstName'), 
+    'Elmerist')
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/button_Male'))
+
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/input_Primary Email_email'), 
     'jose.sanchez@247-inc.com')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Jobstreet.com'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/main_face Personal Information Last NameSuf_36ba7f'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
-    'link')
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/input_Primary Mobile Number_primaryMobileNumber'), 
+    '9177931009')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/a_LinkedIn'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/button_Save Changes'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Lot, Block, Street_permanentBlockLotH_ed3606'), 
-    'test street')
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/PD_LoginAndRequiredFields/Page_Applicare/button_OK'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Subdivision, Barangay_permanentSubdiv_7aa789'), 
-    'test barangay')
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select city of residence'))
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_City of Residence_ngx-select__search _9e85b7'), 
-    'pas')
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/li_Pasay City'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_Pasay City'))
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Lot, Block, Street_presentBlockLotHou_865d61'), 
-    'test street')
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Subdivision, Barangay_presentSubdivis_4d25fb'), 
-    'test barangay')
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select city of residence'))
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_City of Residence_ngx-select__search _9e85b7'), 
-    'pasig')
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_Pasig City'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_BachelorsCollege Degree'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_BachelorsCollege Degree'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select a school'))
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_School_ngx-select__search form-control'), 
-    'adam')
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_Adamson University'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select a course'))
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Course_ngx-select__search form-control'), 
-    'information')
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_BS in Information Technology'))
-
-WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_Date Graduated_dateGraduated'), 
-    '03/29/2013')
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select a segment'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_Experienced Agent (6 months Internatio_93675d'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/button_Yes'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/button_Yes'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select call center exp'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_6 months or less'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/button_Save Changes'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/button_OK'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Success  Personal Information has been updated'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select call center exp'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_6 months or less'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/button_Save Changes'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/button_OK'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Success  Professional Qualification has_2e36c9'), 
-    0)
+WebUI.closeBrowser()
 

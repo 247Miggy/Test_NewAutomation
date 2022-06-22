@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Facebook.com_dropdown-toggle</name>
+   <tag></tag>
+   <elementGuidId>aa592a40-5e29-4ae2-b191-cc9877e0c1c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-application-view[1]/main[1]/application-form[1]/applicant-details[1]/div[@class=&quot;parent-container&quot;]/main[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;applicant-details&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/ngx-select[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ngx-select dropdown&quot;]/div[@class=&quot;ngx-select__selected&quot;]/div[@class=&quot;ngx-select__toggle btn form-control&quot;]/span[@class=&quot;ngx-select__toggle-buttons&quot;]/i[@class=&quot;dropdown-toggle&quot;][count(. | //*[@class = 'dropdown-toggle']) = count(//*[@class = 'dropdown-toggle'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.dropdown-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>de5c0b64-4304-49bf-b185-26707da65951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle</value>
+      <webElementGuid>1ab75db1-cb37-4737-8d5f-c05eb2564d7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-application-view[1]/main[1]/application-form[1]/applicant-details[1]/div[@class=&quot;parent-container&quot;]/main[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;applicant-details&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/ngx-select[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ngx-select dropdown&quot;]/div[@class=&quot;ngx-select__selected&quot;]/div[@class=&quot;ngx-select__toggle btn form-control&quot;]/span[@class=&quot;ngx-select__toggle-buttons&quot;]/i[@class=&quot;dropdown-toggle&quot;]</value>
+      <webElementGuid>90db6f2b-9df2-4f08-a89d-a53727e9d55e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>56c321bf-fec7-4211-950a-89a529c58771</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

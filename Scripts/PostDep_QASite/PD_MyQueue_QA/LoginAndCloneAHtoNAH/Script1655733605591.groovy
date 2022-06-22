@@ -19,50 +19,53 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Apps')
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Login')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
     'P24717737')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/div_UsernamePasswordLoginForgot Password'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
     'nB2dBQqcd2EcVwPhuqgMuQ==')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/button_Login'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/span_Login'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/button_Assigned to Me'))
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
+    'A2022316165430')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/li_All Applicants'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/button_Assigned to Me'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A2022616169184')
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/li_All Applicants'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/mat-icon_close'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/mat-icon_close'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/mat-icon_launch'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/mat-icon_launch'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/button_Clone to another application'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/button_Clone to another application'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/div_Select Position Type'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/div_Select Position Applied For'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/a_Non-Agent'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/a_Data Network Engineer'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/div_Select Position Applied For'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/div_Select Position Applied For'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/a_Data Network Specialist'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/span_Corporate - Data Network Engineer'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/textarea_Remarks_remarks'), 
-    'Test Remarks')
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/textarea_Remarks_remarks'), 
+    'test remarks')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/button_Recommend'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/button_Recommend'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/button_OK'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/button_OK'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/button_OK'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/Page_Applicare/div_Success  The application has been succe_ca16f8'), 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/div_The application has been successfully c_0151b4'))
+
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/button_Ok (1)'))
+
+WebUI.closeBrowser()
 

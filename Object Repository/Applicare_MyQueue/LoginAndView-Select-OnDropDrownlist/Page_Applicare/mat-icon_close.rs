@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep-10-2021 - Sep-17-2021'])[1]/following::mat-icon[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Jun-15-2022 - Jun-22-2022'])[1]/following::mat-icon[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
+      <webElementGuid>d0a31b15-8763-48fa-996c-6ecd71756041</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
+      <webElementGuid>3d6285f1-2300-4a28-a534-2d90c0a4a122</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color</value>
+      <webElementGuid>f8912d04-5a10-4b04-ba66-847bc6c60118</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>91934074-d768-4704-9edd-07a02061cf88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,6 +58,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
+      <webElementGuid>8557d7e8-3b01-41ec-b3c4-53fe141288ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,6 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>close</value>
+      <webElementGuid>7df18383-cc45-4b60-9d89-cb172afb4416</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,13 +74,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-recruitment-queue[1]/div[@class=&quot;main-container&quot;]/header[1]/div[@class=&quot;filter-section&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;btn-group&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color&quot;]</value>
+      <webElementGuid>a75bc292-69be-43f6-8c3d-1f57f2ac4168</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep-10-2021 - Sep-17-2021'])[1]/following::mat-icon[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jun-15-2022 - Jun-22-2022'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>5509a093-76f0-4471-9795-9d9e245bc385</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,20 +90,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Date'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>7811a268-5341-4498-8c90-8321f9bc4a99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='App ID'])[1]/preceding::mat-icon[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Applicants found. Have you tried to change the filters?'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>359a7a1b-6dfe-41f9-b58f-a50d9304b69d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::mat-icon[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>ac0823f6-57fd-4658-97ff-cd27a5b078ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,12 +114,22 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='close']/parent::*</value>
+      <webElementGuid>48a6b8de-4038-45be-91cd-a1380321894d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/mat-icon</value>
+      <value>//div[4]/div/mat-icon</value>
+      <webElementGuid>adbfc9ac-7868-416c-b341-4d65292f2e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'close' or . = 'close')]</value>
+      <webElementGuid>aa29ca49-9cb4-4afd-955b-053a6e25a53c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

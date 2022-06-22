@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>8bd1bc36-13b1-4263-8f19-b8607a3ee6df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body</value>
+      <webElementGuid>59eb51b3-7534-4d16-9c01-d14dd632aa4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>UsernamePasswordLoginForgot Password</value>
+      <webElementGuid>1ce9afc9-8cce-4977-828b-dfe1ceda6033</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-login[1]/div[@class=&quot;main-container&quot;]/div[@class=&quot;login-card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>a3ad9f24-bf63-42fd-a8f6-25712c7992aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicare'])[2]/following::div[1]</value>
+      <webElementGuid>d9e10ae1-4b2d-4281-9b9f-cd34e8c2f0f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,5 +62,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]</value>
+      <webElementGuid>a957bb3a-5d04-45a1-a55f-ac1cf3e34920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'UsernamePasswordLoginForgot Password' or . = 'UsernamePasswordLoginForgot Password')]</value>
+      <webElementGuid>cf5f86a3-db50-4e68-9cb1-00d25efbecf8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

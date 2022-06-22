@@ -36,7 +36,7 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewStat
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewStatusLogs/Page_Applicare/li_All Applicants'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewStatusLogs/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20219926825')
+    'A2022616169178')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndViewStatusLogs/Page_Applicare/mat-icon_close'))
 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Select highest qualification_dropdown-toggle</name>
+   <tag></tag>
+   <elementGuidId>0b95e98c-af7c-45d7-a74b-b1bddd8df53d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ngx-select[name=&quot;highestQualification&quot;] > div.ngx-select.dropdown > div.ngx-select__selected > div.ngx-select__toggle.btn.form-control > span.ngx-select__toggle-buttons > i.dropdown-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-professional-experience/main/form/div/div/div/ngx-select/div/div[2]/div/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>57e3934f-d3c4-4818-8bb3-3b616a1ec2c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle</value>
+      <webElementGuid>e2ce9e1c-a997-4fca-aae0-62e9fa1c2322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-application-view[1]/main[1]/application-form[1]/div[@class=&quot;main-container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;application-form&quot;]/main[1]/div[@class=&quot;card-body&quot;]/section[@class=&quot;main-form&quot;]/div[@class=&quot;pt-3&quot;]/app-professional-experience[1]/main[1]/form[@class=&quot;form-sm ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;form-section&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-sm-6&quot;]/ngx-select[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ngx-select dropdown&quot;]/div[@class=&quot;ngx-select__selected&quot;]/div[@class=&quot;ngx-select__toggle btn form-control&quot;]/span[@class=&quot;ngx-select__toggle-buttons&quot;]/i[@class=&quot;dropdown-toggle&quot;]</value>
+      <webElementGuid>db8cf107-e5d4-4da0-84ee-d6c0dff3ad26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-professional-experience/main/form/div/div/div/ngx-select/div/div[2]/div/span[2]/i</value>
+      <webElementGuid>7ebd602f-b0ae-419a-9ef6-e3fc29ebf511</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

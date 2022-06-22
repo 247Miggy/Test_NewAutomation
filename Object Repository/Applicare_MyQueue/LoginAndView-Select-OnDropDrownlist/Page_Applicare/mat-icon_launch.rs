@@ -11,10 +11,11 @@
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='JO Accepted'])[2]/following::mat-icon[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='CBI: ANOBJP: Non-Serviceable Area'])[2]/following::mat-icon[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -25,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
+      <webElementGuid>b1a13820-4709-46a3-a599-124cdb68f94b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -32,6 +34,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
+      <webElementGuid>4dc4165d-59b0-4ac5-a199-7aa7412fb05a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,6 +42,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>launch</value>
+      <webElementGuid>ca9fd7a6-3409-4ed9-98cd-5ff92b7a597c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,6 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color</value>
+      <webElementGuid>2a840bd4-e4eb-4a6b-880d-3c84875acab0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,6 +58,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>454e3f13-e463-4dca-9e83-9033def3eadb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,6 +66,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
+      <webElementGuid>26f3ec5f-5408-4c5e-bfd9-30a5da8ceac0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -67,20 +74,23 @@
       <name>text</name>
       <type>Main</type>
       <value>launch</value>
+      <webElementGuid>4a8223e9-0521-49ab-be12-28e24eb95054</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-recruitment-queue[1]/div[@class=&quot;main-container&quot;]/main[1]/table[@class=&quot;separated&quot;]/tbody[1]/tr[1]/td[@class=&quot;centered&quot;]/span[2]/button[@class=&quot;btn btn-default btn-icon&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color&quot;]</value>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dhp-layout&quot;]/app-recruitment-queue[1]/div[@class=&quot;main-container&quot;]/main[1]/table[@class=&quot;separated&quot;]/tbody[1]/tr[1]/td[10]/div[@class=&quot;action-col&quot;]/button[@class=&quot;btn btn-default mr-3 btn-icon&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color&quot;]</value>
+      <webElementGuid>e73f61ca-a573-4fdd-9e50-b29c164052d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='JO Accepted'])[2]/following::mat-icon[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CBI: ANOBJP: Non-Serviceable Area'])[2]/following::mat-icon[3]</value>
+      <webElementGuid>c07897fb-11bc-49c4-b1de-a532b0c42be6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,6 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Application'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>40f4ab6b-9467-4c0f-8bb7-6e643c35e162</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>b3e43930-5124-4d81-9fcd-b2b78a337693</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,12 +114,22 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='launch']/parent::*</value>
+      <webElementGuid>e0001b0c-7b76-43d5-ae5d-377e92846149</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/button/mat-icon</value>
+      <value>//button[3]/mat-icon</value>
+      <webElementGuid>b42e491f-d0e2-46b6-b44e-7e7b448f8ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'launch' or . = 'launch')]</value>
+      <webElementGuid>891c11cd-8324-4d9e-8fbf-30e99d7cc071</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -70,15 +70,6 @@ WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAs
 
 WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/div_Success  The new assessment has been saved'))
 
-WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/div_Add new assessment'))
-
-'Will failed on test script not yet available on current environment\r\n'
-WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/a_DABA'))
-
-WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/mat-icon_add'))
-
-WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/div_Success  The new assessment has been saved'))
-
 WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/i_Add new assessment_dropdown-toggle_1_2'))
 
 WebUI.click(findTestObject('Applicare_MyQueue/MyQueueAssessment/LoginAndAddAllAssessments/Page_Applicare/a_OCA'))
