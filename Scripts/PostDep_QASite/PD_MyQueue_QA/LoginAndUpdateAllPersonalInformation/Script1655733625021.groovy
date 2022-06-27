@@ -19,86 +19,52 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Apps')
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Login')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/div_UsernamePasswordLoginForgot Password'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
     'P24717737')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/div_UsernamePasswordLoginForgot Password'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
     'nB2dBQqcd2EcVwPhuqgMuQ==')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/span_Login'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/span_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A20217926654')
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
+    'A2022316163913')
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/button_Assigned to Me'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/button_Assigned to Me'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/li_All Applicants'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/li_All Applicants'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/mat-icon_close'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/mat-icon_close'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/mat-icon_launch'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/mat-icon_launch'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Last Name_lastName'), 
-    'Richarded')
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/button_Male'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_First Name_firstName'), 
-    'Barbaraed')
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/span_Select civil status'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/div_Single'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/a_Single'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/span_Married'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/application-form_Nolasco, Juan Carlo  De Ca_753f4a'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/button_Male'))
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/input_Primary Mobile Number_primaryMobileNumber'), 
+    '9177931009')
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Primary Mobile Number_primaryMobileNumber'), 
-    '918353158')
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/main_face Personal Information Last NameSuf_def16e'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/main_face Personal Information Last NameSuf_828dd8'))
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Primary Mobile Number_primaryMobileNumber'), 
-    '918353158')
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Secondary Mobile Number_secondaryMobi_a43af4'), 
-    '918353851')
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/main_face Personal Information Last NameSuf_828dd8'))
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Primary Email_email'), 
+WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/input_Primary Email_email'), 
     'jose.sanchez@247-inc.com')
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Lot, Block, Street_permanentBlockLotH_ed3606'), 
-    'test street1')
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/div_for Processing'))
 
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Subdivision, Barangay_permanentSubdiv_7aa789'), 
-    'test barangay1')
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/span_CBI Active NAH (NES)'))
 
-WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select city of residence'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/button_Save Changes'))
 
-WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_City of Residence_ngx-select__search _9e85b7'), 
-    'pasa')
-
-WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_Pasay City'))
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Lot, Block, Street_presentBlockLotHou_865d61'), 
-    'test street2')
-
-WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/input_Subdivision, Barangay_presentSubdivis_4d25fb'), 
-    'test barangay2')
-
-WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/div_Select city of residence'))
-
-WebUI.setText(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/input_City of Residence_ngx-select__search _9e85b7'), 
-    'pasig')
-
-WebUI.click(findTestObject('Applicare_MyQueue/LoginAndRequiredFields2/Page_Applicare/span_Pasig City'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/button_Save Changes'))
-
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndUpdateAllPersonalInformation/Page_Applicare/button_OK'))
+WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/MyQueue_Status/LoginAndUpdateStatusToCBIActive/Page_Applicare/button_OK'))
 

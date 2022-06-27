@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre-Condition: All required fields are populated
+ISI-1065 
+Able to update to CBI No Show and Not Qualified for NAH only</description>
+   <name>LoginAndUpdateStatusToCBINotHireBehaviorAttitude</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffb4aa07-b61a-4cfc-8411-0a0aa7350042</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Applicaremenusupervised_user_circleLead_00831e</name>
+   <tag></tag>
+   <elementGuidId>70921765-7dba-4907-83d9-48282c2ba971</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f35466f8-e6ab-4fee-93a5-2d58ef48a40e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex</value>
+      <webElementGuid>4890e904-20c3-47a1-926a-907d4b1e9ed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applicaremenusupervised_user_circleLeads ManagementdashboardMy Queuequestion_answerAI ChatsmsSMS Center  252  External Links manage_accountsPTrackfile_uploadUploaderfile_downloadExport TemplateassignmentContract Approvalassignment_turned_inApproved Contractfact_checkContract Vieweradmin_panel_settingsROPES BOSpending_actionsSpringboardpollReports Gatewayfolder_sharedManage HCIS SMS Info - 202204 info Count : 2 attach_money Cost : Php 0.8 settingskeyboard_arrow_upP24717737Technical Lead ITSS ...lockSign me outvisibilityBack to IRIScalendar_todayMy ScheduleEsquillo, Gima  AlupaniA202231616487603/09/2022 12:55 AMSourceFacebook.comSource DetailsPosition Applied ForPosition Considered ForhelpSelect Position Considered For...Current StatushelpNot Qualified for NAH, endorsed to AHfeedAssessmentslistAttributeslist_altStatus Logsaccount_circleProfile ManagementSend ROPES CredentialssendhelpRecruiter's Notes Instructionfeed Applicant Form Save Changesface Personal Information Last NameSuffixFirst NameMiddle NameBirth Date   Civil StatusSingleGender Male  Female This is requiredPrimary Mobile NumberSecondary Mobile NumberPrimary EmailPermanent AddressLot, Block, StreetSubdivision, BarangayCity of ResidenceSelect city of residence...Present Addresscopy_allCopy Permanent to Present AddressLot, Block, StreetSubdivision, BarangayCity of ResidenceSelect city of residence...school Professional Qualification Educational BackgroundHighest QualificationSecond Year CollegeHas Remaining Back Subject Yes  No SchoolSelect a school...CourseSelect a course...Date GraduatedRelevant ExperienceSegmentSelect a segment...Is Previously Employed Yes  No Has Call Center Experience Yes  No How long? (Cumulative)6 months or lesswork Employment Summary Add Work Experience add Sort by Most Recent keyboard_arrow_downNo Work Experience Recorded.Finalize Assessment Finalize Assessment or Clone to another application facePersonal InformationschoolProfessional Qualificationwork_outlineEmployment SummarysmsSend SMSfact_checkFinalize Assessment</value>
+      <webElementGuid>ad794bf8-f586-4910-ae01-2ac9618c0b85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]</value>
+      <webElementGuid>8cc69320-fe6e-43bf-a4dc-729734dd0ab5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>239018d7-941a-4d19-8f61-2fd330071d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Applicaremenusupervised_user_circleLeads ManagementdashboardMy Queuequestion_answerAI ChatsmsSMS Center  252  External Links manage_accountsPTrackfile_uploadUploaderfile_downloadExport TemplateassignmentContract Approvalassignment_turned_inApproved Contractfact_checkContract Vieweradmin_panel_settingsROPES BOSpending_actionsSpringboardpollReports Gatewayfolder_sharedManage HCIS SMS Info - 202204 info Count : 2 attach_money Cost : Php 0.8 settingskeyboard_arrow_upP24717737Technical Lead ITSS ...lockSign me outvisibilityBack to IRIScalendar_todayMy ScheduleEsquillo, Gima  AlupaniA202231616487603/09/2022 12:55 AMSourceFacebook.comSource DetailsPosition Applied ForPosition Considered ForhelpSelect Position Considered For...Current StatushelpNot Qualified for NAH, endorsed to AHfeedAssessmentslistAttributeslist_altStatus Logsaccount_circleProfile ManagementSend ROPES CredentialssendhelpRecruiter&quot; , &quot;'&quot; , &quot;s Notes Instructionfeed Applicant Form Save Changesface Personal Information Last NameSuffixFirst NameMiddle NameBirth Date   Civil StatusSingleGender Male  Female This is requiredPrimary Mobile NumberSecondary Mobile NumberPrimary EmailPermanent AddressLot, Block, StreetSubdivision, BarangayCity of ResidenceSelect city of residence...Present Addresscopy_allCopy Permanent to Present AddressLot, Block, StreetSubdivision, BarangayCity of ResidenceSelect city of residence...school Professional Qualification Educational BackgroundHighest QualificationSecond Year CollegeHas Remaining Back Subject Yes  No SchoolSelect a school...CourseSelect a course...Date GraduatedRelevant ExperienceSegmentSelect a segment...Is Previously Employed Yes  No Has Call Center Experience Yes  No How long? (Cumulative)6 months or lesswork Employment Summary Add Work Experience add Sort by Most Recent keyboard_arrow_downNo Work Experience Recorded.Finalize Assessment Finalize Assessment or Clone to another application facePersonal InformationschoolProfessional Qualificationwork_outlineEmployment SummarysmsSend SMSfact_checkFinalize Assessment&quot;) or . = concat(&quot;Applicaremenusupervised_user_circleLeads ManagementdashboardMy Queuequestion_answerAI ChatsmsSMS Center  252  External Links manage_accountsPTrackfile_uploadUploaderfile_downloadExport TemplateassignmentContract Approvalassignment_turned_inApproved Contractfact_checkContract Vieweradmin_panel_settingsROPES BOSpending_actionsSpringboardpollReports Gatewayfolder_sharedManage HCIS SMS Info - 202204 info Count : 2 attach_money Cost : Php 0.8 settingskeyboard_arrow_upP24717737Technical Lead ITSS ...lockSign me outvisibilityBack to IRIScalendar_todayMy ScheduleEsquillo, Gima  AlupaniA202231616487603/09/2022 12:55 AMSourceFacebook.comSource DetailsPosition Applied ForPosition Considered ForhelpSelect Position Considered For...Current StatushelpNot Qualified for NAH, endorsed to AHfeedAssessmentslistAttributeslist_altStatus Logsaccount_circleProfile ManagementSend ROPES CredentialssendhelpRecruiter&quot; , &quot;'&quot; , &quot;s Notes Instructionfeed Applicant Form Save Changesface Personal Information Last NameSuffixFirst NameMiddle NameBirth Date   Civil StatusSingleGender Male  Female This is requiredPrimary Mobile NumberSecondary Mobile NumberPrimary EmailPermanent AddressLot, Block, StreetSubdivision, BarangayCity of ResidenceSelect city of residence...Present Addresscopy_allCopy Permanent to Present AddressLot, Block, StreetSubdivision, BarangayCity of ResidenceSelect city of residence...school Professional Qualification Educational BackgroundHighest QualificationSecond Year CollegeHas Remaining Back Subject Yes  No SchoolSelect a school...CourseSelect a course...Date GraduatedRelevant ExperienceSegmentSelect a segment...Is Previously Employed Yes  No Has Call Center Experience Yes  No How long? (Cumulative)6 months or lesswork Employment Summary Add Work Experience add Sort by Most Recent keyboard_arrow_downNo Work Experience Recorded.Finalize Assessment Finalize Assessment or Clone to another application facePersonal InformationschoolProfessional Qualificationwork_outlineEmployment SummarysmsSend SMSfact_checkFinalize Assessment&quot;))]</value>
+      <webElementGuid>970653ea-435e-4898-beb9-6320a80f1bc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

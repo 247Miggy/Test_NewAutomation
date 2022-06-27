@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Applicare_MyQueue/Login
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/span_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
-    'A2022316165430')
+    'A2022316168470')
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/button_Assigned to Me'))
 
@@ -48,11 +48,11 @@ WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHt
 
 WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/div_Select Position Applied For'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/a_Data Network Engineer'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndCloneAHtoNAH/PositionSelected/PositionAppliedFor/a_Associate - Data Network'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/div_Select Position Applied For'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndCloneAHtoNAH/PositionSelected/PositionAppliedForList/div_Select Position Applied For'))
 
-WebUI.click(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/span_Corporate - Data Network Engineer'))
+WebUI.click(findTestObject('Applicare_MyQueue/LoginAndCloneAHtoNAH/PositionSelected/PositionConsideredForv1/a_Corporate - Engineer  - Data Network'))
 
 WebUI.setText(findTestObject('Object Repository/Applicare_MyQueue/LoginAndCloneAHtoNAH/PD_LoginAndCloneAHtoNAH/Page_Applicare/textarea_Remarks_remarks'), 
     'test remarks')

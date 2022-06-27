@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre-Condition: All required fields are populated
+ISI-1065
+Able to update to CBI No Show and Not Qualified for NAH only</description>
+   <name>LoginAndUpdateStatusToCBINotHireMedicalReason</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b59a63a4-0cdf-492b-95de-2d5a4f081021</testCaseGuid>
+</TestCaseEntity>
