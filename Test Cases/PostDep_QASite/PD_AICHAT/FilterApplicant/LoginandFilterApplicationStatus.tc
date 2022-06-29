@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Selected status is Active: No Current opening based on qualification
+Date Filter: 2/28/22 - 3/3/22</description>
+   <name>LoginandFilterApplicationStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8642e178-bf5f-444f-b2ac-2a7d82d8ce50</testCaseGuid>
+</TestCaseEntity>

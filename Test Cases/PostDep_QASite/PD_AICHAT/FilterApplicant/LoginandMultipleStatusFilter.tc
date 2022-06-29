@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Status:
+*Active: No Current opening based on qualification 
+* CBR Phonescreening: Line Busy
+Date: 3/1/2022 to 3/11/2022=</description>
+   <name>LoginandMultipleStatusFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>343cf82a-4cb7-4c7e-9f1f-85fdcee1fd37</testCaseGuid>
+</TestCaseEntity>

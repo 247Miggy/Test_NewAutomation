@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Logout_fas fa-chevron-down_1</name>
+   <tag></tag>
+   <elementGuidId>719f2176-9b19-48ff-838b-e45d46664478</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmFilterRecipients']/div/div/div[2]/div/div/div/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>48908223-8191-4aa7-8b48-be65b112707e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-chevron-down</value>
+      <webElementGuid>c6bd2878-5e9b-4a28-9311-a582fdf1b6d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmFilterRecipients&quot;)/div[@class=&quot;mb-3 ps-0 pe-0 bg-blue-search&quot;]/div[@class=&quot;mb-2 row btn-group&quot;]/div[@class=&quot;form-group m-1 pe-4&quot;]/div[@class=&quot;col-10 offset-1&quot;]/div[@class=&quot;multi-selector&quot;]/div[@class=&quot;select-field&quot;]/div[@class=&quot;input-group-custom&quot;]/span[@class=&quot;drop down-arrow rotate180&quot;]/i[@class=&quot;fas fa-chevron-down&quot;]</value>
+      <webElementGuid>ee66798b-c200-4849-b5b5-26aebbdb5295</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmFilterRecipients']/div/div/div[2]/div/div/div/div/span/i</value>
+      <webElementGuid>6596d8d0-652c-44cc-960f-9782bf675041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>e4fb223c-5d19-49c9-ae29-de9c2f983714</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
