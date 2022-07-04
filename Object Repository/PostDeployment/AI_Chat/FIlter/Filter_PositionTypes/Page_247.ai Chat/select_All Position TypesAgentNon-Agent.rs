@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_All Position TypesAgentNon-Agent</name>
+   <tag></tag>
+   <elementGuidId>db7aca28-cbb8-40c6-a140-a8f2b507ec0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='selectedPositionTypeId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selectedPositionTypeId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>52667c55-764d-49fc-81d3-cea1fbb2d819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-text position-type</value>
+      <webElementGuid>aad79774-55d1-42f5-bc32-3b18c50b593f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a2e35b0a-2c0f-4a56-9650-add793a90fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The selectedPositionTypeId field is required.</value>
+      <webElementGuid>4abb0515-337b-4b8d-9c26-504d8f31aec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selectedPositionTypeId</value>
+      <webElementGuid>d23c12ef-3ce6-44c9-898f-ab32d49d463e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>selectedPositionTypeId</value>
+      <webElementGuid>759aaac3-e5bf-49c3-87ef-eba21b9c63d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Position Types
+Agent
+Non-Agent
+</value>
+      <webElementGuid>f6f8ac71-4919-473f-a3f6-09ed8d0bf1a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selectedPositionTypeId&quot;)</value>
+      <webElementGuid>32a85382-ba9f-4921-9bbb-932cf9890c4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='selectedPositionTypeId']</value>
+      <webElementGuid>35fa5430-ca8e-4739-b3c1-804e94a307e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmFilterRecipients']/div/div/div[4]/div/select</value>
+      <webElementGuid>ab3f58a2-ce85-44bf-bccf-6d8e052f0d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Qualified: Vaccination Requirement'])[1]/following::select[2]</value>
+      <webElementGuid>111d7999-ca42-4673-b943-ad2f2c02c11a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CBI: ANOBJP: Employed'])[1]/following::select[2]</value>
+      <webElementGuid>c9812b88-cd91-49c2-8503-2d619129c97c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ask a question only'])[1]/preceding::select[2]</value>
+      <webElementGuid>aab9e872-700c-43d4-889b-14fdccf0a6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incomplete applications'])[1]/preceding::select[2]</value>
+      <webElementGuid>fbffee30-cb15-4884-825a-d1d844847923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/select</value>
+      <webElementGuid>f6888303-6097-4f71-9aee-c875fd09c470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'selectedPositionTypeId' and @name = 'selectedPositionTypeId' and (text() = 'All Position Types
+Agent
+Non-Agent
+' or . = 'All Position Types
+Agent
+Non-Agent
+')]</value>
+      <webElementGuid>efae8943-7a16-4631-b891-d6f29e02f2a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
