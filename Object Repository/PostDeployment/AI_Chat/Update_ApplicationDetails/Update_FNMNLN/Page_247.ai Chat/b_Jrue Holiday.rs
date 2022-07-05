@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Jrue Holiday</name>
+   <tag></tag>
+   <elementGuidId>bd75fb60-a3d2-4419-978f-bf740a6d7c2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btn_1']/p/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>0a56bd9a-656b-48dd-9944-b3acdc27d8ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jrue Holiday </value>
+      <webElementGuid>9f989f92-dfdd-46fd-a26f-efbd91c48abe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_1&quot;)/p[@class=&quot;text-left  pb-2   mb-0&quot;]/b[1]</value>
+      <webElementGuid>d154cb12-800d-41e0-bd01-affff7a56eef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='btn_1']/p/b</value>
+      <webElementGuid>16a4d0e2-5401-4235-9355-36979c40d554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PS ID: None'])[1]/preceding::b[1]</value>
+      <webElementGuid>2af19eec-0747-4b2a-bb72-6ca94c9c74f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Date: 7/1/2022 4:47:04 PM'])[1]/preceding::b[1]</value>
+      <webElementGuid>1417468f-809a-40fe-9455-f30d732e0131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jrue Holiday']/parent::*</value>
+      <webElementGuid>4c504d38-b610-4c2c-b1e3-92def92fb1e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>7d5f5ad4-4ecf-43b1-8461-8e51926fba5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Jrue Holiday ' or . = 'Jrue Holiday ')]</value>
+      <webElementGuid>8e4cf11e-8f6c-4f7b-89b8-b5d80a05b817</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

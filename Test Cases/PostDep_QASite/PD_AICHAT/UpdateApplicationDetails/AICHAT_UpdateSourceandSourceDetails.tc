@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Source text will be available for the following:
+
+*Word of Mouth
+*Pullers
+*Others, Please specify
+*Employee Referral
+*Non Applicant Referral</description>
+   <name>AICHAT_UpdateSourceandSourceDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7076a47f-75dc-468b-b93f-51650b05ea02</testCaseGuid>
+</TestCaseEntity>
