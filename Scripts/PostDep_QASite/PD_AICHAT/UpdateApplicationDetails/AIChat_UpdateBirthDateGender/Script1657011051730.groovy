@@ -17,3 +17,38 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://ph-chat.247-inc.com/ChatbotAIQA/Identity/Account/Login/')
+
+WebUI.setText(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/Birthdate_Gender/Page_247.ai Chat/input_Employee Id_Input.Email'), 
+    'P24717737')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/Birthdate_Gender/Page_247.ai Chat/input_Password_Input.Password'), 
+    'nB2dBQqcd2EcVwPhuqgMuQ==')
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/Birthdate_Gender/Page_247.ai Chat/button_Log in'))
+
+WebUI.setText(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/Birthdate_Gender/Page_247.ai Chat/input_Logout_nameSearch'), 
+    'Iverson')
+
+WebUI.setText(findTestObject('PostDeployment/AI_Chat/AIChat_Date/Page_247.ai Chat/input_Not Qualified Vaccination Requirement_fromDate'), 
+    '30/6/2022')
+
+WebUI.setText(findTestObject('PostDeployment/AI_Chat/AIChat_Date/Page_247.ai Chat/input_Not Qualified Vaccination Requirement_toDate'), 
+    '01/07/2022')
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/Birthdate_Gender/Page_247.ai Chat/button_Filter'))
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/Birthdate_Gender/Page_247.ai Chat/p_Grey Iverson                             _c54726'))
+
+WebUI.setText(findTestObject('PostDeployment/AI_Chat/AICHAT_Birthdate/Page_247.ai Chat/input_Birth Date_leads.Birthdate'), 
+    '03/03/1989')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/Birthdate_Gender/Page_247.ai Chat/select_Select Gender                       _d6dad5'), 
+    '0', true)
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/Birthdate_Gender/Page_247.ai Chat/button_Save Changes'))
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/Birthdate_Gender/Page_247.ai Chat/input_Are you sure you want to update the a_914883'))
+
