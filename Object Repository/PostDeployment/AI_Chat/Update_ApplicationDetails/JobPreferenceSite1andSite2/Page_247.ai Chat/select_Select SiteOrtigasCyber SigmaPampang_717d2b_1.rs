@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select SiteOrtigasCyber SigmaPampang_717d2b_1</name>
+   <tag></tag>
+   <elementGuidId>bb574978-237c-4ff4-b927-eed47bb7fbc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='leads_JobPreference_Site2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#leads_JobPreference_Site2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b7b89fe6-0ac3-4587-9882-c2bf1d2b54f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-text form-select-sm</value>
+      <webElementGuid>13be83a6-cf59-435d-9569-35696727add1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>leads_JobPreference_Site2</value>
+      <webElementGuid>9b6b4c35-1a81-44bc-9bd5-a6866b5d94fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>leads.JobPreference_Site2</value>
+      <webElementGuid>52685b61-b5d5-4185-b9b7-aa9ef290319d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Site
+Ortigas
+Cyber Sigma
+Pampanga
+Cybergate
+</value>
+      <webElementGuid>8a35fd51-5efa-46c5-8a6d-60950798aa53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leads_JobPreference_Site2&quot;)</value>
+      <webElementGuid>01658d49-5a5d-4af8-8c1c-7df89b00764e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='leads_JobPreference_Site2']</value>
+      <webElementGuid>2aefc02a-dc5b-43e2-a74d-2ef037af2170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appDetailsView']/div[4]/div[22]/select</value>
+      <webElementGuid>26e5d8e6-15ca-4fef-8a58-7a1b184b088c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Preference Site 2'])[1]/following::select[1]</value>
+      <webElementGuid>1e083421-db6f-48c5-95f5-92690af981ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Preference Site'])[1]/following::select[2]</value>
+      <webElementGuid>58a50653-e342-4a8f-90d0-108403b94e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invalid File type (pdf,docx)'])[1]/preceding::select[1]</value>
+      <webElementGuid>21bfa577-0557-43b5-b89f-940dd7a8e07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File or image size exceeds more than 2mb.'])[1]/preceding::select[1]</value>
+      <webElementGuid>3b56cb54-f154-418b-8d1a-43c78f4bd87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[22]/select</value>
+      <webElementGuid>071be8f9-892b-4315-88ab-f24dc73fa00c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'leads_JobPreference_Site2' and @name = 'leads.JobPreference_Site2' and (text() = 'Select Site
+Ortigas
+Cyber Sigma
+Pampanga
+Cybergate
+' or . = 'Select Site
+Ortigas
+Cyber Sigma
+Pampanga
+Cybergate
+')]</value>
+      <webElementGuid>ea3ccce1-49c8-4f9e-bf23-737c1a99d9e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

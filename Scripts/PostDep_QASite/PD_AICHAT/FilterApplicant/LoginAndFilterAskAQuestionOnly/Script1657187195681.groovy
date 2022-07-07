@@ -21,31 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://ph-chat.247-inc.com/ChatbotAIQA/Identity/Account/Login/')
 
-WebUI.setText(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/CityOfResidence/Page_247.ai Chat/input_Employee Id_Input.Email'), 
+WebUI.setText(findTestObject('Object Repository/PostDeployment/AI_Chat/FIlter/AskAQuetionOnly/Page_247.ai Chat/input_Employee Id_Input.Email'), 
     'P24717737')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/CityOfResidence/Page_247.ai Chat/input_Password_Input.Password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/PostDeployment/AI_Chat/FIlter/AskAQuetionOnly/Page_247.ai Chat/input_Password_Input.Password'), 
     'nB2dBQqcd2EcVwPhuqgMuQ==')
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/CityOfResidence/Page_247.ai Chat/button_Log in'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/FIlter/AskAQuetionOnly/Page_247.ai Chat/button_Log in'))
 
-WebUI.setText(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/CityOfResidence/Page_247.ai Chat/input_Logout_nameSearch'), 
-    'Towns')
+WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/FIlter/AskAQuetionOnly/Page_247.ai Chat/input_Ask a question only_AskAQuestionOnly'))
 
 WebUI.setText(findTestObject('PostDeployment/AI_Chat/AIChat_Date/Page_247.ai Chat/input_Not Qualified Vaccination Requirement_fromDate'), 
-    '24/05/2022')
+    '05/07/2022')
 
 WebUI.setText(findTestObject('PostDeployment/AI_Chat/AIChat_Date/Page_247.ai Chat/input_Not Qualified Vaccination Requirement_toDate'), 
-    '25/05/2022')
+    '08/07/2022')
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/CityOfResidence/Page_247.ai Chat/button_Filter'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/CityOfResidence/Page_247.ai Chat/p_Karl Anthony Towns                       _b08404'))
-
-WebUI.setText(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/CityOfResidence/Page_247.ai Chat/input_City Of Residence_leads.CityOfResidence'), 
-    'Quezon City')
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/CityOfResidence/Page_247.ai Chat/button_Save Changes'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/CityOfResidence/Page_247.ai Chat/input_Are you sure you want to update the a_914883'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/FIlter/AskAQuetionOnly/Page_247.ai Chat/button_Filter'))
 
