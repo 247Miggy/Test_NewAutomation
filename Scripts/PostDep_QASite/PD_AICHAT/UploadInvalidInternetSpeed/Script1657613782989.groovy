@@ -44,10 +44,10 @@ WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_Appl
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/UploadResume/Page_247.ai Chat/p_Marshalles Teaches                       _ad3273'))
 
-WebUI.uploadFile(findTestObject('PostDeployment/AI_Chat/UploadFile/InternetSpeed_jpg_jpeg_png/input_Internet Speed (jpg,jpeg,png)_UploadSpeedFile'), 
+WebUI.uploadFile(findTestObject('PostDeployment/AI_Chat/UploadFile/TypingSpeed/input_Typing Speed (jpg,jpeg,png)_DownloadSpeedFile'), 
     'C:\\Users\\jose.sanchez\\Documents\\TESTDATA\\Docs\\file-sample_100kB.doc')
 
-WebUI.getAttribute(findTestObject('PostDeployment/AI_Chat/UploadFile/Resume_doc_docx_pdf/input_Resume (doc,docx,pdf)_CVFile'), 
+WebUI.getAttribute(findTestObject('PostDeployment/AI_Chat/UploadFile/TypingSpeed/input_Typing Speed (jpg,jpeg,png)_DownloadSpeedFile'), 
     'file-sample_100kB.doc')
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/UploadResume/Page_247.ai Chat/button_Upload'))

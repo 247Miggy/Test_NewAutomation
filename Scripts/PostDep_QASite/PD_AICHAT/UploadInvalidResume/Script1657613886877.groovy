@@ -45,10 +45,10 @@ WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_Appl
 WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/UploadResume/Page_247.ai Chat/p_Marshalles Teaches                       _ad3273'))
 
 WebUI.uploadFile(findTestObject('PostDeployment/AI_Chat/UploadFile/Resume_doc_docx_pdf/input_Resume (doc,docx,pdf)_CVFile'), 
-    'C:\\Users\\jose.sanchez\\Documents\\TESTDATA\\Docs\\file-sample_100kB.doc')
+    'C:\\Users\\jose.sanchez\\Documents\\TESTDATA\\Speedtype.jpg')
 
 WebUI.getAttribute(findTestObject('PostDeployment/AI_Chat/UploadFile/Resume_doc_docx_pdf/input_Resume (doc,docx,pdf)_CVFile'), 
-    'file-sample_100kB.doc')
+    'Speedtype.jpg')
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/UploadResume/Page_247.ai Chat/button_Upload'))
 

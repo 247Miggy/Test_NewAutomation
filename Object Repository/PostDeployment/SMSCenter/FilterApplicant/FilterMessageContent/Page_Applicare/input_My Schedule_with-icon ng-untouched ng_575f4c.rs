@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_My Schedule_with-icon ng-untouched ng_575f4c</name>
+   <tag></tag>
+   <elementGuidId>9a0d88f7-6873-4ac6-a834-4cdf46f109dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.with-icon.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f69b9d67-6ba7-4fb3-a49a-84a2af96d3d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>3dc61899-c373-436a-8948-779618f0f0b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search message content...</value>
+      <webElementGuid>5cdcd65c-c969-4001-9243-e514762454fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>with-icon ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>5678cafe-9f18-4a78-816a-bcdfdb2c8eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sms-summary-list&quot;)/div[1]/h1[@class=&quot;advanced-search&quot;]/div[@class=&quot;search-section&quot;]/div[@class=&quot;input-group input-group-primary main-search&quot;]/div[@class=&quot;search-box&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/input[@class=&quot;with-icon ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>b5f7a7f9-3e05-4106-97e9-84f25c247f73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>bbf2c110-aec4-450e-a562-c41836e09857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sms-summary-list']/div/h1/div/div[2]/div/form/input</value>
+      <webElementGuid>03ca81c6-862d-4191-acc6-fa6c2bdd396f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>9b5fcf46-1a79-4bfc-a8cf-bddda011ccb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search message content...']</value>
+      <webElementGuid>72ec9851-1f85-421a-91ae-989e31bbf0f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

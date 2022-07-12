@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>3d763384-8812-4c87-9299-e7661dad9068</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-date-picker[@id='LastActivityDateFilter']/div/ngb-datepicker/div[2]/div/ngb-datepicker-month/div[2]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.custom-day.focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27545637-3c00-4b3c-a69b-87b8b7f0eda8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-day focused</value>
+      <webElementGuid>93f6b468-6ff0-462f-bc22-b14c28e9cc9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 1 </value>
+      <webElementGuid>fb9b80a1-2bd4-4f26-83d3-1af5fe5f5f41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LastActivityDateFilter&quot;)/div[@class=&quot;datepicker pop-up&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-content ngb-dp-months&quot;]/div[@class=&quot;ngb-dp-month&quot;]/ngb-datepicker-month[1]/div[@class=&quot;ngb-dp-week&quot;]/div[@class=&quot;ngb-dp-day&quot;]/span[@class=&quot;custom-day focused&quot;]</value>
+      <webElementGuid>2f314f44-b546-40fb-8e0a-d8e2a8707459</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-date-picker[@id='LastActivityDateFilter']/div/ngb-datepicker/div[2]/div/ngb-datepicker-month/div[2]/div[2]/span</value>
+      <webElementGuid>220e50ff-4fcf-4a12-bd49-8bb9e6e232eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::span[1]</value>
+      <webElementGuid>96468e3b-811a-4412-bb9f-fddfbbd0355a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[1]</value>
+      <webElementGuid>e3dec868-3be6-41be-b7d9-3b0006668784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='April 2022'])[1]/preceding::span[31]</value>
+      <webElementGuid>7bd35799-d5f0-4957-8019-9c95e625825e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[2]/preceding::span[31]</value>
+      <webElementGuid>fddfe2f3-ec41-46dd-8445-0a8fddec31ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>7e685c60-5ff8-4f22-8d30-4e39479379bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>0fb0c29c-7831-4547-9d3a-c0ccbe98e6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 1 ' or . = ' 1 ')]</value>
+      <webElementGuid>f7f898bb-7558-4583-916e-71a2d2f43333</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

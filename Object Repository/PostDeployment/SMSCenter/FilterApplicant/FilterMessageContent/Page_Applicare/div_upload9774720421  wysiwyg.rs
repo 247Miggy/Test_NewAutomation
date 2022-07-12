@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_upload9774720421  wysiwyg</name>
+   <tag></tag>
+   <elementGuidId>fa047fcd-2503-47ab-bc3b-b2396cc4f84f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sms-summary-list']/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc8364fc-cba4-44da-965c-ee51a1a90416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>upload9774720421     wysiwyg</value>
+      <webElementGuid>f049974e-9d72-4bd6-8fcc-b8c30b62b47c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sms-summary-list&quot;)/div[@class=&quot;sms-side&quot;]/div[@class=&quot;item-side-message&quot;]/div[3]</value>
+      <webElementGuid>8eb84d4e-c1f8-42b8-a460-db93eb37043f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sms-summary-list']/div[2]/div/div[3]</value>
+      <webElementGuid>e586e526-e764-4bc8-be80-697d47148cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[no name]'])[1]/following::div[1]</value>
+      <webElementGuid>1bd4184c-c540-4149-bc46-a8dadc70b5c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show all SMS'])[1]/following::div[6]</value>
+      <webElementGuid>188979b8-60c3-4bb7-95a4-4f4cdc9bd21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/preceding::div[1]</value>
+      <webElementGuid>972f5b63-789c-4ecd-b5ff-949dacd251b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(current)'])[1]/preceding::div[1]</value>
+      <webElementGuid>b9f7b341-76b8-4acc-b4b4-bcc9995a7d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>a8f47556-5752-4646-a667-5c574e791d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'upload9774720421     wysiwyg' or . = 'upload9774720421     wysiwyg')]</value>
+      <webElementGuid>ef82277a-9fe5-49ec-aa82-8f35a5669996</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
