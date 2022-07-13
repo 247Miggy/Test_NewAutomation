@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Jul-11-2022 - Jul-13-2022</name>
+   <tag></tag>
+   <elementGuidId>96ba91d8-7029-477c-9a18-970fedf3e9c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.sms-filter-date-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>885d899e-e529-4f2b-8f49-4f308ce1753c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>66acfdfc-71b9-4273-ab30-f5ab7fbb4d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn sms-filter-date-text</value>
+      <webElementGuid>4ca722a4-c989-44f6-b9ec-2318354c07ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Jul-11-2022 - Jul-13-2022 </value>
+      <webElementGuid>25383b4f-b7d1-4964-9ddd-ad24fe77f568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sms-summary-list&quot;)/div[1]/h1[@class=&quot;advanced-search&quot;]/div[@class=&quot;search-section&quot;]/div[@class=&quot;input-group input-group-primary&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;btn-group sms-filter-date&quot;]/button[@class=&quot;btn sms-filter-date-text&quot;]</value>
+      <webElementGuid>8093d6ba-c91a-452a-86b5-59a6e14ebac1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>a0c5af70-2a3f-46e6-bbae-3c05e30d5446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sms-summary-list']/div/h1/div/div[6]/div/div/button</value>
+      <webElementGuid>ff17d515-fa10-4735-a990-adcef6715af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Schedule'])[1]/following::button[1]</value>
+      <webElementGuid>5224f0c7-1b56-4303-8de2-dfb39ac00518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to IRIS'])[1]/following::button[1]</value>
+      <webElementGuid>7978cbe5-acc2-4d13-94e6-019a55ea000c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbound SMS only'])[1]/preceding::button[4]</value>
+      <webElementGuid>9f5b5d55-29d5-49d5-b258-fbc302914e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>5d87dbdf-79bd-4593-8611-af73ad6d875b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Jul-11-2022 - Jul-13-2022 ' or . = ' Jul-11-2022 - Jul-13-2022 ')]</value>
+      <webElementGuid>7dcf716f-89ee-4132-bde0-21e3dd9a80a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

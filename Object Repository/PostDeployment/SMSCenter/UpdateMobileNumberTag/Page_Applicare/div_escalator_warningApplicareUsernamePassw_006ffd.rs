@@ -3,7 +3,7 @@
    <description></description>
    <name>div_escalator_warningApplicareUsernamePassw_006ffd</name>
    <tag></tag>
-   <elementGuidId>7a736bfe-9210-4236-a01c-f3e55e53e89b</elementGuidId>
+   <elementGuidId>a67e49ce-fae3-42c7-91b3-aac1b17e8c66</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>15553364-e350-4627-bfe7-bb6883e714ed</webElementGuid>
+      <webElementGuid>a16070f7-ccfd-4b96-b08e-25d71877d342</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>main-container</value>
-      <webElementGuid>1b3b98a9-29d7-4045-90de-06de8fae15bc</webElementGuid>
+      <webElementGuid>f581e0ff-bb19-4b9c-a268-6582816e48e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>escalator_warningApplicareUsernamePasswordLoginForgot Password Developed and maintained by ITSS-IS 247.ai Philippines </value>
-      <webElementGuid>b3cff760-6b91-473e-80b7-cbd5a2552001</webElementGuid>
+      <webElementGuid>792b7997-651e-43e0-b9f8-9dca6c832c20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-login[1]/div[@class=&quot;main-container&quot;]</value>
-      <webElementGuid>b94ae683-fca5-4f15-ba52-b09d8bd4598a</webElementGuid>
+      <webElementGuid>2ba03b5b-2327-4ef2-81c2-03f8390b940d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div</value>
-      <webElementGuid>6d8cf564-9357-4dfa-b153-2ca2f80d132c</webElementGuid>
+      <webElementGuid>8a15717b-ab84-4a86-bc43-0ddb58d5906e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'escalator_warningApplicareUsernamePasswordLoginForgot Password Developed and maintained by ITSS-IS 247.ai Philippines ' or . = 'escalator_warningApplicareUsernamePasswordLoginForgot Password Developed and maintained by ITSS-IS 247.ai Philippines ')]</value>
-      <webElementGuid>0c318033-2f6d-4bc1-b9a5-23dbfde330bd</webElementGuid>
+      <webElementGuid>a0fed6c3-9b1b-44af-b425-81a39c1db432</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

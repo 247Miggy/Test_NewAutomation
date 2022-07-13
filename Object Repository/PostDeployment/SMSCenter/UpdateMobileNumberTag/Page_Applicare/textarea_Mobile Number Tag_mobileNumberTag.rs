@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Mobile Number Tag_mobileNumberTag</name>
+   <tag></tag>
+   <elementGuidId>d1fe037e-b8bd-4e98-8c53-d7fd7086ac19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='mobileNumberTag']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;mobileNumberTag&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>467f163a-6ce4-447e-afab-923b7ed4b3bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>mobileNumberTag</value>
+      <webElementGuid>e3293b07-4859-4254-88db-1a09822eadf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control sms-mobile ng-untouched ng-dirty ng-valid</value>
+      <webElementGuid>9a30598e-db09-48e6-b358-a212eaad68c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-md&quot;]/div[@class=&quot;modal-content&quot;]/app-sms-center-sender-editor[1]/div[@class=&quot;modal-body overflow-auto&quot;]/div[@class=&quot;form-group&quot;]/textarea[@class=&quot;form-control sms-mobile ng-untouched ng-dirty ng-valid&quot;]</value>
+      <webElementGuid>066ba255-1e74-45e7-a5db-4ac491606eb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='mobileNumberTag']</value>
+      <webElementGuid>2e8b692f-ffa9-405e-a61f-2a6e7b862977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Number Tag'])[2]/following::textarea[1]</value>
+      <webElementGuid>8481d38d-ce4d-4dd8-b304-64f426e76d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Number Tag'])[1]/following::textarea[1]</value>
+      <webElementGuid>37f39907-d495-4429-ae17-5d2fcfa47a8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>319dce95-3319-4528-9817-e772e8cbfe1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/textarea</value>
+      <webElementGuid>167a15d3-63ba-47c7-9289-f89e95eec171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'mobileNumberTag']</value>
+      <webElementGuid>b2165470-1c1e-4bf0-a666-aa5ef8d9cd43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

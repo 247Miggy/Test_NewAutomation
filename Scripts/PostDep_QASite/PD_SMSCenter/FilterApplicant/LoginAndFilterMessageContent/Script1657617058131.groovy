@@ -31,20 +31,25 @@ WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApp
 WebUI.setEncryptedText(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
     'nB2dBQqcd2EcVwPhuqgMuQ==')
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/span_Login'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/a_smsSMS Center  252'))
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/span_SMS Center'))
 
 WebUI.setText(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
     'Jamil')
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/button_Jul-10-2022 - Jul-12-2022_btn btn-li_dec781'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/button_Jul-11-2022 - Jul-13-2022'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/button_Jul-10-2022 - Jul-12-2022_btn btn-li_dec781'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/select_JanFebMarAprMayJunJulAugSepOctNovDec'), 
+    '3', true)
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/span_1'))
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/span_3'))
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/mat-icon_search'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/div_upload9774720421  wysiwyg'))
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/mat-icon_wysiwyg'))
 

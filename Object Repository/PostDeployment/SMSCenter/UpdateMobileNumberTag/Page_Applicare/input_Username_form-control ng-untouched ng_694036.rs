@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_form-control ng-untouched ng_8b7ecf</name>
+   <name>input_Username_form-control ng-untouched ng_694036</name>
    <tag></tag>
-   <elementGuidId>5b91621f-d6c3-4704-b316-f7c81f211bf8</elementGuidId>
+   <elementGuidId>6772c5fa-3bb7-43ab-85e4-b6ec72f896cb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type='password']</value>
+         <value>//input[@type='text']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e21ee13-f4c0-46ad-9eba-222aeccf16b1</webElementGuid>
+      <webElementGuid>244d3f27-5ad5-4498-8289-ba34e53691a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>70046af2-6dc3-444e-b91e-b1685a8f7298</webElementGuid>
+      <value>text</value>
+      <webElementGuid>2a5c6368-800d-40b3-bb0b-1ee753156fb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-valid ng-dirty</value>
-      <webElementGuid>a251c0fb-a9d7-4f70-8d0a-431affc2d069</webElementGuid>
+      <webElementGuid>fc6976b4-6fb6-46f2-af31-70aa5bca045d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,30 +46,30 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-login[1]/div[@class=&quot;main-container&quot;]/div[@class=&quot;login-card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-untouched ng-valid ng-dirty&quot;]</value>
-      <webElementGuid>34b8b4de-8195-41a8-8af0-b1740b20cbfb</webElementGuid>
+      <webElementGuid>611d02be-d46d-430e-a2c1-75b4b3fb0b17</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@type='password']</value>
-      <webElementGuid>a7f7edfc-1905-44b8-9cc8-d13f15e8a690</webElementGuid>
+      <value>//input[@type='text']</value>
+      <webElementGuid>e14aace1-63df-4dfd-a686-19cbe2dd9a1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>c934c129-6118-4682-be95-a814099e46a2</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>22672b4b-c76f-4781-ac34-5871dff20c18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password']</value>
-      <webElementGuid>faf74c14-01f1-432a-80b8-007cbff6327e</webElementGuid>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>a389d26d-f13b-4157-b608-4388c6f6e88b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,16 @@
    <elementGuidId>c8aafd9a-568f-435d-887e-ffb3625eb89a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sms-summary-list']/div/h1/div/div[7]/div/p/button/mat-icon</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.sms-btn-icon-plain > mat-icon.mat-icon.notranslate.material-icons.mat-icon-inline.mat-icon-no-color</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'search' or . = 'search')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sms-summary-list']/div/h1/div/div[7]/div/p/button/mat-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>e1dea41e-f57b-4dc9-aa1f-54c1a122f81c</webElementGuid>
+      <webElementGuid>0ef19eb6-87fd-4980-b7e9-46f50f0620f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>dc3131d1-8dfe-454e-8d6a-d73aacb3b5b8</webElementGuid>
+      <webElementGuid>ebbaa7ec-a789-4c8b-ae3b-f89476c0a0f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color</value>
-      <webElementGuid>44f5ff9c-5d56-4332-a298-ea96cf3c29e5</webElementGuid>
+      <webElementGuid>57010ad2-64fd-462f-9401-f193992832a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3305df0d-eea4-4acc-92c1-76a59ca0158c</webElementGuid>
+      <webElementGuid>62873f86-e43b-4bcc-8d91-6c71028e1540</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>a97a93af-5bd6-4019-a91b-37c64169aa65</webElementGuid>
+      <webElementGuid>2466e277-0c0a-418c-acc6-e89d1da6fee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>0c1a0c46-f601-40b3-b5b6-4ea8efe5b3f2</webElementGuid>
+      <webElementGuid>8c566e05-4bd1-4981-b1a5-496f62f5d14b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sms-summary-list&quot;)/div[1]/h1[@class=&quot;advanced-search&quot;]/div[@class=&quot;search-section&quot;]/div[@class=&quot;input-group&quot;]/div[1]/p[1]/button[@class=&quot;btn sms-btn-icon-plain&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color&quot;]</value>
-      <webElementGuid>47f576b2-6327-451b-aba1-467f8c9294d2</webElementGuid>
+      <webElementGuid>b5c8b4e6-3786-4f65-aeae-edc1e3b50dd8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,15 +82,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sms-summary-list']/div/h1/div/div[7]/div/p/button/mat-icon</value>
-      <webElementGuid>fd95eac9-a255-4063-abdd-8783ae3cc262</webElementGuid>
+      <webElementGuid>8580ee79-fd8a-410e-9552-7c85637a8ba2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mar-01-2022 - Mar-04-2022'])[1]/following::mat-icon[2]</value>
-      <webElementGuid>d85f71c7-1860-4827-b127-a36474de88cf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mar-01-2022 - Mar-03-2022'])[1]/following::mat-icon[2]</value>
+      <webElementGuid>730f0753-b2b2-4a03-a95d-4c46234ef155</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Schedule'])[1]/following::mat-icon[8]</value>
-      <webElementGuid>a809c1bb-803f-4cd9-b982-726fd7ce34b4</webElementGuid>
+      <webElementGuid>cf2aff06-5875-4232-9738-c2e32f01b4ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::mat-icon[1]</value>
-      <webElementGuid>9f7b232f-c3ea-4711-a981-8ae4bb2eb34b</webElementGuid>
+      <webElementGuid>264df499-e997-4960-8076-9d6eff0d5fc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbound SMS only'])[1]/preceding::mat-icon[3]</value>
-      <webElementGuid>d2a5e922-4bb7-4dcd-96f6-019636d3a6f5</webElementGuid>
+      <webElementGuid>6309ed77-208c-4417-b9e2-9c4ee0288c49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/mat-icon</value>
-      <webElementGuid>bd71bf1a-43f9-4282-b4f7-bbd757e28429</webElementGuid>
+      <webElementGuid>81350cf8-7a2b-47d3-b852-2d3270a4483c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-icon[(text() = 'search' or . = 'search')]</value>
-      <webElementGuid>ec4f6102-2c50-4738-9806-7424e6710387</webElementGuid>
+      <webElementGuid>ec77f426-3630-4707-b96d-01a508e55798</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

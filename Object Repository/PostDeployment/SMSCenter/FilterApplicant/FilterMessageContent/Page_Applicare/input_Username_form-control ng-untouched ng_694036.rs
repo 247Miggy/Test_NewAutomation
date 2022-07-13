@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4667b917-6314-4f66-add7-d332b786567e</webElementGuid>
+      <webElementGuid>3932fc3e-6013-4d3b-b80b-a6f21db5c16f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a3ff7b8f-de51-4e03-8162-da3b62661201</webElementGuid>
+      <webElementGuid>a9c84302-9506-4ccd-82a6-9e40dd3f87df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-valid ng-dirty</value>
-      <webElementGuid>c7c5ac8f-27de-42ed-8bb1-40b55c84beb0</webElementGuid>
+      <webElementGuid>3f2a0df7-9e48-48b3-9dd5-3a349a556ba8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-login[1]/div[@class=&quot;main-container&quot;]/div[@class=&quot;login-card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-untouched ng-valid ng-dirty&quot;]</value>
-      <webElementGuid>fb3b7b87-f99e-491f-8e56-94f5855629bc</webElementGuid>
+      <webElementGuid>d8b2356e-2d00-4c0f-87f8-0e4d5d593090</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>bbabd596-52f8-4f83-a420-dfcf374945dc</webElementGuid>
+      <webElementGuid>c3ca769f-af54-4302-9b80-5d5334628ede</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>e6504686-f77a-4e2f-aa36-34491a6d71ac</webElementGuid>
+      <webElementGuid>4b38dcb9-57c5-45b4-b103-02b40d0d32e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>831fa2a1-2bbc-4bbc-b8fe-d51edebdd719</webElementGuid>
+      <webElementGuid>ffe7d000-064a-4171-9bec-23cb1f92036a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

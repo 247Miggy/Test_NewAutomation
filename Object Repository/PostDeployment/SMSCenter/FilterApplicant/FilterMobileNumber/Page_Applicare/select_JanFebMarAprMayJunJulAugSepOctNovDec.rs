@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_JanFebMarAprMayJunJulAugSepOctNovDec</name>
+   <tag></tag>
+   <elementGuidId>eb391d6d-54d6-43cb-b1f6-163e30335230</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-date-picker[@id='LastActivityDateFilter']/div/ngb-datepicker/div/ngb-datepicker-navigation/ngb-datepicker-navigation-select/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.custom-select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>46f5e22b-47c5-4d28-90aa-06bef6b7cef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select</value>
+      <webElementGuid>e42a2157-473a-40e5-a06b-44617aaabdee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select month</value>
+      <webElementGuid>15c6ce31-61f7-47c9-ae98-41fa9cb8af1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select month</value>
+      <webElementGuid>da3d3c31-9cd4-4a96-946c-f90f7de3accf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JanFebMarAprMayJunJulAugSepOctNovDec</value>
+      <webElementGuid>3882afa3-388f-4365-91e2-b96ac2b5c785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LastActivityDateFilter&quot;)/div[@class=&quot;datepicker pop-up&quot;]/ngb-datepicker[1]/div[@class=&quot;ngb-dp-header&quot;]/ngb-datepicker-navigation[1]/ngb-datepicker-navigation-select[@class=&quot;ngb-dp-navigation-select&quot;]/select[@class=&quot;custom-select&quot;]</value>
+      <webElementGuid>f83a82ad-afdf-4698-a3b3-b085de1ec83d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-date-picker[@id='LastActivityDateFilter']/div/ngb-datepicker/div/ngb-datepicker-navigation/ngb-datepicker-navigation-select/select</value>
+      <webElementGuid>33184391-d46b-44f5-87eb-8e8f1c9eab1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jul-11-2022 - Jul-13-2022'])[1]/following::select[1]</value>
+      <webElementGuid>0b16b800-3e5b-4d6c-a426-ce563631dce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Schedule'])[1]/following::select[1]</value>
+      <webElementGuid>0e2fc072-2802-4e32-bf4c-27e71a25a680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July 2022'])[1]/preceding::select[2]</value>
+      <webElementGuid>e8dfa54d-79a9-4230-ab3b-4d5d20b64e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[1]/preceding::select[2]</value>
+      <webElementGuid>2b945303-f920-4a1a-a62f-b3c279a46ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a67037b5-c1c6-4d45-9aa2-1a9492d8f079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Select month' and (text() = 'JanFebMarAprMayJunJulAugSepOctNovDec' or . = 'JanFebMarAprMayJunJulAugSepOctNovDec')]</value>
+      <webElementGuid>95e38a3e-6b44-4369-a92e-13e22bd851bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,3 +17,37 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Login')
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
+
+WebUI.setText(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+    'P24717737')
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
+    'nB2dBQqcd2EcVwPhuqgMuQ==')
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/span_SMS Center'))
+
+WebUI.setText(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/input_My Schedule_with-icon ng-untouched ng_575f4c'), 
+    '9178946806')
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/button_Jul-11-2022 - Jul-13-2022'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/select_JanFebMarAprMayJunJulAugSepOctNovDec'), 
+    '5', true)
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/span_23'))
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/span_27'))
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/mat-icon_search'))
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMobileNumber/Page_Applicare/mat-icon_wysiwyg'))
+

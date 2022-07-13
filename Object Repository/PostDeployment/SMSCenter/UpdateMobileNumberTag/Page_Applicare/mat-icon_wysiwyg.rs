@@ -3,7 +3,7 @@
    <description></description>
    <name>mat-icon_wysiwyg</name>
    <tag></tag>
-   <elementGuidId>8e128ccf-d31f-417a-945d-ee4b9ae78c7f</elementGuidId>
+   <elementGuidId>8d1201e0-cab3-4620-860a-f79cba5c9bdb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>dc1373a4-abf1-4520-9ce9-2c406ab7aaa0</webElementGuid>
+      <webElementGuid>fbfa1cdc-8594-43ad-9bbb-39554270e6f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>0c196be9-ccce-4826-9bac-9dc2b2e850b5</webElementGuid>
+      <webElementGuid>149cf68e-7364-471b-8d3d-e3fa016345d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color</value>
-      <webElementGuid>2c495577-98d2-4570-8c39-5db35093a04b</webElementGuid>
+      <webElementGuid>66d6769b-e573-4b55-aae5-0fccbc62af07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d884c3ba-3779-4d1d-bce1-75403ae6d2ff</webElementGuid>
+      <webElementGuid>abf090bb-550b-4988-b63b-409c5bf795da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>57105a70-5f22-4ab5-baaa-4889dfc11ebf</webElementGuid>
+      <webElementGuid>735e8214-db24-411a-9418-d0e06435c0f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>wysiwyg</value>
-      <webElementGuid>f40711c0-5113-4778-84ee-5ab705163f88</webElementGuid>
+      <webElementGuid>e88bcf5a-86e3-41e9-a313-81fdaa56d120</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sms-summary-list&quot;)/div[@class=&quot;sms-side&quot;]/div[@class=&quot;item-side-message&quot;]/div[3]/span[4]/button[@class=&quot;btn btn-default btn-icon&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-inline mat-icon-no-color&quot;]</value>
-      <webElementGuid>4f318731-68e1-497b-8bfe-0d17ea024add</webElementGuid>
+      <webElementGuid>1d2f3f00-1a2c-49ef-a434-ec180b19b381</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,15 +78,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sms-summary-list']/div[2]/div/div[3]/span[4]/button/mat-icon</value>
-      <webElementGuid>cbc77e4f-b85b-4059-8279-e8f566980113</webElementGuid>
+      <webElementGuid>71c90c8c-4eea-4e37-bbde-2bdfd67eaa55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='[no name]'])[1]/following::mat-icon[2]</value>
-      <webElementGuid>a1245a18-c97d-4a36-aef0-0b635ccf0e2b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lenard'])[1]/following::mat-icon[2]</value>
+      <webElementGuid>fd4160ab-af27-428c-8a4b-be46d89bbefb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show all SMS'])[1]/following::mat-icon[3]</value>
-      <webElementGuid>fd388017-5c09-4d37-ad72-97ed33da9682</webElementGuid>
+      <webElementGuid>d9002a03-7cb8-4a80-9b3d-141cef6632c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Conversation'])[1]/preceding::mat-icon[1]</value>
-      <webElementGuid>18746df9-560f-4769-b54f-889184f2deb5</webElementGuid>
+      <webElementGuid>058f2631-db2d-4ef5-a023-46dd19271da0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/preceding::mat-icon[1]</value>
-      <webElementGuid>ff2ff11b-0848-4e48-a8ee-d26c5087b92e</webElementGuid>
+      <webElementGuid>38d4ba3f-4b1b-46b6-b8a9-13c181613a6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='wysiwyg']/parent::*</value>
-      <webElementGuid>2260281e-af2e-4a33-beb4-47f2583fdfba</webElementGuid>
+      <webElementGuid>467c4234-1541-4652-b3da-b44746fb2038</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[4]/button/mat-icon</value>
-      <webElementGuid>d6a7f2a6-5ea1-4749-a8d2-73f11db1e7da</webElementGuid>
+      <webElementGuid>c5fb7aa0-56bd-46f9-840d-d1312881b4ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-icon[(text() = 'wysiwyg' or . = 'wysiwyg')]</value>
-      <webElementGuid>2a242c24-ef20-45a9-b569-ca0ff3a5b938</webElementGuid>
+      <webElementGuid>93c2603a-7e81-4d10-a788-a7f2c7288cef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

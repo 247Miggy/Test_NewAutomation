@@ -3,7 +3,7 @@
    <description></description>
    <name>span_SMS Center</name>
    <tag></tag>
-   <elementGuidId>5ad1b68b-4189-47c8-9b03-814f6d1decb4</elementGuidId>
+   <elementGuidId>6fba6929-444e-4230-9000-f908344ba792</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>872bf4b2-5630-494f-ac0a-45551a7d0dde</webElementGuid>
+      <webElementGuid>877b35fe-fcf2-408b-8be0-377d61376136</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-text</value>
-      <webElementGuid>a798ba8b-92e4-41a2-9d03-767d736d3caa</webElementGuid>
+      <webElementGuid>2f1dddf8-b44d-46c7-998b-e61d8018d301</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SMS Center </value>
-      <webElementGuid>2f38d207-850d-40f7-8b11-a093993c66fc</webElementGuid>
+      <webElementGuid>c6f0eea5-3d56-4894-8bfe-5ce4a03c51b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/app-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-body mt-3&quot;]/ul[1]/li[4]/a[@class=&quot;active&quot;]/span[@class=&quot;menu-text&quot;]</value>
-      <webElementGuid>0c9f2686-42cb-4bc9-a0c2-99320e59bc8d</webElementGuid>
+      <webElementGuid>b1bb0f05-c192-48ca-8221-972e485ca52f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Chat'])[1]/following::span[1]</value>
-      <webElementGuid>ad684f1f-0b4a-4b75-bf6c-fbd1f4bd9e63</webElementGuid>
+      <webElementGuid>6434a9cf-9b41-456e-b40d-837f13e052a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Queue'])[1]/following::span[2]</value>
-      <webElementGuid>752a694f-c6aa-4540-beb6-c82cc5ad8a07</webElementGuid>
+      <webElementGuid>c67cfabd-2187-4860-8f3a-ec9b3a8a626f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='External Links'])[1]/preceding::span[2]</value>
-      <webElementGuid>ff1dc1ae-f2f4-41c7-b678-cd832dee99b6</webElementGuid>
+      <webElementGuid>22df73e8-5a5a-433a-8656-0a4a3fc4eb43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PTrack'])[1]/preceding::span[2]</value>
-      <webElementGuid>47094855-ee80-413a-9f82-bb3713a2e075</webElementGuid>
+      <webElementGuid>804fa10d-29c7-431b-b677-e289d78e0a7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SMS Center']/parent::*</value>
-      <webElementGuid>f93bb61b-9864-4da2-95cb-fcbbedf580c8</webElementGuid>
+      <webElementGuid>80fddb9d-9ce4-4c1e-ac3e-4503d79d4e4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/span</value>
-      <webElementGuid>e97b01d7-8d67-4edf-b4db-a1a310b8be82</webElementGuid>
+      <webElementGuid>bc18d0ff-b58e-45bf-818d-90d27cf39996</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'SMS Center ' or . = 'SMS Center ')]</value>
-      <webElementGuid>18fd73e1-6c84-4de3-afe5-3d4b5d900b38</webElementGuid>
+      <webElementGuid>1f362595-010f-41c8-baba-612a806fb84d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

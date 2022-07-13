@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_smsSMS Center  252</name>
+   <tag></tag>
+   <elementGuidId>8df874a6-4a18-4ce1-828b-71e7c284afbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Chat'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4016c063-ffe2-4674-a9fd-9afb93fb5034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>../Apps/SmsCenter</value>
+      <webElementGuid>f1c7b509-b8d6-4d72-a970-8f501d1edb59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>a6c29d54-d74f-40bf-bdb7-d2ec623d04fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/Apps/SmsCenter</value>
+      <webElementGuid>25d38953-eb92-4a5c-886d-fa375f70ddb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>smsSMS Center  252 </value>
+      <webElementGuid>46be5167-08b2-47f8-949b-5dbe0dd11a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/app-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-body mt-3&quot;]/ul[1]/li[4]/a[1]</value>
+      <webElementGuid>1a946045-55fd-42c2-8674-4c3485096f8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Chat'])[1]/following::a[1]</value>
+      <webElementGuid>dee87051-882f-445c-8f8c-4c8e4b3d7dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Queue'])[1]/following::a[2]</value>
+      <webElementGuid>8aadc4c3-ef52-443d-ac46-d4da7a7aa752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='External Links'])[1]/preceding::a[1]</value>
+      <webElementGuid>5f4ee4d8-bef0-4d53-a615-a0a47a745748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/Apps/SmsCenter')]</value>
+      <webElementGuid>e4e59828-2365-490f-8b07-c9ccc67d872b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>3c0c48a7-ab79-44e5-bfaa-44983ed85f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/Apps/SmsCenter' and (text() = 'smsSMS Center  252 ' or . = 'smsSMS Center  252 ')]</value>
+      <webElementGuid>13793f6c-963f-48b6-8f58-233adc32abb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
