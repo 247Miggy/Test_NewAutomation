@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Do you have sales experience (with quota)</name>
+   <tag></tag>
+   <elementGuidId>40619dea-79e0-4e50-9048-60eb91f03d59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmApplicationDetails']/div[6]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5d3abebd-796c-4b23-bdb6-280ea4cf75c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label text-blue</value>
+      <webElementGuid>c41b1b7f-4a9d-4510-93f6-5e74d49b59c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ExperienceWithQuota</value>
+      <webElementGuid>75c02da8-94bb-4e68-9ae6-1f36072a2068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Do you have sales experience (with quota)?</value>
+      <webElementGuid>6a87888b-7b02-4f57-8fc9-7da512931fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmApplicationDetails&quot;)/div[@class=&quot;form-group mt-2&quot;]/label[@class=&quot;control-label text-blue&quot;]</value>
+      <webElementGuid>f9113698-e635-4748-9929-b392eb95b278</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmApplicationDetails']/div[6]/label</value>
+      <webElementGuid>46a064d5-9c99-4a9c-b11f-c86cadb625cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/following::label[1]</value>
+      <webElementGuid>fbf2f42a-1754-46cf-bbeb-e76c67f44410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/following::label[2]</value>
+      <webElementGuid>cd096cf7-d2c8-4ddd-b928-1b1289ac24cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you amenable to do BOTH Train/Work-from-Office (TFO/WFO) and Train/Work-from-Home (TFH/WFH)?'])[1]/preceding::label[1]</value>
+      <webElementGuid>6d8fa270-489f-43c7-ad9d-264cb33a6435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is your current DOWNLOAD speed as shown from the app/website?'])[1]/preceding::label[3]</value>
+      <webElementGuid>f33800b4-b23d-435c-96d9-ac0d357627f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Do you have sales experience (with quota)?']/parent::*</value>
+      <webElementGuid>52acb4e9-a4f6-4921-844d-0b3107d3e514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/label</value>
+      <webElementGuid>147c5876-3f60-4f60-8de4-61d3b6455e59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Do you have sales experience (with quota)?' or . = 'Do you have sales experience (with quota)?')]</value>
+      <webElementGuid>99bf74a7-d218-4203-bb2c-f5501d0c48c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
