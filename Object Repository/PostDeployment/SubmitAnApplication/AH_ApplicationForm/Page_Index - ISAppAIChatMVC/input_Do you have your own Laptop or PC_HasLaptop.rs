@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Do you have your own Laptop or PC_HasLaptop</name>
    <tag></tag>
-   <elementGuidId>07c39191-a701-4cd6-bfe1-49625f40017d</elementGuidId>
+   <elementGuidId>3fa00ef6-1311-47bd-b834-14c16edfe432</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6bfae2dc-ed19-4689-b838-f6d64d1e0f64</webElementGuid>
+      <webElementGuid>dd23c790-35f5-45c8-b8a3-42adf4665864</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input</value>
-      <webElementGuid>c0fc4f4a-20c0-4846-bb9a-bb44b490fdea</webElementGuid>
+      <webElementGuid>09477a09-85c9-470a-b4da-61bc3762f5b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>value</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>5ad8c3bc-54f0-4213-81ee-4f71266f851a</webElementGuid>
+      <webElementGuid>3f74042e-52b0-4d5d-8ab5-9d14fe5a5172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>20601c4e-c0c4-4ec4-b3b1-50186429ca65</webElementGuid>
+      <webElementGuid>08dbea8e-28d6-416b-be7e-a4c705ed2977</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>rdHasLaptop1</value>
-      <webElementGuid>2373e271-6caa-424d-9e1c-5779c5b5a10d</webElementGuid>
+      <webElementGuid>51963fa0-8788-41eb-9b40-d76b85e066bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>cb6f89dd-f01c-4342-b4a1-59ec7117256d</webElementGuid>
+      <webElementGuid>717e5af8-09de-4ffe-975e-66527a85d444</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The HasLaptop field is required.</value>
-      <webElementGuid>f3925fff-e8f6-4564-b83e-81e305618397</webElementGuid>
+      <webElementGuid>fde4c6e2-3f5c-43e4-8a8d-74da68a41f2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>name</name>
       <type>Main</type>
       <value>HasLaptop</value>
-      <webElementGuid>3d4809a9-215c-4607-bc6a-c823b7fe3a3e</webElementGuid>
+      <webElementGuid>638d566e-0814-4749-9799-5e52e070f369</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rdHasLaptop1&quot;)</value>
-      <webElementGuid>666b2328-af1e-4fac-b082-f44f47d76772</webElementGuid>
+      <webElementGuid>a01cc178-f03e-4412-a063-947559397154</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='rdHasLaptop1']</value>
-      <webElementGuid>8410e796-dbdf-453e-a9b9-f803d4cce8e0</webElementGuid>
+      <webElementGuid>b048f2aa-fbb6-43d9-a2df-38b343c10889</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmApplicationDetails']/div[4]/div/div/input</value>
-      <webElementGuid>a2f160f1-c5d1-43e2-ab23-35c8d559350d</webElementGuid>
+      <webElementGuid>a8935350-a7ec-48b8-84ea-f04791bc3383</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/input</value>
-      <webElementGuid>a91b1052-bc62-4333-a784-2e71777bc7ef</webElementGuid>
+      <webElementGuid>d99f659f-12f4-4114-91b1-41d67bc5d8f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'rdHasLaptop1' and @name = 'HasLaptop']</value>
-      <webElementGuid>51036380-a71b-4f4f-9824-35ce03a51302</webElementGuid>
+      <webElementGuid>9fbc097e-8e31-4320-a59d-b67662f31043</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

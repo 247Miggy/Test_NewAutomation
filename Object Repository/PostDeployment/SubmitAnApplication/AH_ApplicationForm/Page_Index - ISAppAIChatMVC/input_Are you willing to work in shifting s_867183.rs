@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Are you willing to work in shifting s_867183</name>
    <tag></tag>
-   <elementGuidId>2318aa86-1584-46a5-9b1d-b44bf7875c52</elementGuidId>
+   <elementGuidId>472ff529-e4c4-420a-a3b7-7c6242f46658</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7acdbd01-bbf9-4d4c-91aa-e020c922f3d8</webElementGuid>
+      <webElementGuid>a8949fee-ab28-4aef-92d7-145ecb5af998</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input</value>
-      <webElementGuid>1ad6623b-dda1-44c0-8dbf-bcc953d12113</webElementGuid>
+      <webElementGuid>716d2a32-899a-41f8-93a5-1d503b778c22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>value</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>09965eee-5f16-493b-8ae0-4047f2a86506</webElementGuid>
+      <webElementGuid>3ddd06b5-6e6e-4b4a-9ded-b9947ac9f18f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>9eb6ea37-a0f7-4fef-8afe-607eed22ca4c</webElementGuid>
+      <webElementGuid>d18dedeb-44cd-4274-81de-980c14206cf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>rdIsWillingShifting1</value>
-      <webElementGuid>41918496-f331-4fe1-b9da-ab1c88d24768</webElementGuid>
+      <webElementGuid>07081f34-c1e7-4ec8-9a58-09b6045cfbca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>24c08c20-f240-433f-a67e-0a5976302765</webElementGuid>
+      <webElementGuid>547ffa07-dfc7-4826-966d-d4219f76484a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The IsWillingShifting field is required.</value>
-      <webElementGuid>fc7e0795-3ab6-4d70-8cbb-80440154d4b6</webElementGuid>
+      <webElementGuid>fef77907-2a2f-4287-9774-ad0a2ebe9b1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>name</name>
       <type>Main</type>
       <value>IsWillingShifting</value>
-      <webElementGuid>da7f66bd-b4b0-483a-ba7d-ba5446ea2803</webElementGuid>
+      <webElementGuid>7f540d7c-4f2d-4386-aca5-28c687e966fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rdIsWillingShifting1&quot;)</value>
-      <webElementGuid>78421d76-c80f-4c56-b547-2d521e06dfc2</webElementGuid>
+      <webElementGuid>687bdf51-5763-4349-897f-2bc353fc8de0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='rdIsWillingShifting1']</value>
-      <webElementGuid>c58a7a24-77ed-4e10-85de-2b4d95b7b50f</webElementGuid>
+      <webElementGuid>8b1f48d6-97a4-41fd-af1b-fcb566d4ffa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmApplicationDetails']/div[5]/div/div/input</value>
-      <webElementGuid>845d6f1d-7afe-409c-9172-7a6c560a25ee</webElementGuid>
+      <webElementGuid>afd934e7-aeae-4fa3-bd13-e2f6102ae120</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/input</value>
-      <webElementGuid>beb1f0e0-a2b5-4ece-b2d2-cc6362da3634</webElementGuid>
+      <webElementGuid>64f75834-e774-48e5-afe0-46568f28cebe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'rdIsWillingShifting1' and @name = 'IsWillingShifting']</value>
-      <webElementGuid>5e59a1f1-0ba6-4bea-851e-cbf3b9aeaf3b</webElementGuid>
+      <webElementGuid>db939daf-f95a-4270-8c90-09b6f2e5708c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

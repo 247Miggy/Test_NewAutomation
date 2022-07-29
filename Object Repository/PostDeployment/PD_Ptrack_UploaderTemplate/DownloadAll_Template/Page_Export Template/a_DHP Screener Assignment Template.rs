@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DHP Screener Assignment Template</name>
+   <tag></tag>
+   <elementGuidId>9911468c-a016-41ee-b5b8-85b8bbcfd86c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder1_lnkbtnScreenerAssignment</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_ContentPlaceHolder1_lnkbtnScreenerAssignment']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dcd6a67b-1311-4885-84c8-a6e40aed335c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder1_lnkbtnScreenerAssignment</value>
+      <webElementGuid>e415e0e7-7242-4f30-9bd5-057a1c9b9190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkbtnScreenerAssignment','')</value>
+      <webElementGuid>afe143be-ad16-498f-988f-c06ce06d9f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DHP Screener Assignment Template</value>
+      <webElementGuid>b24bfc76-0956-411a-843f-3cae6099fcad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder1_lnkbtnScreenerAssignment&quot;)</value>
+      <webElementGuid>d197d40d-dc35-48ca-9844-571eafd3a268</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_ContentPlaceHolder1_lnkbtnScreenerAssignment']</value>
+      <webElementGuid>ffae7e2d-ac10-4cb3-8c69-3eab79c7e534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/table[2]/tbody/tr/td/table/tbody/tr[16]/td[2]/a</value>
+      <webElementGuid>40144178-ece6-43c2-82d6-cf8047df8b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DHP Screener Assignment Template')]</value>
+      <webElementGuid>7d431b87-9556-4cb2-9889-4a6d90eece79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DHP Leads Uploader Template'])[1]/following::a[1]</value>
+      <webElementGuid>5e228dcb-2258-49a9-96e2-d844af9cffc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PTRACK-DHP Recruiter Assignment and Status Update Template'])[1]/following::a[2]</value>
+      <webElementGuid>0e4dbc0a-2678-4c9c-9c7e-d3ae17de5adc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name :'])[1]/preceding::a[1]</value>
+      <webElementGuid>57b9c4f3-bd02-47b7-88ed-ec6c05fafa8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label'])[1]/preceding::a[1]</value>
+      <webElementGuid>51fd9e0c-8dfd-4f75-b3df-984a93b70925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DHP Screener Assignment Template']/parent::*</value>
+      <webElementGuid>5ad2238c-3381-4948-9b13-fa33fb5c6085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkbtnScreenerAssignment','')&quot;)]</value>
+      <webElementGuid>fc4fc9d0-46f2-4542-8f3e-89a3e4dd4c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[16]/td[2]/a</value>
+      <webElementGuid>f8182f24-3bae-467b-8e9f-51a89e68eda6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_ContentPlaceHolder1_lnkbtnScreenerAssignment' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$ContentPlaceHolder1$lnkbtnScreenerAssignment&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'DHP Screener Assignment Template' or . = 'DHP Screener Assignment Template')]</value>
+      <webElementGuid>c8c88ebc-9e6b-4e4f-a3b5-2d14ec9c5505</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

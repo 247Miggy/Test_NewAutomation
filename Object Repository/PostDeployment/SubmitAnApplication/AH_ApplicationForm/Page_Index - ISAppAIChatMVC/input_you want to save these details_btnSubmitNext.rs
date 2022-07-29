@@ -3,7 +3,7 @@
    <description></description>
    <name>input_you want to save these details_btnSubmitNext</name>
    <tag></tag>
-   <elementGuidId>cc3981b1-a49d-402c-89bb-59425a9becd5</elementGuidId>
+   <elementGuidId>9ee4eed6-2383-4c24-8aa1-034eb0c60722</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>273aad67-1d16-4d24-b93a-d4af38cd293a</webElementGuid>
+      <webElementGuid>3c0059c8-527c-4688-8d2b-edab5892b962</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>btnSubmitNext</value>
-      <webElementGuid>49a77bd4-facd-48e4-8a9d-d347d2b17a44</webElementGuid>
+      <webElementGuid>36ca5eb9-9cf5-40b4-88f1-37ed215c9c6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success  float-end</value>
-      <webElementGuid>20969004-6f4a-4c1f-9be3-7b8f8e0b1f06</webElementGuid>
+      <webElementGuid>1a04c142-919d-4883-bc55-223022cc7657</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>d67ad887-48e1-41ca-9a65-d93efc33ff82</webElementGuid>
+      <webElementGuid>30710bf0-3426-456a-be40-69444fdcaf87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>2427d75e-f975-483e-873c-eb8994ecab4e</webElementGuid>
+      <webElementGuid>3473f9da-5f04-4b5e-868e-0364e63fab44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;exampleModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/input[@class=&quot;btn btn-success  float-end&quot;]</value>
-      <webElementGuid>7db02448-95ad-451f-ab86-aaca25eb2894</webElementGuid>
+      <webElementGuid>29251e6b-51c8-4375-a6ec-2a84a31e50ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='btnSubmitNext']</value>
-      <webElementGuid>e2bbfe98-ed57-4421-94d4-3dfe66056386</webElementGuid>
+      <webElementGuid>6744f139-8034-4e9f-be19-43dec597d5a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='exampleModal']/div/div/div[3]/input</value>
-      <webElementGuid>1e7512da-16c1-49b4-8362-4f8a081e9281</webElementGuid>
+      <webElementGuid>05fb186d-7812-4c0f-8b42-2a49323c0cce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>8a3dbf15-6cba-43a6-896b-d873fe689e9e</webElementGuid>
+      <webElementGuid>5bf7b26c-0e46-4564-ab1f-3a842803a4c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'btnSubmitNext' and @type = 'submit']</value>
-      <webElementGuid>13b6900e-dbde-452b-aff6-382f968e9d56</webElementGuid>
+      <webElementGuid>19dfa460-4c4b-472f-8d47-4f951b0f1d65</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

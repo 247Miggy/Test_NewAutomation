@@ -3,7 +3,7 @@
    <description></description>
    <name>select_Select Highest Educational Attainmen_02ca02</name>
    <tag></tag>
-   <elementGuidId>bdc616d8-157d-4432-8e15-46ed8426f022</elementGuidId>
+   <elementGuidId>3567280e-9e78-44ae-9891-8bd16b8159e6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>391792d4-5d97-4ee4-b3cd-3f117df19dfb</webElementGuid>
+      <webElementGuid>d9ed3c0a-2b20-430f-8309-144fed18109b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-select form-text form-select</value>
-      <webElementGuid>1501f319-69ea-446e-b883-94c551ea3ba8</webElementGuid>
+      <webElementGuid>5db5ce3d-0f54-4fda-bedd-44cf1c4fa9ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>912e7173-af6e-4238-b789-405b64540036</webElementGuid>
+      <webElementGuid>eeeab16d-2771-4c20-bedc-710661a30c63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-range</name>
       <type>Main</type>
       <value>Please select Educational Attainment</value>
-      <webElementGuid>79937d36-6f38-4976-a350-cc4f9919768e</webElementGuid>
+      <webElementGuid>9a0afd0e-19a7-4f74-8485-8979f19532f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-range-max</name>
       <type>Main</type>
       <value>2147483647</value>
-      <webElementGuid>c083e8ec-8508-467f-a19d-04eb5b1f7a07</webElementGuid>
+      <webElementGuid>3c75c4c4-92d8-4c11-8fe8-aaa32c9ba179</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-val-range-min</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>6a230f2d-2ad2-4623-b400-54d02b9428da</webElementGuid>
+      <webElementGuid>156b09fb-299f-4531-80f2-18e2c3216368</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>Educational attainment is required</value>
-      <webElementGuid>bcd69d56-adab-44ef-a5bc-75550192abd3</webElementGuid>
+      <webElementGuid>de7d9d12-e825-4b7a-9ecd-5473138d859b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>id</name>
       <type>Main</type>
       <value>HighestQualificationLevelId</value>
-      <webElementGuid>3cbdd5f6-d22f-4a9a-bee3-063979954129</webElementGuid>
+      <webElementGuid>28ed3d2a-760e-4f60-849d-419b6d87b1ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>name</name>
       <type>Main</type>
       <value>HighestQualificationLevelId</value>
-      <webElementGuid>4de54199-af85-404f-ac12-c3860cfe3468</webElementGuid>
+      <webElementGuid>32d48d9e-e69d-4dcb-a6e7-208eb74cac10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -106,7 +106,7 @@ Third Year College
 Fourth Year College
 Senior High School
 </value>
-      <webElementGuid>d7c68402-3a4f-457b-bfd4-9f02bd67c4bf</webElementGuid>
+      <webElementGuid>e312b98f-72b0-45f3-90f1-73720513eb03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@ Senior High School
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;HighestQualificationLevelId&quot;)</value>
-      <webElementGuid>b92b6feb-68f5-4cde-b9de-b2031be9e43b</webElementGuid>
+      <webElementGuid>99a882a3-cdec-43be-875f-8168c0516372</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -122,7 +122,7 @@ Senior High School
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='HighestQualificationLevelId']</value>
-      <webElementGuid>951ae35c-2738-4966-b6a9-36b635521309</webElementGuid>
+      <webElementGuid>3828a21e-8dcf-4271-816d-2c10600b063c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@ Senior High School
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='dvPersonalInfo']/form/div[4]/select</value>
-      <webElementGuid>423efc95-8afd-4302-abd5-f00965382d15</webElementGuid>
+      <webElementGuid>4174e49a-5f0c-45cc-a7d9-c7dba3f4c840</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@ Senior High School
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='What is your highest educational attainment? *'])[1]/following::select[1]</value>
-      <webElementGuid>6f2a290c-61df-4394-aee2-96d03986fee3</webElementGuid>
+      <webElementGuid>d8b7ed3e-5e9b-4ac1-bdf0-d91b3110d119</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,7 +146,7 @@ Senior High School
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address *'])[1]/following::select[1]</value>
-      <webElementGuid>9e97f4dc-ae75-4329-8a9e-ca89d62289f9</webElementGuid>
+      <webElementGuid>3954851a-1441-4ae3-bced-384d1b7de287</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -154,7 +154,7 @@ Senior High School
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='How did you find out about our job opening? *'])[1]/preceding::select[1]</value>
-      <webElementGuid>56811068-7ca3-4a38-b601-bb6d70880290</webElementGuid>
+      <webElementGuid>5fdbcf90-a616-4844-b13b-e923d4cf5a88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -162,7 +162,7 @@ Senior High School
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Position Applied For *'])[1]/preceding::select[2]</value>
-      <webElementGuid>b7095e10-a645-4121-ae91-4f1518d98b50</webElementGuid>
+      <webElementGuid>a81cfa15-0a0a-469c-8100-86838d683762</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -170,7 +170,7 @@ Senior High School
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>6451db56-92fe-4b7a-b579-9a189d7d9975</webElementGuid>
+      <webElementGuid>aa7709c8-783d-4e2c-8ce4-836380ad2cec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -202,6 +202,6 @@ Third Year College
 Fourth Year College
 Senior High School
 &quot;))]</value>
-      <webElementGuid>73ded344-c95b-4d34-af94-7dd86b5c3f6c</webElementGuid>
+      <webElementGuid>a53c5a3e-e67f-45bf-849c-bf7da37de4b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

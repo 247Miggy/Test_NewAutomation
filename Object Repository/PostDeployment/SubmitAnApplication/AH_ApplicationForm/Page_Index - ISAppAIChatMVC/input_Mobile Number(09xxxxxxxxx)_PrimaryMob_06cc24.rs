@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Mobile Number(09xxxxxxxxx)_PrimaryMob_06cc24</name>
    <tag></tag>
-   <elementGuidId>6f99198b-ca3e-436e-b2db-b78a3ecf7a48</elementGuidId>
+   <elementGuidId>d17edfa1-9b86-4991-acbc-0b85c8059ad1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e718c928-22d8-4434-b0cd-83263ea586ca</webElementGuid>
+      <webElementGuid>9a6cce4e-0bbc-447e-8fd9-6d5b4eacb4c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-text form-control-sm</value>
-      <webElementGuid>d19cc7d2-9695-4261-9a5b-799c037190f2</webElementGuid>
+      <webElementGuid>96f0d23e-c82a-4348-a820-8f0d955d5b60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>11</value>
-      <webElementGuid>65269ccd-12ec-4ba3-8c2e-74458cc8853f</webElementGuid>
+      <webElementGuid>ac0793bb-ab49-4774-ad75-54ad47cf4e0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>tel</value>
-      <webElementGuid>94487937-5e97-4aec-8b57-fa34f31ed5d7</webElementGuid>
+      <webElementGuid>d3aa65bd-a3b9-4a82-83f8-bcdd3ceb7adc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>70ef1979-0063-481a-a433-ade0ce0886bb</webElementGuid>
+      <webElementGuid>975061b1-b927-4207-942c-092c63f52675</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-val-regex</name>
       <type>Main</type>
       <value>Not a valid phone number</value>
-      <webElementGuid>81bf076c-3821-4f77-9150-c07a8fd714aa</webElementGuid>
+      <webElementGuid>8975fe54-c5fd-4d50-a1d0-5a50ce190fd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-val-regex-pattern</name>
       <type>Main</type>
       <value>^\(?([0-9]{4})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$</value>
-      <webElementGuid>83488120-411d-4b86-9bf5-6e90a68d64aa</webElementGuid>
+      <webElementGuid>8e5d98df-f7c5-4c3a-ae25-e60121313150</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>Mobile Number is required</value>
-      <webElementGuid>609980be-8175-48f7-90a4-0f307d72d147</webElementGuid>
+      <webElementGuid>101ef16a-dace-4a91-9fca-38c49f6567c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>id</name>
       <type>Main</type>
       <value>PrimaryMobileNumber</value>
-      <webElementGuid>51b449fa-c2ec-4d2f-8041-e3b1bbdce9ae</webElementGuid>
+      <webElementGuid>879e82ac-1e13-46d9-8d4c-34b1e80b4a24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>name</name>
       <type>Main</type>
       <value>PrimaryMobileNumber</value>
-      <webElementGuid>5d198b9a-ef4f-4975-a17d-0ff175b138bb</webElementGuid>
+      <webElementGuid>0561480d-c55b-4bc9-8ecf-92e138c50b7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PrimaryMobileNumber&quot;)</value>
-      <webElementGuid>2fad4e39-a905-4e49-8c17-fe8c370abcd2</webElementGuid>
+      <webElementGuid>749a17fc-e5ce-41d0-87e1-f6e0805c565d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='PrimaryMobileNumber']</value>
-      <webElementGuid>43dfa648-d5aa-489f-9d0e-eb28793099da</webElementGuid>
+      <webElementGuid>e279b093-02ce-45ac-b4a3-8732cbfd6692</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='dvPersonalInfo']/form/div[3]/div[2]/input</value>
-      <webElementGuid>185932bd-8b7d-42ae-b59f-a5b4c8c14df6</webElementGuid>
+      <webElementGuid>553d9a79-0bea-4eea-9498-bdf2d468a3d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/input</value>
-      <webElementGuid>e7df0601-4d42-4b22-8727-553f03f8d9ae</webElementGuid>
+      <webElementGuid>8b018fe8-e324-4b63-8b05-6747b1622314</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'tel' and @id = 'PrimaryMobileNumber' and @name = 'PrimaryMobileNumber']</value>
-      <webElementGuid>85979b0c-51d5-4187-9bb7-5ad1e1184bdb</webElementGuid>
+      <webElementGuid>74e8631a-c373-4aa3-b88f-8774fa0887e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

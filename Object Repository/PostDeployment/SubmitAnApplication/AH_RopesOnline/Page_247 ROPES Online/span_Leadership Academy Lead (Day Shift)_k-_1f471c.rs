@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Leadership Academy Lead (Day Shift)_k-_1f471c</name>
+   <tag></tag>
+   <elementGuidId>9e29d9ce-c7c5-46fc-84b2-110f6091403c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-arrow-w</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='2b71eeb4-9a75-412e-b85f-e2cd5b2c143d']/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>79a7bc6d-8a58-4787-820a-64066535bc47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-w</value>
+      <webElementGuid>fae05604-2365-4931-af1a-f9fcd54404a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2b71eeb4-9a75-412e-b85f-e2cd5b2c143d&quot;)/div[@class=&quot;k-header&quot;]/a[@class=&quot;k-link k-nav-prev k-state-hover&quot;]/span[@class=&quot;k-icon k-i-arrow-w&quot;]</value>
+      <webElementGuid>5d66d1a1-2cda-4d5a-89f4-5449511fd064</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='2b71eeb4-9a75-412e-b85f-e2cd5b2c143d']/div/a/span</value>
+      <webElementGuid>ac6b07fb-ade3-4e10-bf78-6544fc780041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div/a/span</value>
+      <webElementGuid>224906ae-91fd-45d8-83c7-a0bfdf9591d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

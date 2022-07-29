@@ -3,7 +3,7 @@
    <description></description>
    <name>select_Select sales experienceYes - BPOYes _ae6c4e</name>
    <tag></tag>
-   <elementGuidId>f3a73031-0cb8-49fd-bd40-4bb4f3979f3f</elementGuidId>
+   <elementGuidId>4cce44bf-0b4f-4c7a-8f80-3d532a79ba38</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>82ea5c95-029f-460a-928b-c2f0e3ab958d</webElementGuid>
+      <webElementGuid>c8ff20b1-6c10-46af-a71e-977ef171c3ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-select form-text form-select-sm</value>
-      <webElementGuid>acd0c510-216d-451a-bee7-2341419b4578</webElementGuid>
+      <webElementGuid>184db821-5c00-4f26-b670-c78c4419f271</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>804addbe-f10e-44e8-b267-06c8474cb73c</webElementGuid>
+      <webElementGuid>696ae340-2d8c-4d64-9f1f-2e151463f83a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The ExperienceWithQuota field is required.</value>
-      <webElementGuid>fa4a154f-8705-4944-9c41-e5e85dc61d14</webElementGuid>
+      <webElementGuid>670d5e01-8f29-4fb8-828f-4f0fa114c689</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ExperienceWithQuota</value>
-      <webElementGuid>3feae56d-58b3-4419-890c-e553cdd1b46c</webElementGuid>
+      <webElementGuid>e334f4d9-024b-4c45-9cd6-253f6e667dd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>ExperienceWithQuota</value>
-      <webElementGuid>b6036cbb-73df-43a6-82c3-e4f689a0f6a0</webElementGuid>
+      <webElementGuid>1867cca9-d1eb-4c26-aa68-55b66d8bff14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -75,7 +75,7 @@ Yes - Non-BPO
 No - but OK w/ sales
 No - not OK w/ sales
 </value>
-      <webElementGuid>482ca15f-d8ac-472a-a5a3-8613924f9690</webElementGuid>
+      <webElementGuid>eca18940-eabe-4ba8-a7fe-c7eb77899f68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@ No - not OK w/ sales
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ExperienceWithQuota&quot;)</value>
-      <webElementGuid>a0991130-2bbd-471a-866d-d0650d49ee29</webElementGuid>
+      <webElementGuid>cbf9ba04-c16e-4cfa-99cb-ea001b8a1cf9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -91,7 +91,7 @@ No - not OK w/ sales
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='ExperienceWithQuota']</value>
-      <webElementGuid>0c676840-feea-4d9a-9995-90bc8c112919</webElementGuid>
+      <webElementGuid>8b274ea7-d11c-4234-ad87-e6ae1c7f13c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@ No - not OK w/ sales
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmApplicationDetails']/div[6]/select</value>
-      <webElementGuid>81cff289-148a-4a28-ad92-bda689cc2db3</webElementGuid>
+      <webElementGuid>801e8b69-8d91-4d92-9c2d-23dccf64c520</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@ No - not OK w/ sales
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you have sales experience (with quota)?'])[1]/following::select[1]</value>
-      <webElementGuid>2a979582-69c1-4494-b269-6a53cfe72c06</webElementGuid>
+      <webElementGuid>535459bc-c7fd-4556-9760-33f9eac85962</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@ No - not OK w/ sales
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/following::select[1]</value>
-      <webElementGuid>d518ad2c-2825-4be1-b842-617256dcadce</webElementGuid>
+      <webElementGuid>43aca1fc-22cb-4163-b3e1-79eba6f42a02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,15 +123,15 @@ No - not OK w/ sales
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you amenable to do BOTH Train/Work-from-Office (TFO/WFO) and Train/Work-from-Home (TFH/WFH)?'])[1]/preceding::select[1]</value>
-      <webElementGuid>ca71f5f0-ff10-4623-9e52-5dc5d82ad982</webElementGuid>
+      <webElementGuid>cf510300-bac2-4c26-ab94-ec5be70f7530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is your current DOWNLOAD speed as shown from the app/website?'])[1]/preceding::select[3]</value>
-      <webElementGuid>12246c51-3b9d-4f73-a97f-5489157ae0f5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/preceding::select[2]</value>
+      <webElementGuid>3eca6453-5df6-4013-92ad-4b989369e291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,7 +139,7 @@ No - not OK w/ sales
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/select</value>
-      <webElementGuid>64619231-cdcc-472d-b435-761b48711382</webElementGuid>
+      <webElementGuid>536f60f3-b6f0-4c5d-88c9-4a34d2cfc707</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@ Yes - Non-BPO
 No - but OK w/ sales
 No - not OK w/ sales
 ')]</value>
-      <webElementGuid>def8dbdf-f4b7-4df3-976e-ce103b33464f</webElementGuid>
+      <webElementGuid>20659aaf-baec-4c28-ba86-fc58f6c09fe9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

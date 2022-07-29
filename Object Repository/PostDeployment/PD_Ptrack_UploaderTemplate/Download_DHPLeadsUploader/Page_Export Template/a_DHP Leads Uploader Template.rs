@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DHP Leads Uploader Template</name>
+   <tag></tag>
+   <elementGuidId>5b3e3569-cbf9-4c81-88e9-12bf79d10878</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder1_lnkbtnLeadsUploader</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_ContentPlaceHolder1_lnkbtnLeadsUploader']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0e328f8b-25d7-4a98-ba56-03e209d272a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder1_lnkbtnLeadsUploader</value>
+      <webElementGuid>957cb694-7a76-48f1-8b9b-bd4044b0797b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkbtnLeadsUploader','')</value>
+      <webElementGuid>c0904921-ec2c-4096-a049-a865b4dfd6ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DHP Leads Uploader Template</value>
+      <webElementGuid>5eaec5b2-8b82-44e1-b53f-2026e7e607a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder1_lnkbtnLeadsUploader&quot;)</value>
+      <webElementGuid>1e2dde9c-cdcb-4f94-872a-e9c3b67c6635</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_ContentPlaceHolder1_lnkbtnLeadsUploader']</value>
+      <webElementGuid>ec44e612-91be-4885-897a-475efdcd663c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/table[2]/tbody/tr/td/table/tbody/tr[15]/td[2]/a</value>
+      <webElementGuid>1ef99007-33cb-4d92-9552-f64dbd37340f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DHP Leads Uploader Template')]</value>
+      <webElementGuid>c0ba975e-4e51-4d8a-a55a-53a22a58bfca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PTRACK-DHP Recruiter Assignment and Status Update Template'])[1]/following::a[1]</value>
+      <webElementGuid>dd1c5c6c-cc6b-4518-89a6-5efc15c8a93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI'])[1]/following::a[2]</value>
+      <webElementGuid>63f56d8e-0c81-4ca2-8905-04467461aaa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DHP Screener Assignment Template'])[1]/preceding::a[1]</value>
+      <webElementGuid>7edf3c15-3cd5-45c4-b31b-5de28c4365d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name :'])[1]/preceding::a[2]</value>
+      <webElementGuid>696e482a-dc62-4ba7-9f9f-f65065d61be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DHP Leads Uploader Template']/parent::*</value>
+      <webElementGuid>5af97df9-2e98-4f68-921f-80c614e01a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkbtnLeadsUploader','')&quot;)]</value>
+      <webElementGuid>6cddd7d8-ad64-48d2-b052-fdc6153d3e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[15]/td[2]/a</value>
+      <webElementGuid>92371829-12f9-4842-ac81-e66531fad9d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_ContentPlaceHolder1_lnkbtnLeadsUploader' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$ContentPlaceHolder1$lnkbtnLeadsUploader&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'DHP Leads Uploader Template' or . = 'DHP Leads Uploader Template')]</value>
+      <webElementGuid>72734a51-e7b0-42a3-87d1-9f5b9fe5d908</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>select_Select SiteOrtigasCyber SigmaPampang_717d2b</name>
    <tag></tag>
-   <elementGuidId>1caff727-a34f-4778-868c-b96f3da28c14</elementGuidId>
+   <elementGuidId>e7d0747d-a4eb-4ce0-bf56-b2769deab7a3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>5d516c05-2938-4d56-b522-f8f48d353b16</webElementGuid>
+      <webElementGuid>7ebff8b5-ac7e-4997-8626-d35041aa45ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-select form-text form-select-sm</value>
-      <webElementGuid>a8e34b2a-4ec9-4be4-9634-aa5eb57e3a53</webElementGuid>
+      <webElementGuid>1dd88627-0179-48c5-b874-34db489d92a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6d3a5082-406c-4f6c-b4db-cf8e2bfb8bfc</webElementGuid>
+      <webElementGuid>4ab7a964-67a0-420f-9a9a-621467005219</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>Please select your preferred work location</value>
-      <webElementGuid>39dd5ff8-efcc-40ca-8f09-7c462015e9fc</webElementGuid>
+      <webElementGuid>ad08c9c2-7ffb-4a0e-bb0f-f6f874c2b2c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>JobPreference_Site</value>
-      <webElementGuid>719d999e-c2ca-49e1-b78a-d344e196ef8a</webElementGuid>
+      <webElementGuid>18b43f43-a8bf-4224-bc9b-f633fc5bfb5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>JobPreference_Site</value>
-      <webElementGuid>66ff8d4a-2306-4b51-a122-9e5d84d0b36e</webElementGuid>
+      <webElementGuid>1a8697a2-14df-4e42-9663-f8d97866f77e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -75,7 +75,7 @@ Cyber Sigma
 Pampanga
 Cybergate
 </value>
-      <webElementGuid>57635e97-39c0-4037-a0c6-f7f1a4ca3225</webElementGuid>
+      <webElementGuid>009bd22c-e9d4-4fde-a9cd-c3e3f14b8062</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@ Cybergate
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;JobPreference_Site&quot;)</value>
-      <webElementGuid>3f0f4b26-1c56-4cfc-862b-f1de9e2c2eee</webElementGuid>
+      <webElementGuid>81b58010-24be-4860-bbf9-936487cf22b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -91,7 +91,7 @@ Cybergate
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='JobPreference_Site']</value>
-      <webElementGuid>c092119f-9213-419d-ac5f-b7b4bf54e623</webElementGuid>
+      <webElementGuid>116b90e1-5ac7-4669-b10b-b839f16ef015</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@ Cybergate
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmApplicationDetails']/div[2]/select</value>
-      <webElementGuid>c990ad1d-de13-4f77-a7a4-c6a2b87c943c</webElementGuid>
+      <webElementGuid>cc0e1d6c-433a-4206-bc71-a8a35a38b2d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@ Cybergate
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Where is your preferred work location?'])[1]/following::select[1]</value>
-      <webElementGuid>192e3784-de32-440d-8acc-2a4c106a0e17</webElementGuid>
+      <webElementGuid>cf93a725-293c-49cd-9f93-bc91557a5971</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@ Cybergate
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='How many months/years of BPO Experience do you have?'])[1]/following::select[2]</value>
-      <webElementGuid>a16b9459-fbe8-4448-be84-dd3762994d66</webElementGuid>
+      <webElementGuid>434a5ac4-65e9-4c89-ba12-f1509752f6d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@ Cybergate
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you have your own Laptop or PC ?'])[1]/preceding::select[2]</value>
-      <webElementGuid>0e29ddcd-36be-43f1-8efd-eac05ea27975</webElementGuid>
+      <webElementGuid>62f60369-d3f1-47ca-982f-11db31219a73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@ Cybergate
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::select[2]</value>
-      <webElementGuid>b59aecbd-7831-47a9-994b-47e9d3d79889</webElementGuid>
+      <webElementGuid>59bc2be7-9d67-461f-b96b-62a737d233c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,7 +139,7 @@ Cybergate
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/select</value>
-      <webElementGuid>8e61e5a6-e185-4257-a619-cf378c482111</webElementGuid>
+      <webElementGuid>f77aeb07-a2f4-4e79-9730-8db0660e0403</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@ Cyber Sigma
 Pampanga
 Cybergate
 ')]</value>
-      <webElementGuid>697c5352-b83d-48d0-8000-7155e46a47cd</webElementGuid>
+      <webElementGuid>3c6e64ee-de18-4db0-8640-87f36eb2b297</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

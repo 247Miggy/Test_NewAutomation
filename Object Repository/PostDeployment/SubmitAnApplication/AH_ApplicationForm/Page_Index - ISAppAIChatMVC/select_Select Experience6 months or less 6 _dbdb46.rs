@@ -3,7 +3,7 @@
    <description></description>
    <name>select_Select Experience6 months or less 6 _dbdb46</name>
    <tag></tag>
-   <elementGuidId>bc3aa3b5-9ec8-4ee7-8324-a812d0c71771</elementGuidId>
+   <elementGuidId>e35b63e4-2e5f-46c6-a7f8-7fed2fef3ee7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>d2304cf5-a87f-4e52-bc3c-4c1cb42b1291</webElementGuid>
+      <webElementGuid>0dd20abe-f7c5-46ad-8883-b8827dcfc8ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-select form-text form-select-sm</value>
-      <webElementGuid>ea76b775-7398-4a0e-be74-c42ab2a5befa</webElementGuid>
+      <webElementGuid>ad2cbca3-d477-4229-ba67-13ad26b774e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>89715374-617f-44e3-9d4b-b8ccfab36224</webElementGuid>
+      <webElementGuid>56ddeb98-de54-4fcf-a69e-b7bfa74d322d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>BPO Experience is required</value>
-      <webElementGuid>71b1ee6c-1abb-4394-a649-6fc8fca7b401</webElementGuid>
+      <webElementGuid>c31fbd33-4a60-4e2e-b8e1-98d036efe1e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>BPOExperience</value>
-      <webElementGuid>52f86012-0395-476d-9289-fc265e187048</webElementGuid>
+      <webElementGuid>1819cd1c-06a5-432a-9ba1-133b32a70327</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>BPOExperience</value>
-      <webElementGuid>1965f15d-546d-4ec1-9e07-025e72e9e604</webElementGuid>
+      <webElementGuid>24b48c3e-75c5-4da9-b563-720d4d834936</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
 > 3 years to 4 years
 > 4 years
 </value>
-      <webElementGuid>140ef1d4-0701-4950-887e-9638764d2581</webElementGuid>
+      <webElementGuid>7786d414-d847-4483-9097-718a2da11463</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;BPOExperience&quot;)</value>
-      <webElementGuid>8d6d2d97-41b3-4370-abb1-1567f0b87aab</webElementGuid>
+      <webElementGuid>a570844d-c6f4-4386-b0c9-f86510ff16c7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='BPOExperience']</value>
-      <webElementGuid>a9b01df1-c99e-40e0-95fa-ea87b864c585</webElementGuid>
+      <webElementGuid>430946d9-d94b-4570-a86f-699052bc8736</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmApplicationDetails']/div/select</value>
-      <webElementGuid>7396cfca-080b-4583-a6b2-220279873c39</webElementGuid>
+      <webElementGuid>04660ced-470d-4700-95cb-a8669894c4a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='How many months/years of BPO Experience do you have?'])[1]/following::select[1]</value>
-      <webElementGuid>9a4c2304-2603-4b96-b473-26a6920c4319</webElementGuid>
+      <webElementGuid>dee47e9f-777d-4a8c-ae07-474a91f2590f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::select[1]</value>
-      <webElementGuid>1114dc49-3e4a-4291-ad3e-d5aff5e9c2df</webElementGuid>
+      <webElementGuid>54e89570-687d-42a4-8e23-e01bd83c29e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Where is your preferred work location?'])[1]/preceding::select[1]</value>
-      <webElementGuid>8bd50fac-6805-4163-a625-d729f5fdfbe0</webElementGuid>
+      <webElementGuid>e2365299-17df-40d3-bd0a-382c9c9c2f57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you have your own Laptop or PC ?'])[1]/preceding::select[3]</value>
-      <webElementGuid>485af644-726a-4c42-8b02-33eb82c0162d</webElementGuid>
+      <webElementGuid>4671b00c-4773-43b5-965e-a1dccd1370c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/div/select</value>
-      <webElementGuid>8101f3e6-415f-482b-a254-0088acbb7a64</webElementGuid>
+      <webElementGuid>5ccc0452-e586-418a-b268-f3166a9489b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -163,6 +163,6 @@
 > 3 years to 4 years
 > 4 years
 ')]</value>
-      <webElementGuid>d6b9228a-e125-4eb2-8371-68e7cae45de8</webElementGuid>
+      <webElementGuid>3cac212f-209f-4368-b15d-4f5c65745c99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

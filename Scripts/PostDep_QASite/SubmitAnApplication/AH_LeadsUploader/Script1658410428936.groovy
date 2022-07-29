@@ -17,3 +17,37 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/applicare/#/Login')
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
+
+WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Page_Applicare/input_Username_form-control ng-untouched ng_694036'), 
+    'P24717737')
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
+    'nB2dBQqcd2HH1jA4cQPLYA==')
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Page_Applicare/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Page_Applicare/a_file_uploadUploader'))
+
+WebUI.switchToWindowTitle('Ptrack Uploader')
+
+WebUI.navigateToUrl('https://ph247irisqa.247-inc.com/webportal/MemberPages/CBMG/ApplicantTracking/PeopleTrackUploader/PTrackUploader.aspx')
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Page_Ptrack Uploader/a_DHP Leads Uploader'))
+
+WebUI.uploadFile(findTestObject('PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Btn_UploaderFile/Page_Ptrack Uploader/input_Select file_ctl00ContentPlaceHolder1FileUpload1'), 
+    'C:\\Users\\jose.sanchez\\Documents\\TESTDATA\\PtrackFileUploader\\DHP_LeadsUploader_Template_v2.xls')
+
+WebUI.getAttribute(findTestObject('PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Btn_UploaderFile/Page_Ptrack Uploader/input_Select file_ctl00ContentPlaceHolder1FileUpload1'), 
+    'DHP_LeadsUploader_Template_v2.xls')
+
+WebUI.click(findTestObject('PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Leads_UploaderButton/Page_Ptrack Uploader/input_Select file_ctl00ContentPlaceHolder1btnPreview'))
+
+WebUI.click(findTestObject('PostDeployment/SubmitAnApplication/AH_NAHLeadsUploader/Leads_UploaderButton/Page_Ptrack Uploader/input_Select file_ctl00ContentPlaceHolder1btnUploadLeads'))
+

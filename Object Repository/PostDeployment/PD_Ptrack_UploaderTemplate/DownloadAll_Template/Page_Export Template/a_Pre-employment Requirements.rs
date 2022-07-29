@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pre-employment Requirements</name>
+   <tag></tag>
+   <elementGuidId>63b76a6f-57f9-4d9b-823b-a9ad3187600a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder1_lnkbtnPreEmp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_ContentPlaceHolder1_lnkbtnPreEmp']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>43b2c87e-7bc2-4a64-aab2-52571291dfa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder1_lnkbtnPreEmp</value>
+      <webElementGuid>369107c8-38b3-4c0e-a301-805ead0dc404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkbtnPreEmp','')</value>
+      <webElementGuid>f3615c6e-44f5-4100-98d5-33c7bc43c4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pre-employment Requirements</value>
+      <webElementGuid>1b9e822f-c549-4570-b8e0-7246d94978e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder1_lnkbtnPreEmp&quot;)</value>
+      <webElementGuid>48e5912c-5310-4c3d-8789-6910fa3fe29a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_ContentPlaceHolder1_lnkbtnPreEmp']</value>
+      <webElementGuid>3c9a5b10-1cab-4121-8560-b62d84257a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/table[2]/tbody/tr/td/table/tbody/tr[12]/td[2]/a</value>
+      <webElementGuid>e5f58e22-5f90-4da8-82bd-7bfdc4632dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pre-employment Requirements')]</value>
+      <webElementGuid>7f02dbb3-a673-4124-8da8-98a8869e5569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Offer'])[1]/following::a[1]</value>
+      <webElementGuid>de4b6cb6-eb31-4f6c-95eb-19664697b3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Competency Based Interview (CBI)'])[1]/following::a[2]</value>
+      <webElementGuid>de390048-d1b1-42db-b991-608c48d479c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI'])[1]/preceding::a[1]</value>
+      <webElementGuid>5c52de79-398c-44d2-8f43-0b9ecac12a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PTRACK-DHP Recruiter Assignment and Status Update Template'])[1]/preceding::a[2]</value>
+      <webElementGuid>96597e75-9f03-4a5a-8149-3e7e2884f5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pre-employment Requirements']/parent::*</value>
+      <webElementGuid>c986673c-a455-433a-8f29-afd999653a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkbtnPreEmp','')&quot;)]</value>
+      <webElementGuid>50f1ec93-83a6-487e-876e-c12597ee3ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td[2]/a</value>
+      <webElementGuid>a6d261dc-2d12-4772-8159-6d39445ff8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_ContentPlaceHolder1_lnkbtnPreEmp' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$ContentPlaceHolder1$lnkbtnPreEmp&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Pre-employment Requirements' or . = 'Pre-employment Requirements')]</value>
+      <webElementGuid>2496517f-2e04-49fd-a843-c1c118645b37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

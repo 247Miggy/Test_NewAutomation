@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterA
 WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/div_escalator_warningApplicareUsernamePassw_006ffd'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/input_Password_form-control ng-untouched ng_8b7ecf'), 
-    'nB2dBQqcd2EcVwPhuqgMuQ==')
+    'nB2dBQqcd2HH1jA4cQPLYA==')
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/SMSCenter/FilterApplicant/FilterMessageContent/Page_Applicare/button_Login'))
 
