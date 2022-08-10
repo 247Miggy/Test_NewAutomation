@@ -16,17 +16,20 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/UAT Site/MyQueue_UATLink/LoginAndAddEmploymentSummaryv2_UAT</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>2cfa47b6-fb90-4f82-8086-c1978bbf2130</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/UAT Site/MyQueue_UATLink/LoginAndEditEmploymentSummary_UAT</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>328447fb-78fb-4320-baf8-805573d5134c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/UAT Site/MyQueue_UATLink/LoginAndRemoveEmploymentSummary_UAT</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

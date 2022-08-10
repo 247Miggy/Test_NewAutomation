@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>no Incomplete Questions will be displayed as the all application was able to complete chatbot</description>
    <name>LoginAndFilterIncompleteQuestions</name>
    <tag></tag>
    <comment></comment>

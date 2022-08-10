@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_-Select Educational Attainment-</name>
+   <tag></tag>
+   <elementGuidId>f9d6a53a-9f13-4879-b768-53d618e4e9c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-dropdown-wrap.k-state-default.k-state-hover.k-state-focused > span.k-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='divEducationalAttain']/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93508458-ab45-4d09-818c-1ea7b7c8d031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>fedb54fd-89ef-4452-a8b8-8aadc6079c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-input</value>
+      <webElementGuid>1da66421-aa08-4726-acfd-1d451471a8cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-Select Educational Attainment-</value>
+      <webElementGuid>b0303b4a-ca91-4c7d-98d6-c4d0b1807123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divEducationalAttain&quot;)/span[@class=&quot;k-widget k-dropdown k-header&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-input&quot;]</value>
+      <webElementGuid>71b2b6fe-326c-4dda-91db-78ec85874aa8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divEducationalAttain']/span/span/span</value>
+      <webElementGuid>504bdfb0-48de-46c4-bb1f-3206dccc15b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[3]/following::span[3]</value>
+      <webElementGuid>5c35a7ab-7243-4e14-baa7-7be2f96828a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[4]/preceding::span[1]</value>
+      <webElementGuid>1550f410-37df-4955-8d78-ba194a1f567a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Select Main Source-'])[1]/preceding::span[3]</value>
+      <webElementGuid>070eb207-2a4e-4ed5-a1f9-2e3bd7a651d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='-Select Educational Attainment-']/parent::*</value>
+      <webElementGuid>2c78b698-44fc-4b11-8823-47a1c4adc384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/span/span/span</value>
+      <webElementGuid>61c8c58d-c14c-4ff5-8590-d9c00892780a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '-Select Educational Attainment-' or . = '-Select Educational Attainment-')]</value>
+      <webElementGuid>1b7669e1-2a99-43bb-8d77-b5b20c8cbf64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

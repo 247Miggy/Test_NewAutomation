@@ -25,20 +25,20 @@ WebUI.setText(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_Ap
     'P24717737')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/UploadResume/Page_247.ai Chat/input_Password_Input.Password'), 
-    'nB2dBQqcd2EcVwPhuqgMuQ==')
+    'nB2dBQqcd2HH1jA4cQPLYA==')
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/UploadResume/Page_247.ai Chat/button_Log in'))
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/UploadResume/Page_247.ai Chat/button_Filter'))
 
 WebUI.setText(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/UploadResume/Page_247.ai Chat/input_Logout_nameSearch'), 
-    'Teaches')
+    'Aoko')
 
 WebUI.setText(findTestObject('PostDeployment/AI_Chat/AIChat_Date/Page_247.ai Chat/input_Not Qualified Vaccination Requirement_fromDate'), 
-    '24/04/2022')
+    '07/08/2022')
 
 WebUI.setText(findTestObject('PostDeployment/AI_Chat/AIChat_Date/Page_247.ai Chat/input_Not Qualified Vaccination Requirement_toDate'), 
-    '25/04/2022')
+    '10/08/2022')
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/Update_ApplicationDetails/UploadResume/Page_247.ai Chat/button_Filter'))
 

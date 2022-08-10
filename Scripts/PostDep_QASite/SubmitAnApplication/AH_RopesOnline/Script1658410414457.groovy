@@ -1,3 +1,8 @@
+
+//import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory as MobileDriverFactory
+//import io.appium.java_client.android.AndroidDriver as AndroidDriver
+//import io.appium.java_client.android.AndroidKeyCode as AndroidKeyCode
+
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
@@ -21,66 +26,64 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://careers-philippines.247-inc.com/qa-Ropes-Online')
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/span_-Select Site-'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/span_-Select Site-'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/li_Cyber Sigma'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/li_Cyber Sigma'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/span_-Select Position-'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/span_-Select Position-'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/li_Customer Support Representative (Day Shift)'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/li_Chat Support Representative'))
 
-WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/input_select_CompleteName.FirstName'), 
-    'Sasuke')
+WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/input_select_CompleteName.FirstName'), 
+    'Ichigo')
 
-WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/input_select_CompleteName.MiddleName'), 
+WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/input_select_CompleteName.MiddleName'), 
     'A')
 
-WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/input_I have no middle name_CompleteName.LastName'), 
-    'Uchiha')
+WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/input_I have no middle name_CompleteName.LastName'), 
+    'Kurosaki')
 
-WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/input_select_CompleteName.FirstName'), 
-    'Sasuke')
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/input_I have no middle name_Birthdate.Birthdate'))
 
-WebUI.setText(findTestObject('PostDeployment/SubmitAnApplication/RopesOnline_BirthdateandContactNo/Page_247 ROPES Online/input_I have no middle name_Birthdate.Birthdate'), 
-    '03/03/1989')
+//WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/input_I have no middle name_Birthdate.Birthdate'), 
+ //  '03/03/1989')
+Mobile.tap(findTestObject(‘Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/input_I have no middle name_Birthdate.Birthdate’), 0)
 
-WebUI.setText(findTestObject('PostDeployment/SubmitAnApplication/RopesOnline_BirthdateandContactNo/Page_247 ROPES Online/input_select_Contact.MobileNumber'), 
+AndroidDriver<?> driver = MobileDriverFactory.getDriver()
+driver.pressKeyCode(AndroidKeyCode.KEYCODE_0)
+driver.pressKeyCode(AndroidKeyCode.KEYCODE_3)
+driver.pressKeyCode(AndroidKeyCode.KEYCODE_/)
+driver.pressKeyCode(AndroidKeyCode.KEYCODE_0)
+driver.pressKeyCode(AndroidKeyCode.KEYCODE_3)
+driver.pressKeyCode(AndroidKeyCode.KEYCODE_/)
+driver.pressKeyCode(AndroidKeyCode.KEYCODE_1)
+driver.pressKeyCode(AndroidKeyCode.KEYCODE_9)
+driver.pressKeyCode(AndroidKeyCode.KEYCODE_8)
+driver.pressKeyCode(AndroidKeyCode.KEYCODE_9)
+
+
+
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/input_select_Contact.MobileNumber'))
+
+WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/input_select_Contact.MobileNumber'), 
     '177931009')
 
-WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/input_select_Contact.Email'), 
+WebUI.setText(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/input_select_Contact.Email'), 
     'jose.sanchez@247-inc.com')
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/span_-Select Educational Attainment-'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/span_-Select Educational Attainment-'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/li_BachelorsCollege Degree'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/li_BachelorsCollege Degree'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/span_-Select Main Source-'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/span_-Select Main Source-'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/li_Online'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/li_Advertisement'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/span_-Select Specific Source-'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/span_-Select Specific Source-'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/li_Bossjob'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/li_Flyers'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/div_reCAPTCHA_recaptcha-checkbox-border'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/div_reCAPTCHA_recaptcha-checkbox-border'))
 
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/img_motorcycles_rc-image-tile-33'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/img_motorcycles_rc-image-tile-33'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/img_motorcycles_rc-image-tile-33'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/img_motorcycles_rc-image-tile-33'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/img_motorcycles_rc-image-tile-33'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/img_motorcycles_rc-image-tile-33'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/button_Verify'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/button_Verify'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/div_id(katalon-rec_elementInfoDiv)'))
-
-WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnline/Page_247 ROPES Online/button_Submit Application'))
+WebUI.click(findTestObject('Object Repository/PostDeployment/SubmitAnApplication/AH_RopesOnlinev2/Page_247 ROPES Online/button_Submit Application'))
 

@@ -25,7 +25,7 @@ WebUI.setText(findTestObject('Object Repository/PostDeployment/AI_Chat/FIlter/Fi
     'P24717737')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/PostDeployment/AI_Chat/FIlter/Filter_Source/Page_247.ai Chat/input_Password_Input.Password'), 
-    'nB2dBQqcd2EcVwPhuqgMuQ==')
+    'nB2dBQqcd2HH1jA4cQPLYA==')
 
 WebUI.click(findTestObject('Object Repository/PostDeployment/AI_Chat/FIlter/Filter_Source/Page_247.ai Chat/button_Log in'))
 

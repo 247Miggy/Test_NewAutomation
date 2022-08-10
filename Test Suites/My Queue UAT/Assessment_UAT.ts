@@ -16,11 +16,13 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/UAT Site/MyQueue_UATLink/MyQueueAssessment_UAT/LoginAndAddAllAssessments_UAT</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>0bec6cd9-2498-4c6e-98e3-c24bfdd990a1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/UAT Site/MyQueue_UATLink/MyQueueAssessment_UAT/LoginAndAddSOPIBerlitzOnNotes_UAT</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

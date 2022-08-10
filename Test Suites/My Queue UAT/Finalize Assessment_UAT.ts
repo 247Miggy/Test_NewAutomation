@@ -16,11 +16,13 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/UAT Site/MyQueue_UATLink/MyQueue_FinalizeAssessment_UAT/LoginAndUpdateFromProcessingToCBIHire_UAT</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>d080e165-4b5a-4e27-9634-dfed6ac081a0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/UAT Site/MyQueue_UATLink/MyQueue_FinalizeAssessment_UAT/LoginUpdateFromCBIToJOAccepted_UAT</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
