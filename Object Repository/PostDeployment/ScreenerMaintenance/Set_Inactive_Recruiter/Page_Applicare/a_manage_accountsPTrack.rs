@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_manage_accountsPTrack</name>
+   <tag></tag>
+   <elementGuidId>502668e0-a1d1-443c-a3f4-c3272f024c1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='External Links'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.external-links > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0aae54a3-916b-45f1-bbd4-299fafa817bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c1fcd19e-08fb-4e5f-8946-742cee4d2f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ph247irisqa.247-inc.com/webportal/MemberPages/CBMG/ApplicantTracking/PeopleTrack/PeopleTrack.aspx</value>
+      <webElementGuid>9ea8a14f-9b38-41fd-baea-c0f72dee5dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>manage_accountsPTrack</value>
+      <webElementGuid>bef5ee9d-118a-48ce-a105-604a305f3f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-dhp-layout[1]/div[@class=&quot;d-flex&quot;]/app-sidebar[1]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-body mt-3&quot;]/div[@class=&quot;external-links-section&quot;]/section[1]/ul[@class=&quot;external-links&quot;]/li[1]/a[1]</value>
+      <webElementGuid>49c79c09-45ce-4616-b7ff-a76f5514ed46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='External Links'])[1]/following::a[1]</value>
+      <webElementGuid>a5d9120e-e71d-42eb-a135-64e077d7fe3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMS Center'])[1]/following::a[1]</value>
+      <webElementGuid>a7d0fbb0-903c-4b05-983e-ba67f60564ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uploader'])[1]/preceding::a[1]</value>
+      <webElementGuid>965a57c7-27ae-41a1-86a7-e38cae4bcfef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ph247irisqa.247-inc.com/webportal/MemberPages/CBMG/ApplicantTracking/PeopleTrack/PeopleTrack.aspx')]</value>
+      <webElementGuid>64411877-a678-4e1a-b0ef-73fcbded9989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li/a</value>
+      <webElementGuid>cea366a3-93f3-4827-bae4-3d2fdf19e3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ph247irisqa.247-inc.com/webportal/MemberPages/CBMG/ApplicantTracking/PeopleTrack/PeopleTrack.aspx' and (text() = 'manage_accountsPTrack' or . = 'manage_accountsPTrack')]</value>
+      <webElementGuid>4aad776b-8ffe-4878-97ad-42079bd329ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

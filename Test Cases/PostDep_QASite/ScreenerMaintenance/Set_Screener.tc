@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre-Condition: User type should not be a recruiter</description>
+   <name>Set_Screener</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96c2c626-aca6-4d45-8540-8bbbc3898449</testCaseGuid>
+</TestCaseEntity>

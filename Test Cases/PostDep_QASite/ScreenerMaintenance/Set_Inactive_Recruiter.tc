@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre-Condition: Recruiter shoul be active</description>
+   <name>Set_Inactive_Recruiter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5fc6a06-617e-461c-9f9c-e8d10ef49f75</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2000 - 2009</name>
+   <tag></tag>
+   <elementGuidId>3f8f23ac-7e63-4253-b024-ff7898efffaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.k-state-hover > a.k-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='f6a650bb-c4fc-4859-ab28-f1c8285f397f']/table/tbody/tr/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and (text() = '2000 - 2009' or . = '2000 - 2009')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dff7f14e-d312-447c-b145-aba04fe0f397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>e83a8093-5d40-4a25-92dc-fda9c3dda11d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-link</value>
+      <webElementGuid>843f60c0-88fb-44ba-b811-ef50ebfe084e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>c337a77d-b067-4337-9031-b637c1c728c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>2000/0/1</value>
+      <webElementGuid>a38aed1b-53f2-4f95-8e8c-c4ff7d573db4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2000 - 2009</value>
+      <webElementGuid>dc3c9f37-f872-4ec8-981f-342d16f33263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f6a650bb-c4fc-4859-ab28-f1c8285f397f&quot;)/table[@class=&quot;k-content k-meta-view&quot;]/tbody[1]/tr[1]/td[@class=&quot;k-state-hover&quot;]/a[@class=&quot;k-link&quot;]</value>
+      <webElementGuid>66aa1460-70ba-4fa6-9b9c-e34ccd55717b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='f6a650bb-c4fc-4859-ab28-f1c8285f397f']/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>32141fd4-ed15-48e0-9b81-1042a3accf69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'2000 - 2009')]</value>
+      <webElementGuid>b19d7596-6d75-401d-bea9-2cf4957c514f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruitment Assistant - Agent Hiring (Day Shift)'])[1]/following::a[5]</value>
+      <webElementGuid>1ad0f6d0-4f10-4f82-929f-a1714df87d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Network Services Engineer (Flexible Shift)'])[1]/following::a[5]</value>
+      <webElementGuid>39378d25-6712-4fc5-a556-54fe9ad6a256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Select Educational Attainment-'])[2]/preceding::a[11]</value>
+      <webElementGuid>286ec786-7ab9-4d64-b024-073647e9b219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[9]/preceding::a[11]</value>
+      <webElementGuid>39630685-2fa5-459c-b25e-db52cb7b7c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2000 - 2009']/parent::*</value>
+      <webElementGuid>114d5a58-aefd-45f3-92bb-a126a8151893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[8]</value>
+      <webElementGuid>27d03261-711d-4eaf-aecd-23db7ad01c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>7c0cd30e-8ba8-40e6-ab80-5db5fe5e7bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '2000 - 2009' or . = '2000 - 2009')]</value>
+      <webElementGuid>45b745f3-31d6-4a7f-a05f-2fcb4094cb43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

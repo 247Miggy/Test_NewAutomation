@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Recruitment Assistant - Agent Hiring (_4d19b7</name>
+   <tag></tag>
+   <elementGuidId>e18e1de0-9180-4e5c-9076-f5008a879194</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-arrow-w</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='f6578868-8d3b-4933-9c09-bc8bf05df5fd']/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad100836-053e-4196-a14a-a1d83af44212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-w</value>
+      <webElementGuid>1f21b2e8-7a19-4237-aaa1-07fee4684590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f6578868-8d3b-4933-9c09-bc8bf05df5fd&quot;)/div[@class=&quot;k-header&quot;]/a[@class=&quot;k-link k-nav-prev k-state-hover&quot;]/span[@class=&quot;k-icon k-i-arrow-w&quot;]</value>
+      <webElementGuid>bf2d956b-acfd-4ca0-aedb-ce4b21315d2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='f6578868-8d3b-4933-9c09-bc8bf05df5fd']/div/a/span</value>
+      <webElementGuid>1335d2dc-046e-43a7-8649-ae23d731e69e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div/a/span</value>
+      <webElementGuid>fb87f854-d310-4098-aa05-73877d33d975</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
